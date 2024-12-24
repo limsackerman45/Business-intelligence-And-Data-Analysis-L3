@@ -1,0 +1,2001 @@
+Numéro Étudiant,Nom,Prénom,Age,Filière,Email
+ST22086,Isy,Islande,31,Intelligence Artificielle,islande.isy@student.edu
+ST20156,Mohamed,Mohamed,35,Intelligence Artificielle,mohamed.mohamed@student.edu
+ST26976,Ilyas,Ilyas,26,Business,ilyas.ilyas@student.edu
+ST24605,Peniel,Peniel,21,Intelligence Artificielle,peniel.peniel@student.edu
+ST28350,Smith,John,22,Business,john.smith@student.edu
+ST29526,Baumbilia,John,29,Intelligence Artificielle,john.baumbilia@student.edu
+ST22715,Keenan,Christian,32,Business,christian.keenan@student.edu
+ST27297,Tommy,Raphael,30,Intelligence Artificielle,raphael.tommy@student.edu
+ST24373,Zahara,Fatima,32,Business,fatima.zahara@student.edu
+ST27568,Elimane,Elimane,23,Intelligence Artificielle,elimane.elimane@student.edu
+ST20404,Ibtissam,Ibtissam,29,Business,ibtissam.ibtissam@student.edu
+ST28233,Martinez,Theodore,34,Intelligence Artificielle,theodore.martinez@student.edu
+ST27493,Petit,Adam,31,Data Science,adam.petit@student.edu
+ST23418,Jones,Isabella,26,Cybersécurité,isabella.jones@student.edu
+ST24178,Andre,Theodore,29,Entrepreneuriat,theodore.andre@student.edu
+ST20236,Garnier,Léo,35,Management International,léo.garnier@student.edu
+ST24411,Jones,Mia,28,Marketing Digital,mia.jones@student.edu
+ST23106,Andre,Elijah,20,Management International,elijah.andre@student.edu
+ST28762,Johnson,Manon,24,Innovation Technologique,manon.johnson@student.edu
+ST20982,Laurent,Lucas,22,Innovation Technologique,lucas.laurent@student.edu
+ST26608,François,Amelia,29,Intelligence Artificielle,amelia.françois@student.edu
+ST20741,Garcia,Jules,24,Data Science,jules.garcia@student.edu
+ST29739,Johnson,Liam,28,Marketing Digital,liam.johnson@student.edu
+ST26855,Johnson,Theodore,22,Business,theodore.johnson@student.edu
+ST29540,Girard,Sarah,18,Data Science,sarah.girard@student.edu
+ST29868,Jones,Harper,19,Intelligence Artificielle,harper.jones@student.edu
+ST22330,Taylor,Sophia,19,Innovation Technologique,sophia.taylor@student.edu
+ST27412,Legrand,Clara,35,Innovation Technologique,clara.legrand@student.edu
+ST20641,Girard,Evelyn,33,Data Science,evelyn.girard@student.edu
+ST20373,Robert,Louis,18,Finance,louis.robert@student.edu
+ST24149,Legrand,Emma,32,Cybersécurité,emma.legrand@student.edu
+ST27263,Bonnet,Clara,25,Business,clara.bonnet@student.edu
+ST25503,Richard,Olivia,28,Management International,olivia.richard@student.edu
+ST24802,Anderson,Sofia,25,Cybersécurité,sofia.anderson@student.edu
+ST25858,Girard,Louis,22,Innovation Technologique,louis.girard@student.edu
+ST22681,Anderson,Mia,35,Management International,mia.anderson@student.edu
+ST26033,Garcia,Harper,23,Data Science,harper.garcia@student.edu
+ST24539,Michel,Camille,29,Finance,camille.michel@student.edu
+ST24996,Moore,Jules,24,Management International,jules.moore@student.edu
+ST25802,François,Theodore,27,Cybersécurité,theodore.françois@student.edu
+ST29897,Bernard,Louise,28,Entrepreneuriat,louise.bernard@student.edu
+ST22965,Petit,Harper,21,Cybersécurité,harper.petit@student.edu
+ST27358,Legrand,Henry,18,Data Science,henry.legrand@student.edu
+ST26920,Williams,Léo,27,Business,léo.williams@student.edu
+ST26789,Robert,Manon,33,Business,manon.robert@student.edu
+ST25210,Michel,Hugo,22,Marketing Digital,hugo.michel@student.edu
+ST28212,Moreau,Mia,30,Marketing Digital,mia.moreau@student.edu
+ST23818,Thomas,Hugo,33,Innovation Technologique,hugo.thomas@student.edu
+ST22577,David,Léa,25,Business,léa.david@student.edu
+ST23496,Garnier,Elijah,22,Intelligence Artificielle,elijah.garnier@student.edu
+ST23081,Thomas,Charlotte,20,Cybersécurité,charlotte.thomas@student.edu
+ST22408,Morel,Liam,18,Marketing Digital,liam.morel@student.edu
+ST24170,Andre,Nathan,29,Cybersécurité,nathan.andre@student.edu
+ST26215,Bonnet,Liam,35,Marketing Digital,liam.bonnet@student.edu
+ST21801,Girard,Louis,30,Marketing Digital,louis.girard@student.edu
+ST25182,Bertrand,Arthur,29,Management International,arthur.bertrand@student.edu
+ST20270,David,Sophia,24,Entrepreneuriat,sophia.david@student.edu
+ST22422,David,Sofia,30,Innovation Technologique,sofia.david@student.edu
+ST26447,Michel,Harper,34,Cybersécurité,harper.michel@student.edu
+ST21652,Moore,Isabella,34,Business,isabella.moore@student.edu
+ST24163,Mercier,Isabella,34,Entrepreneuriat,isabella.mercier@student.edu
+ST20366,Taylor,James,27,Intelligence Artificielle,james.taylor@student.edu
+ST21438,Fournier,Ethan,27,Management International,ethan.fournier@student.edu
+ST21625,Laurent,Léo,19,Entrepreneuriat,léo.laurent@student.edu
+ST28665,Laurent,Louise,29,Data Science,louise.laurent@student.edu
+ST29985,Andre,Evelyn,20,Business,evelyn.andre@student.edu
+ST27951,Legrand,Abigail,30,Innovation Technologique,abigail.legrand@student.edu
+ST24123,Thomas,William,20,Innovation Technologique,william.thomas@student.edu
+ST20650,Brown,Liam,31,Commerce International,liam.brown@student.edu
+ST25855,Faure,Chloé,21,Innovation Technologique,chloé.faure@student.edu
+ST27523,Wilson,Adam,24,Management International,adam.wilson@student.edu
+ST29748,David,Léo,19,Innovation Technologique,léo.david@student.edu
+ST23061,Michel,Clara,34,Marketing Digital,clara.michel@student.edu
+ST21059,Simon,Liam,32,Entrepreneuriat,liam.simon@student.edu
+ST27460,Moore,Olivia,30,Commerce International,olivia.moore@student.edu
+ST29758,Garnier,Jules,21,Management International,jules.garnier@student.edu
+ST23471,Anderson,Noah,23,Business,noah.anderson@student.edu
+ST20311,Johnson,Noah,26,Marketing Digital,noah.johnson@student.edu
+ST27009,Lefevre,Abigail,22,Intelligence Artificielle,abigail.lefevre@student.edu
+ST21328,Andre,Mia,32,Business,mia.andre@student.edu
+ST24753,Simon,Alice,33,Commerce International,alice.simon@student.edu
+ST28902,Lefevre,Camille,25,Cybersécurité,camille.lefevre@student.edu
+ST20303,Moreau,Jules,29,Data Science,jules.moreau@student.edu
+ST26712,Lefevre,Louis,34,Entrepreneuriat,louis.lefevre@student.edu
+ST26968,Vincent,Amelia,35,Data Science,amelia.vincent@student.edu
+ST23601,Bernard,Amelia,34,Entrepreneuriat,amelia.bernard@student.edu
+ST22164,Martinez,Léa,20,Business,léa.martinez@student.edu
+ST26248,Lefebvre,Adam,32,Entrepreneuriat,adam.lefebvre@student.edu
+ST23181,Martin,Noah,34,Intelligence Artificielle,noah.martin@student.edu
+ST22803,Fournier,Ethan,32,Management International,ethan.fournier@student.edu
+ST22311,Morel,Noah,30,Cybersécurité,noah.morel@student.edu
+ST27841,Richard,Olivia,29,Innovation Technologique,olivia.richard@student.edu
+ST23367,Vincent,Oliver,27,Finance,oliver.vincent@student.edu
+ST23197,Williams,Harper,25,Intelligence Artificielle,harper.williams@student.edu
+ST21269,Faure,Sarah,20,Data Science,sarah.faure@student.edu
+ST28268,Miller,Camille,22,Data Science,camille.miller@student.edu
+ST26262,Miller,Clara,21,Data Science,clara.miller@student.edu
+ST23660,Garcia,Louis,21,Data Science,louis.garcia@student.edu
+ST21261,Brown,Adam,22,Commerce International,adam.brown@student.edu
+ST27164,Miller,Inès,30,Marketing Digital,inès.miller@student.edu
+ST22818,Durand,Oliver,27,Finance,oliver.durand@student.edu
+ST20018,Lefebvre,Camille,28,Data Science,camille.lefebvre@student.edu
+ST27174,Williams,Emma,18,Marketing Digital,emma.williams@student.edu
+ST27959,Dubois,Léa,31,Management International,léa.dubois@student.edu
+ST26696,Miller,Charlotte,24,Cybersécurité,charlotte.miller@student.edu
+ST20146,Williams,Lucas,35,Innovation Technologique,lucas.williams@student.edu
+ST22112,Anderson,Inès,34,Innovation Technologique,inès.anderson@student.edu
+ST25001,Wilson,Isabella,29,Intelligence Artificielle,isabella.wilson@student.edu
+ST23247,Thomas,William,34,Commerce International,william.thomas@student.edu
+ST24428,Moreau,Evelyn,27,Marketing Digital,evelyn.moreau@student.edu
+ST25210,Moore,Ethan,18,Finance,ethan.moore@student.edu
+ST29657,Petit,Ethan,22,Management International,ethan.petit@student.edu
+ST21070,Bertrand,Manon,23,Intelligence Artificielle,manon.bertrand@student.edu
+ST27035,Anderson,Gabriel,26,Entrepreneuriat,gabriel.anderson@student.edu
+ST24015,Vincent,Jack,24,Business,jack.vincent@student.edu
+ST27482,Lefevre,Olivia,25,Cybersécurité,olivia.lefevre@student.edu
+ST25968,Garnier,Inès,30,Commerce International,inès.garnier@student.edu
+ST27281,Wilson,Theodore,21,Finance,theodore.wilson@student.edu
+ST25263,Brown,Inès,24,Management International,inès.brown@student.edu
+ST29018,Bertrand,James,18,Data Science,james.bertrand@student.edu
+ST26540,François,Arthur,32,Management International,arthur.françois@student.edu
+ST20079,Andre,Benjamin,27,Cybersécurité,benjamin.andre@student.edu
+ST25118,Bonnet,Abigail,26,Cybersécurité,abigail.bonnet@student.edu
+ST21022,Lefebvre,Mia,27,Innovation Technologique,mia.lefebvre@student.edu
+ST29956,Lefebvre,William,28,Data Science,william.lefebvre@student.edu
+ST29727,Moore,Olivia,30,Entrepreneuriat,olivia.moore@student.edu
+ST22307,Garnier,Inès,25,Entrepreneuriat,inès.garnier@student.edu
+ST24493,Richard,Liam,30,Finance,liam.richard@student.edu
+ST24572,Martin,Emma,31,Commerce International,emma.martin@student.edu
+ST24990,François,Inès,29,Entrepreneuriat,inès.françois@student.edu
+ST22687,Mercier,Camille,25,Commerce International,camille.mercier@student.edu
+ST23123,Jones,Gabriel,28,Business,gabriel.jones@student.edu
+ST23782,Legrand,Arthur,26,Intelligence Artificielle,arthur.legrand@student.edu
+ST26520,Wilson,Liam,33,Commerce International,liam.wilson@student.edu
+ST27455,Simon,Isabella,30,Intelligence Artificielle,isabella.simon@student.edu
+ST28698,Lefebvre,Gabriel,18,Management International,gabriel.lefebvre@student.edu
+ST27706,Taylor,Sarah,26,Marketing Digital,sarah.taylor@student.edu
+ST21699,Garnier,Nathan,20,Data Science,nathan.garnier@student.edu
+ST21613,Vincent,Sofia,32,Finance,sofia.vincent@student.edu
+ST28726,Moreau,Amelia,29,Data Science,amelia.moreau@student.edu
+ST27055,Andre,Clara,22,Cybersécurité,clara.andre@student.edu
+ST28092,Moore,Manon,21,Data Science,manon.moore@student.edu
+ST22469,David,Evelyn,21,Entrepreneuriat,evelyn.david@student.edu
+ST22489,Wilson,Jules,21,Finance,jules.wilson@student.edu
+ST25512,Laurent,Léo,35,Finance,léo.laurent@student.edu
+ST28040,Legrand,Emma,29,Intelligence Artificielle,emma.legrand@student.edu
+ST21562,Robert,Manon,27,Management International,manon.robert@student.edu
+ST27211,Martinez,William,32,Commerce International,william.martinez@student.edu
+ST23183,Jones,Charlotte,31,Finance,charlotte.jones@student.edu
+ST28529,Richard,Henry,27,Management International,henry.richard@student.edu
+ST27505,Petit,Charlotte,24,Cybersécurité,charlotte.petit@student.edu
+ST28048,Morel,Léo,19,Business,léo.morel@student.edu
+ST29428,Laurent,Nathan,20,Management International,nathan.laurent@student.edu
+ST28772,Faure,Mia,25,Business,mia.faure@student.edu
+ST22218,Martinez,Jules,27,Innovation Technologique,jules.martinez@student.edu
+ST24628,Laurent,Louise,34,Commerce International,louise.laurent@student.edu
+ST28716,Fournier,James,27,Business,james.fournier@student.edu
+ST29531,Morel,Gabriel,24,Business,gabriel.morel@student.edu
+ST29422,Morel,Jack,30,Commerce International,jack.morel@student.edu
+ST21559,Garcia,Henry,28,Finance,henry.garcia@student.edu
+ST26941,Girard,Jules,35,Cybersécurité,jules.girard@student.edu
+ST22768,Laurent,Emma,32,Commerce International,emma.laurent@student.edu
+ST27254,Michel,Alice,25,Entrepreneuriat,alice.michel@student.edu
+ST27766,Richard,Clara,20,Intelligence Artificielle,clara.richard@student.edu
+ST29688,Johnson,Charlotte,19,Marketing Digital,charlotte.johnson@student.edu
+ST27884,Moore,Harper,33,Cybersécurité,harper.moore@student.edu
+ST26243,Laurent,Abigail,18,Commerce International,abigail.laurent@student.edu
+ST27174,Moore,Clara,34,Cybersécurité,clara.moore@student.edu
+ST22048,Garnier,Alice,28,Business,alice.garnier@student.edu
+ST27930,Miller,Sofia,35,Data Science,sofia.miller@student.edu
+ST20994,Morel,Lucas,24,Data Science,lucas.morel@student.edu
+ST21749,Anderson,Oliver,31,Innovation Technologique,oliver.anderson@student.edu
+ST28466,Miller,Inès,32,Business,inès.miller@student.edu
+ST28403,Anderson,Evelyn,21,Management International,evelyn.anderson@student.edu
+ST20183,Morel,Camille,18,Entrepreneuriat,camille.morel@student.edu
+ST21876,Faure,Charlotte,31,Intelligence Artificielle,charlotte.faure@student.edu
+ST23465,Simon,Liam,21,Cybersécurité,liam.simon@student.edu
+ST29907,Moreau,Noah,35,Intelligence Artificielle,noah.moreau@student.edu
+ST23578,Fournier,Noah,26,Finance,noah.fournier@student.edu
+ST22680,Durand,Camille,21,Entrepreneuriat,camille.durand@student.edu
+ST27102,Garcia,Noah,23,Entrepreneuriat,noah.garcia@student.edu
+ST28758,Laurent,Lucas,35,Finance,lucas.laurent@student.edu
+ST21946,Durand,Arthur,34,Marketing Digital,arthur.durand@student.edu
+ST28186,Michel,Liam,20,Management International,liam.michel@student.edu
+ST27230,Robert,Sarah,24,Entrepreneuriat,sarah.robert@student.edu
+ST26778,Bernard,Sarah,29,Finance,sarah.bernard@student.edu
+ST25156,Anderson,Chloé,32,Marketing Digital,chloé.anderson@student.edu
+ST20910,Wilson,Emma,35,Finance,emma.wilson@student.edu
+ST27037,Moreau,Jack,33,Cybersécurité,jack.moreau@student.edu
+ST24187,Laurent,Arthur,25,Entrepreneuriat,arthur.laurent@student.edu
+ST22849,Thomas,Noah,34,Marketing Digital,noah.thomas@student.edu
+ST28207,Martinez,Harper,29,Management International,harper.martinez@student.edu
+ST27008,David,Clara,34,Data Science,clara.david@student.edu
+ST20992,Davis,Clara,24,Finance,clara.davis@student.edu
+ST20735,Brown,Sarah,28,Marketing Digital,sarah.brown@student.edu
+ST26712,Moore,Nathan,20,Commerce International,nathan.moore@student.edu
+ST25899,Fournier,Liam,19,Finance,liam.fournier@student.edu
+ST25395,Anderson,Chloé,26,Commerce International,chloé.anderson@student.edu
+ST23316,Mercier,William,24,Management International,william.mercier@student.edu
+ST20096,François,Henry,18,Finance,henry.françois@student.edu
+ST20795,Miller,Léa,31,Intelligence Artificielle,léa.miller@student.edu
+ST22859,Moreau,Theodore,30,Finance,theodore.moreau@student.edu
+ST27607,Faure,James,22,Commerce International,james.faure@student.edu
+ST21754,Simon,Clara,35,Finance,clara.simon@student.edu
+ST22829,David,Benjamin,34,Finance,benjamin.david@student.edu
+ST29714,François,Harper,21,Finance,harper.françois@student.edu
+ST20595,Lefevre,William,22,Data Science,william.lefevre@student.edu
+ST27954,Bertrand,Lucas,20,Cybersécurité,lucas.bertrand@student.edu
+ST27594,Roux,Henry,18,Business,henry.roux@student.edu
+ST29418,Simon,Sophia,18,Intelligence Artificielle,sophia.simon@student.edu
+ST25064,Jones,Hugo,34,Finance,hugo.jones@student.edu
+ST23445,Mercier,Gabriel,19,Cybersécurité,gabriel.mercier@student.edu
+ST23359,Mercier,Nathan,21,Intelligence Artificielle,nathan.mercier@student.edu
+ST21245,Faure,Abigail,24,Cybersécurité,abigail.faure@student.edu
+ST26898,Garnier,Chloé,29,Business,chloé.garnier@student.edu
+ST20341,Moore,Chloé,29,Management International,chloé.moore@student.edu
+ST29093,Davis,Léo,18,Innovation Technologique,léo.davis@student.edu
+ST21524,Garcia,Louis,30,Data Science,louis.garcia@student.edu
+ST22046,Lefebvre,James,34,Intelligence Artificielle,james.lefebvre@student.edu
+ST25496,Thomas,Henry,25,Commerce International,henry.thomas@student.edu
+ST27657,Simon,Jack,20,Cybersécurité,jack.simon@student.edu
+ST21775,Simon,Oliver,22,Intelligence Artificielle,oliver.simon@student.edu
+ST28744,Bernard,Oliver,35,Commerce International,oliver.bernard@student.edu
+ST29536,Garcia,Hugo,32,Intelligence Artificielle,hugo.garcia@student.edu
+ST27191,Lefevre,Louis,31,Management International,louis.lefevre@student.edu
+ST27112,Girard,Léa,28,Data Science,léa.girard@student.edu
+ST21068,Michel,Alice,20,Commerce International,alice.michel@student.edu
+ST26815,Robert,Chloé,19,Entrepreneuriat,chloé.robert@student.edu
+ST29832,Taylor,Liam,18,Finance,liam.taylor@student.edu
+ST29221,Robert,Theodore,35,Innovation Technologique,theodore.robert@student.edu
+ST29563,Andre,Camille,32,Finance,camille.andre@student.edu
+ST24523,Laurent,Louise,34,Business,louise.laurent@student.edu
+ST21454,Girard,Emma,18,Data Science,emma.girard@student.edu
+ST28362,Brown,Emma,25,Cybersécurité,emma.brown@student.edu
+ST26355,Brown,Nathan,29,Marketing Digital,nathan.brown@student.edu
+ST27089,Durand,Amelia,27,Cybersécurité,amelia.durand@student.edu
+ST25176,Girard,Chloé,20,Intelligence Artificielle,chloé.girard@student.edu
+ST29756,Lefevre,William,30,Commerce International,william.lefevre@student.edu
+ST26395,Wilson,Léo,33,Management International,léo.wilson@student.edu
+ST26208,Fournier,Nathan,20,Cybersécurité,nathan.fournier@student.edu
+ST21570,Mercier,Arthur,18,Business,arthur.mercier@student.edu
+ST20491,Moreau,Abigail,18,Management International,abigail.moreau@student.edu
+ST21058,Brown,Ethan,27,Entrepreneuriat,ethan.brown@student.edu
+ST28275,Lefevre,Jack,33,Marketing Digital,jack.lefevre@student.edu
+ST23323,François,Adam,25,Intelligence Artificielle,adam.françois@student.edu
+ST21901,Dubois,Hugo,25,Data Science,hugo.dubois@student.edu
+ST20795,Brown,Mia,27,Finance,mia.brown@student.edu
+ST28342,Laurent,Nathan,24,Marketing Digital,nathan.laurent@student.edu
+ST25621,Durand,Harper,19,Data Science,harper.durand@student.edu
+ST26654,Robert,Charlotte,32,Intelligence Artificielle,charlotte.robert@student.edu
+ST24886,Girard,Elijah,27,Marketing Digital,elijah.girard@student.edu
+ST20498,Simon,William,27,Business,william.simon@student.edu
+ST23268,Girard,Amelia,22,Innovation Technologique,amelia.girard@student.edu
+ST22860,Simon,Sophia,25,Data Science,sophia.simon@student.edu
+ST24428,David,Liam,34,Marketing Digital,liam.david@student.edu
+ST22700,Martin,Emma,27,Commerce International,emma.martin@student.edu
+ST27432,Bertrand,Theodore,20,Commerce International,theodore.bertrand@student.edu
+ST23809,Johnson,Elijah,20,Marketing Digital,elijah.johnson@student.edu
+ST24201,Laurent,Léa,23,Commerce International,léa.laurent@student.edu
+ST27574,Bertrand,Benjamin,29,Commerce International,benjamin.bertrand@student.edu
+ST22195,Dubois,Hugo,26,Innovation Technologique,hugo.dubois@student.edu
+ST20410,David,William,35,Innovation Technologique,william.david@student.edu
+ST22722,Anderson,Manon,18,Business,manon.anderson@student.edu
+ST24262,Moreau,Amelia,30,Business,amelia.moreau@student.edu
+ST22511,Moore,Alice,19,Marketing Digital,alice.moore@student.edu
+ST24010,Durand,James,35,Intelligence Artificielle,james.durand@student.edu
+ST24112,Johnson,Sophia,25,Data Science,sophia.johnson@student.edu
+ST23396,Mercier,William,22,Management International,william.mercier@student.edu
+ST22133,Anderson,Mia,32,Commerce International,mia.anderson@student.edu
+ST24275,David,Alice,20,Data Science,alice.david@student.edu
+ST29369,Davis,Isabella,33,Management International,isabella.davis@student.edu
+ST21379,Taylor,Alice,21,Cybersécurité,alice.taylor@student.edu
+ST23153,Martinez,Ethan,28,Entrepreneuriat,ethan.martinez@student.edu
+ST26165,Moore,Jules,27,Cybersécurité,jules.moore@student.edu
+ST26145,François,Benjamin,34,Data Science,benjamin.françois@student.edu
+ST27131,Martinez,Inès,32,Commerce International,inès.martinez@student.edu
+ST26302,Johnson,Abigail,28,Management International,abigail.johnson@student.edu
+ST20589,Moreau,Charlotte,19,Marketing Digital,charlotte.moreau@student.edu
+ST27113,Andre,Mia,33,Finance,mia.andre@student.edu
+ST25029,Martin,Sophia,22,Data Science,sophia.martin@student.edu
+ST22244,Lefebvre,Lucas,34,Finance,lucas.lefebvre@student.edu
+ST25887,Jones,Abigail,23,Intelligence Artificielle,abigail.jones@student.edu
+ST27842,Andre,Léa,30,Entrepreneuriat,léa.andre@student.edu
+ST23280,Moore,Abigail,28,Data Science,abigail.moore@student.edu
+ST29050,Roux,Henry,32,Marketing Digital,henry.roux@student.edu
+ST20195,Laurent,Inès,18,Intelligence Artificielle,inès.laurent@student.edu
+ST28433,Bonnet,Liam,35,Business,liam.bonnet@student.edu
+ST23150,Taylor,Inès,35,Intelligence Artificielle,inès.taylor@student.edu
+ST25627,Simon,Lucas,28,Innovation Technologique,lucas.simon@student.edu
+ST26897,Michel,Isabella,32,Marketing Digital,isabella.michel@student.edu
+ST28310,Jones,Evelyn,32,Management International,evelyn.jones@student.edu
+ST24184,Morel,Emma,28,Marketing Digital,emma.morel@student.edu
+ST28053,Fournier,Evelyn,27,Entrepreneuriat,evelyn.fournier@student.edu
+ST21815,Durand,Hugo,35,Business,hugo.durand@student.edu
+ST29921,Brown,Evelyn,28,Commerce International,evelyn.brown@student.edu
+ST28758,Vincent,Nathan,26,Finance,nathan.vincent@student.edu
+ST23092,Garnier,Arthur,18,Business,arthur.garnier@student.edu
+ST29957,Garcia,Olivia,18,Marketing Digital,olivia.garcia@student.edu
+ST20397,Simon,Elijah,30,Entrepreneuriat,elijah.simon@student.edu
+ST21047,Roux,Olivia,23,Cybersécurité,olivia.roux@student.edu
+ST20013,Jones,Léo,26,Data Science,léo.jones@student.edu
+ST23322,Andre,Benjamin,21,Management International,benjamin.andre@student.edu
+ST21568,Martinez,Jack,31,Intelligence Artificielle,jack.martinez@student.edu
+ST29325,Moore,Léo,19,Marketing Digital,léo.moore@student.edu
+ST26394,Bernard,Lucas,29,Management International,lucas.bernard@student.edu
+ST23123,Andre,Léa,24,Innovation Technologique,léa.andre@student.edu
+ST25172,Legrand,Camille,18,Business,camille.legrand@student.edu
+ST24293,Lefebvre,Sofia,20,Data Science,sofia.lefebvre@student.edu
+ST25504,François,Louis,31,Business,louis.françois@student.edu
+ST25856,Moreau,Adam,32,Marketing Digital,adam.moreau@student.edu
+ST22200,Girard,Gabriel,24,Finance,gabriel.girard@student.edu
+ST27939,Laurent,Jules,28,Cybersécurité,jules.laurent@student.edu
+ST22454,Garcia,Olivia,32,Management International,olivia.garcia@student.edu
+ST21475,Vincent,Benjamin,35,Finance,benjamin.vincent@student.edu
+ST21969,Brown,Oliver,18,Data Science,oliver.brown@student.edu
+ST27696,Mercier,Louis,18,Innovation Technologique,louis.mercier@student.edu
+ST26806,Legrand,Sarah,23,Business,sarah.legrand@student.edu
+ST27197,Bertrand,Sarah,33,Innovation Technologique,sarah.bertrand@student.edu
+ST27151,Michel,Benjamin,27,Commerce International,benjamin.michel@student.edu
+ST26207,Michel,Benjamin,30,Data Science,benjamin.michel@student.edu
+ST28270,Bertrand,Isabella,26,Data Science,isabella.bertrand@student.edu
+ST27808,Girard,Liam,22,Cybersécurité,liam.girard@student.edu
+ST20934,Legrand,Jack,21,Cybersécurité,jack.legrand@student.edu
+ST28020,Jones,Arthur,35,Management International,arthur.jones@student.edu
+ST29546,Williams,Henry,26,Data Science,henry.williams@student.edu
+ST22030,Moreau,Jack,19,Commerce International,jack.moreau@student.edu
+ST23752,Mercier,Harper,19,Data Science,harper.mercier@student.edu
+ST29763,David,Lucas,34,Marketing Digital,lucas.david@student.edu
+ST23726,François,Adam,27,Business,adam.françois@student.edu
+ST22127,Williams,Léa,25,Commerce International,léa.williams@student.edu
+ST21613,Robert,William,31,Finance,william.robert@student.edu
+ST24905,Bonnet,Noah,25,Business,noah.bonnet@student.edu
+ST24170,Johnson,Nathan,33,Finance,nathan.johnson@student.edu
+ST21179,Girard,Sophia,18,Marketing Digital,sophia.girard@student.edu
+ST21965,Girard,Chloé,27,Commerce International,chloé.girard@student.edu
+ST23062,Williams,Henry,20,Finance,henry.williams@student.edu
+ST22228,Garnier,Chloé,30,Finance,chloé.garnier@student.edu
+ST21230,Fournier,Evelyn,21,Cybersécurité,evelyn.fournier@student.edu
+ST20635,Garcia,William,31,Data Science,william.garcia@student.edu
+ST28920,Lefevre,Sarah,35,Finance,sarah.lefevre@student.edu
+ST29083,Legrand,Louis,29,Finance,louis.legrand@student.edu
+ST25974,Jones,Manon,30,Commerce International,manon.jones@student.edu
+ST27877,Johnson,Arthur,24,Cybersécurité,arthur.johnson@student.edu
+ST27493,Johnson,Sarah,31,Commerce International,sarah.johnson@student.edu
+ST27373,Bertrand,Jack,22,Entrepreneuriat,jack.bertrand@student.edu
+ST26351,Bertrand,Léa,35,Data Science,léa.bertrand@student.edu
+ST22555,Andre,Sarah,29,Finance,sarah.andre@student.edu
+ST28324,Mercier,Theodore,30,Cybersécurité,theodore.mercier@student.edu
+ST27186,Durand,Hugo,27,Management International,hugo.durand@student.edu
+ST20254,Bonnet,Charlotte,35,Entrepreneuriat,charlotte.bonnet@student.edu
+ST21850,Lefebvre,Ethan,20,Finance,ethan.lefebvre@student.edu
+ST23686,Legrand,Clara,29,Finance,clara.legrand@student.edu
+ST22538,David,Sarah,20,Management International,sarah.david@student.edu
+ST29604,Miller,Lucas,21,Finance,lucas.miller@student.edu
+ST25817,Moreau,Amelia,34,Commerce International,amelia.moreau@student.edu
+ST23145,Moore,Inès,18,Marketing Digital,inès.moore@student.edu
+ST26836,Legrand,Henry,29,Cybersécurité,henry.legrand@student.edu
+ST20031,Lefebvre,Louis,18,Intelligence Artificielle,louis.lefebvre@student.edu
+ST28952,Lefevre,Alice,34,Intelligence Artificielle,alice.lefevre@student.edu
+ST21089,Moore,Alice,27,Management International,alice.moore@student.edu
+ST22542,Garnier,Inès,32,Intelligence Artificielle,inès.garnier@student.edu
+ST24814,Fournier,Camille,25,Marketing Digital,camille.fournier@student.edu
+ST28523,Vincent,Gabriel,25,Business,gabriel.vincent@student.edu
+ST29083,Moore,Olivia,29,Data Science,olivia.moore@student.edu
+ST23615,Taylor,Clara,27,Management International,clara.taylor@student.edu
+ST25998,Laurent,Elijah,27,Innovation Technologique,elijah.laurent@student.edu
+ST28594,Andre,Harper,28,Marketing Digital,harper.andre@student.edu
+ST29225,Bertrand,Louis,27,Entrepreneuriat,louis.bertrand@student.edu
+ST23025,Garcia,James,26,Business,james.garcia@student.edu
+ST22989,Bernard,Evelyn,32,Data Science,evelyn.bernard@student.edu
+ST28392,Wilson,Louis,33,Management International,louis.wilson@student.edu
+ST29069,Laurent,Noah,25,Finance,noah.laurent@student.edu
+ST23284,Robert,Jules,25,Marketing Digital,jules.robert@student.edu
+ST27874,Bertrand,Henry,21,Data Science,henry.bertrand@student.edu
+ST22473,Johnson,Henry,22,Business,henry.johnson@student.edu
+ST26697,Bertrand,Gabriel,30,Finance,gabriel.bertrand@student.edu
+ST25309,Garcia,Benjamin,32,Finance,benjamin.garcia@student.edu
+ST29628,Mercier,Hugo,25,Data Science,hugo.mercier@student.edu
+ST27730,Robert,Inès,28,Entrepreneuriat,inès.robert@student.edu
+ST23150,Jones,Ethan,21,Business,ethan.jones@student.edu
+ST24487,David,Noah,23,Entrepreneuriat,noah.david@student.edu
+ST23891,Girard,Chloé,34,Marketing Digital,chloé.girard@student.edu
+ST28007,Thomas,Hugo,26,Cybersécurité,hugo.thomas@student.edu
+ST21264,Richard,Inès,28,Entrepreneuriat,inès.richard@student.edu
+ST27623,Miller,Léo,19,Cybersécurité,léo.miller@student.edu
+ST20210,Petit,Jules,26,Intelligence Artificielle,jules.petit@student.edu
+ST29962,François,Nathan,29,Finance,nathan.françois@student.edu
+ST26247,Michel,Chloé,21,Innovation Technologique,chloé.michel@student.edu
+ST28867,Taylor,Camille,34,Commerce International,camille.taylor@student.edu
+ST28968,Davis,Oliver,22,Data Science,oliver.davis@student.edu
+ST28303,Martin,Amelia,27,Entrepreneuriat,amelia.martin@student.edu
+ST28632,Jones,Manon,25,Intelligence Artificielle,manon.jones@student.edu
+ST29934,Vincent,Arthur,22,Finance,arthur.vincent@student.edu
+ST22452,François,Elijah,24,Commerce International,elijah.françois@student.edu
+ST24089,Bertrand,Louis,27,Finance,louis.bertrand@student.edu
+ST28179,Davis,Alice,18,Business,alice.davis@student.edu
+ST25703,Lefebvre,Manon,26,Finance,manon.lefebvre@student.edu
+ST28301,Robert,Lucas,27,Data Science,lucas.robert@student.edu
+ST27574,David,Benjamin,24,Management International,benjamin.david@student.edu
+ST26472,Brown,Jules,23,Intelligence Artificielle,jules.brown@student.edu
+ST29168,Bonnet,Liam,18,Marketing Digital,liam.bonnet@student.edu
+ST21742,Martin,Ethan,34,Cybersécurité,ethan.martin@student.edu
+ST20375,Johnson,Sophia,33,Intelligence Artificielle,sophia.johnson@student.edu
+ST22724,Mercier,Amelia,25,Business,amelia.mercier@student.edu
+ST24240,Legrand,Adam,19,Cybersécurité,adam.legrand@student.edu
+ST24320,Moore,Evelyn,25,Commerce International,evelyn.moore@student.edu
+ST24540,Johnson,Olivia,22,Marketing Digital,olivia.johnson@student.edu
+ST20663,Fournier,Evelyn,34,Finance,evelyn.fournier@student.edu
+ST24149,Martinez,Noah,23,Commerce International,noah.martinez@student.edu
+ST20387,Jones,James,33,Management International,james.jones@student.edu
+ST29941,Williams,Charlotte,18,Business,charlotte.williams@student.edu
+ST28404,Girard,Harper,27,Entrepreneuriat,harper.girard@student.edu
+ST23637,Lefevre,Chloé,35,Marketing Digital,chloé.lefevre@student.edu
+ST26871,Lefebvre,Arthur,35,Innovation Technologique,arthur.lefebvre@student.edu
+ST25472,Fournier,Theodore,22,Intelligence Artificielle,theodore.fournier@student.edu
+ST24518,Durand,Olivia,28,Marketing Digital,olivia.durand@student.edu
+ST25045,Bonnet,Amelia,22,Business,amelia.bonnet@student.edu
+ST27621,Morel,Jules,32,Intelligence Artificielle,jules.morel@student.edu
+ST23343,Dubois,Clara,18,Business,clara.dubois@student.edu
+ST28946,Bonnet,Theodore,19,Entrepreneuriat,theodore.bonnet@student.edu
+ST24358,Thomas,William,23,Intelligence Artificielle,william.thomas@student.edu
+ST28160,Bernard,Sarah,18,Management International,sarah.bernard@student.edu
+ST22341,Dubois,Alice,23,Marketing Digital,alice.dubois@student.edu
+ST21854,Garnier,Lucas,35,Business,lucas.garnier@student.edu
+ST20037,Taylor,Chloé,29,Innovation Technologique,chloé.taylor@student.edu
+ST24739,Martin,Chloé,21,Commerce International,chloé.martin@student.edu
+ST20214,Andre,Louis,20,Commerce International,louis.andre@student.edu
+ST29538,Durand,Liam,29,Innovation Technologique,liam.durand@student.edu
+ST29576,Moore,Camille,23,Finance,camille.moore@student.edu
+ST24807,Garcia,Lucas,26,Entrepreneuriat,lucas.garcia@student.edu
+ST20565,Vincent,Henry,29,Innovation Technologique,henry.vincent@student.edu
+ST21559,Michel,Charlotte,21,Marketing Digital,charlotte.michel@student.edu
+ST22490,Anderson,Louise,19,Entrepreneuriat,louise.anderson@student.edu
+ST20920,Petit,William,23,Management International,william.petit@student.edu
+ST25675,Taylor,Harper,21,Cybersécurité,harper.taylor@student.edu
+ST26914,Girard,Sofia,35,Data Science,sofia.girard@student.edu
+ST21068,Andre,Emma,28,Entrepreneuriat,emma.andre@student.edu
+ST28573,Bernard,William,28,Innovation Technologique,william.bernard@student.edu
+ST27322,Garcia,Clara,33,Finance,clara.garcia@student.edu
+ST26620,Vincent,Ethan,32,Cybersécurité,ethan.vincent@student.edu
+ST24914,Laurent,Amelia,21,Business,amelia.laurent@student.edu
+ST22381,Williams,Louise,20,Innovation Technologique,louise.williams@student.edu
+ST21646,Davis,Noah,28,Innovation Technologique,noah.davis@student.edu
+ST25930,Bernard,Sofia,18,Intelligence Artificielle,sofia.bernard@student.edu
+ST24534,Dubois,Liam,24,Business,liam.dubois@student.edu
+ST24692,Williams,Camille,34,Data Science,camille.williams@student.edu
+ST24859,Petit,Emma,25,Innovation Technologique,emma.petit@student.edu
+ST25022,Faure,Harper,25,Intelligence Artificielle,harper.faure@student.edu
+ST29036,Mercier,Oliver,31,Management International,oliver.mercier@student.edu
+ST26392,Legrand,Ethan,20,Business,ethan.legrand@student.edu
+ST25134,Thomas,Benjamin,21,Business,benjamin.thomas@student.edu
+ST29652,Garnier,Arthur,23,Cybersécurité,arthur.garnier@student.edu
+ST29762,Andre,Henry,34,Data Science,henry.andre@student.edu
+ST23905,Brown,Oliver,26,Entrepreneuriat,oliver.brown@student.edu
+ST29557,Bertrand,Oliver,24,Data Science,oliver.bertrand@student.edu
+ST26328,Johnson,Mia,21,Finance,mia.johnson@student.edu
+ST21396,Robert,Chloé,27,Business,chloé.robert@student.edu
+ST20436,Mercier,Abigail,31,Intelligence Artificielle,abigail.mercier@student.edu
+ST27194,Vincent,Benjamin,29,Marketing Digital,benjamin.vincent@student.edu
+ST24987,Anderson,Isabella,31,Marketing Digital,isabella.anderson@student.edu
+ST28444,Moore,Sophia,35,Business,sophia.moore@student.edu
+ST24525,Dubois,Arthur,26,Entrepreneuriat,arthur.dubois@student.edu
+ST27302,Davis,Mia,30,Innovation Technologique,mia.davis@student.edu
+ST25577,Faure,Sarah,31,Cybersécurité,sarah.faure@student.edu
+ST27570,Lefebvre,James,23,Finance,james.lefebvre@student.edu
+ST21146,Vincent,Liam,33,Data Science,liam.vincent@student.edu
+ST23808,Laurent,Olivia,35,Data Science,olivia.laurent@student.edu
+ST23138,Simon,Manon,35,Intelligence Artificielle,manon.simon@student.edu
+ST27391,Williams,James,29,Management International,james.williams@student.edu
+ST25497,Taylor,Chloé,22,Data Science,chloé.taylor@student.edu
+ST26819,Garnier,Adam,30,Entrepreneuriat,adam.garnier@student.edu
+ST28525,Legrand,Léo,22,Entrepreneuriat,léo.legrand@student.edu
+ST29186,Jones,Jack,23,Data Science,jack.jones@student.edu
+ST22096,Fournier,Lucas,29,Data Science,lucas.fournier@student.edu
+ST21650,Mercier,Sofia,32,Commerce International,sofia.mercier@student.edu
+ST29660,Michel,Noah,29,Intelligence Artificielle,noah.michel@student.edu
+ST22880,Martinez,Henry,23,Finance,henry.martinez@student.edu
+ST25549,Davis,Noah,33,Entrepreneuriat,noah.davis@student.edu
+ST27631,Andre,Arthur,33,Intelligence Artificielle,arthur.andre@student.edu
+ST26938,Richard,Noah,27,Management International,noah.richard@student.edu
+ST26856,Anderson,Amelia,20,Cybersécurité,amelia.anderson@student.edu
+ST29962,Moreau,Alice,34,Management International,alice.moreau@student.edu
+ST29939,Davis,Charlotte,35,Marketing Digital,charlotte.davis@student.edu
+ST24970,Legrand,Adam,25,Management International,adam.legrand@student.edu
+ST29453,Mercier,Sofia,20,Innovation Technologique,sofia.mercier@student.edu
+ST21597,Mercier,Lucas,31,Entrepreneuriat,lucas.mercier@student.edu
+ST28954,Brown,Olivia,29,Management International,olivia.brown@student.edu
+ST23888,Garcia,Oliver,18,Cybersécurité,oliver.garcia@student.edu
+ST27500,Garcia,Benjamin,32,Finance,benjamin.garcia@student.edu
+ST25712,Petit,Hugo,25,Business,hugo.petit@student.edu
+ST24403,Robert,Sarah,18,Innovation Technologique,sarah.robert@student.edu
+ST22804,Moreau,Amelia,21,Data Science,amelia.moreau@student.edu
+ST21522,Garcia,Elijah,23,Marketing Digital,elijah.garcia@student.edu
+ST25202,Garnier,Gabriel,33,Marketing Digital,gabriel.garnier@student.edu
+ST29431,Petit,Mia,29,Data Science,mia.petit@student.edu
+ST22816,Morel,Hugo,27,Commerce International,hugo.morel@student.edu
+ST24502,Martinez,Oliver,20,Marketing Digital,oliver.martinez@student.edu
+ST23908,Miller,Lucas,21,Marketing Digital,lucas.miller@student.edu
+ST25902,Martin,Léo,19,Management International,léo.martin@student.edu
+ST20632,Miller,Emma,33,Innovation Technologique,emma.miller@student.edu
+ST23920,Petit,Benjamin,32,Cybersécurité,benjamin.petit@student.edu
+ST27150,Durand,Abigail,19,Finance,abigail.durand@student.edu
+ST27179,Lefevre,Charlotte,31,Finance,charlotte.lefevre@student.edu
+ST20067,Petit,Inès,23,Management International,inès.petit@student.edu
+ST28724,Bertrand,Liam,18,Data Science,liam.bertrand@student.edu
+ST27343,Petit,Alice,33,Marketing Digital,alice.petit@student.edu
+ST20061,Faure,Olivia,25,Business,olivia.faure@student.edu
+ST26838,Bernard,Hugo,32,Marketing Digital,hugo.bernard@student.edu
+ST23565,Girard,Léa,33,Entrepreneuriat,léa.girard@student.edu
+ST28258,Moreau,Amelia,24,Marketing Digital,amelia.moreau@student.edu
+ST24157,Bernard,Nathan,29,Innovation Technologique,nathan.bernard@student.edu
+ST24331,Jones,Inès,25,Intelligence Artificielle,inès.jones@student.edu
+ST25942,Miller,Sofia,21,Finance,sofia.miller@student.edu
+ST23259,Laurent,Inès,25,Business,inès.laurent@student.edu
+ST23445,Mercier,Amelia,32,Cybersécurité,amelia.mercier@student.edu
+ST21130,Petit,Clara,33,Finance,clara.petit@student.edu
+ST24446,Taylor,Camille,34,Data Science,camille.taylor@student.edu
+ST24486,Garcia,Arthur,28,Commerce International,arthur.garcia@student.edu
+ST27993,Davis,Mia,27,Data Science,mia.davis@student.edu
+ST26345,Lefebvre,William,21,Innovation Technologique,william.lefebvre@student.edu
+ST20720,Vincent,Clara,20,Cybersécurité,clara.vincent@student.edu
+ST24652,Bonnet,Emma,21,Business,emma.bonnet@student.edu
+ST20098,Andre,Amelia,18,Business,amelia.andre@student.edu
+ST28202,Bertrand,Hugo,28,Commerce International,hugo.bertrand@student.edu
+ST26504,Michel,Arthur,28,Marketing Digital,arthur.michel@student.edu
+ST25931,Wilson,Gabriel,25,Business,gabriel.wilson@student.edu
+ST26220,Legrand,Benjamin,24,Innovation Technologique,benjamin.legrand@student.edu
+ST27023,Taylor,Sofia,22,Business,sofia.taylor@student.edu
+ST21872,Mercier,Henry,21,Management International,henry.mercier@student.edu
+ST25594,Andre,Olivia,22,Marketing Digital,olivia.andre@student.edu
+ST23443,Johnson,Isabella,22,Marketing Digital,isabella.johnson@student.edu
+ST27588,Brown,Manon,26,Marketing Digital,manon.brown@student.edu
+ST27605,Dubois,William,33,Cybersécurité,william.dubois@student.edu
+ST25599,Brown,Jack,34,Data Science,jack.brown@student.edu
+ST20098,Simon,William,25,Intelligence Artificielle,william.simon@student.edu
+ST27821,Martinez,Camille,35,Cybersécurité,camille.martinez@student.edu
+ST22273,David,Hugo,26,Intelligence Artificielle,hugo.david@student.edu
+ST21207,Durand,Abigail,21,Data Science,abigail.durand@student.edu
+ST22152,Faure,William,23,Data Science,william.faure@student.edu
+ST21605,Johnson,Isabella,25,Commerce International,isabella.johnson@student.edu
+ST20709,Martin,Amelia,26,Intelligence Artificielle,amelia.martin@student.edu
+ST22100,Bernard,Sarah,30,Entrepreneuriat,sarah.bernard@student.edu
+ST24227,Garnier,Amelia,21,Marketing Digital,amelia.garnier@student.edu
+ST29841,Roux,Theodore,28,Innovation Technologique,theodore.roux@student.edu
+ST24850,Garnier,Mia,20,Innovation Technologique,mia.garnier@student.edu
+ST20153,Bertrand,Theodore,22,Innovation Technologique,theodore.bertrand@student.edu
+ST27713,Garnier,Léo,28,Innovation Technologique,léo.garnier@student.edu
+ST23498,Roux,Lucas,18,Data Science,lucas.roux@student.edu
+ST26735,Jones,Hugo,29,Cybersécurité,hugo.jones@student.edu
+ST28368,Morel,Camille,25,Data Science,camille.morel@student.edu
+ST21675,Brown,Harper,30,Innovation Technologique,harper.brown@student.edu
+ST24064,David,Isabella,27,Management International,isabella.david@student.edu
+ST20492,Bernard,Abigail,32,Business,abigail.bernard@student.edu
+ST23036,Mercier,Emma,20,Cybersécurité,emma.mercier@student.edu
+ST23732,Martin,Hugo,19,Innovation Technologique,hugo.martin@student.edu
+ST20188,Thomas,Ethan,28,Management International,ethan.thomas@student.edu
+ST29182,Faure,Alice,24,Innovation Technologique,alice.faure@student.edu
+ST20207,Dubois,Liam,25,Marketing Digital,liam.dubois@student.edu
+ST20211,Garnier,James,30,Data Science,james.garnier@student.edu
+ST25328,Michel,Evelyn,18,Cybersécurité,evelyn.michel@student.edu
+ST23381,Miller,Theodore,18,Intelligence Artificielle,theodore.miller@student.edu
+ST26437,Davis,Ethan,32,Data Science,ethan.davis@student.edu
+ST27157,Laurent,Elijah,25,Marketing Digital,elijah.laurent@student.edu
+ST27721,Thomas,James,35,Commerce International,james.thomas@student.edu
+ST27880,David,Noah,20,Intelligence Artificielle,noah.david@student.edu
+ST29649,Taylor,Evelyn,18,Commerce International,evelyn.taylor@student.edu
+ST20825,Miller,Isabella,30,Innovation Technologique,isabella.miller@student.edu
+ST26860,Martinez,Alice,22,Finance,alice.martinez@student.edu
+ST29997,Petit,Harper,31,Cybersécurité,harper.petit@student.edu
+ST27268,Mercier,Isabella,30,Commerce International,isabella.mercier@student.edu
+ST29176,Martinez,Benjamin,25,Cybersécurité,benjamin.martinez@student.edu
+ST28238,Martinez,Theodore,34,Intelligence Artificielle,theodore.martinez@student.edu
+ST27713,François,Arthur,24,Marketing Digital,arthur.françois@student.edu
+ST25072,Richard,Hugo,28,Marketing Digital,hugo.richard@student.edu
+ST24565,Andre,Arthur,22,Intelligence Artificielle,arthur.andre@student.edu
+ST28173,Garcia,Louise,26,Finance,louise.garcia@student.edu
+ST29807,Wilson,Arthur,21,Finance,arthur.wilson@student.edu
+ST28015,David,Clara,24,Intelligence Artificielle,clara.david@student.edu
+ST24495,Faure,Theodore,30,Management International,theodore.faure@student.edu
+ST29776,Laurent,Harper,29,Data Science,harper.laurent@student.edu
+ST29268,Williams,Olivia,29,Innovation Technologique,olivia.williams@student.edu
+ST25663,Moore,Sophia,34,Marketing Digital,sophia.moore@student.edu
+ST28640,Garcia,Léa,24,Management International,léa.garcia@student.edu
+ST20439,Brown,Olivia,21,Finance,olivia.brown@student.edu
+ST25506,Thomas,Sofia,20,Intelligence Artificielle,sofia.thomas@student.edu
+ST22134,Martin,William,25,Management International,william.martin@student.edu
+ST28585,Michel,Louis,34,Business,louis.michel@student.edu
+ST25687,Michel,Benjamin,22,Intelligence Artificielle,benjamin.michel@student.edu
+ST27028,Morel,Harper,22,Entrepreneuriat,harper.morel@student.edu
+ST24312,Martinez,Chloé,34,Business,chloé.martinez@student.edu
+ST23760,Legrand,Hugo,27,Cybersécurité,hugo.legrand@student.edu
+ST27689,Miller,Léo,29,Commerce International,léo.miller@student.edu
+ST21211,Lefebvre,Ethan,31,Commerce International,ethan.lefebvre@student.edu
+ST28361,Michel,Nathan,23,Marketing Digital,nathan.michel@student.edu
+ST28881,Bertrand,Jack,34,Business,jack.bertrand@student.edu
+ST26946,Mercier,Gabriel,26,Marketing Digital,gabriel.mercier@student.edu
+ST27834,Brown,Camille,31,Business,camille.brown@student.edu
+ST26812,Mercier,Lucas,21,Management International,lucas.mercier@student.edu
+ST27222,Andre,Sofia,19,Business,sofia.andre@student.edu
+ST27706,Andre,Léo,25,Management International,léo.andre@student.edu
+ST27066,Martin,Evelyn,20,Finance,evelyn.martin@student.edu
+ST23153,Roux,Manon,34,Entrepreneuriat,manon.roux@student.edu
+ST20029,Bernard,William,25,Entrepreneuriat,william.bernard@student.edu
+ST25884,Thomas,Olivia,21,Commerce International,olivia.thomas@student.edu
+ST28763,Moreau,Sarah,30,Innovation Technologique,sarah.moreau@student.edu
+ST23549,Johnson,Clara,19,Innovation Technologique,clara.johnson@student.edu
+ST21050,Taylor,Emma,26,Commerce International,emma.taylor@student.edu
+ST21070,François,Elijah,26,Commerce International,elijah.françois@student.edu
+ST26529,Martinez,Liam,23,Intelligence Artificielle,liam.martinez@student.edu
+ST25207,Laurent,Charlotte,20,Entrepreneuriat,charlotte.laurent@student.edu
+ST21690,François,Henry,34,Commerce International,henry.françois@student.edu
+ST29612,Williams,Gabriel,26,Data Science,gabriel.williams@student.edu
+ST21605,Brown,Elijah,25,Business,elijah.brown@student.edu
+ST24673,Martin,Oliver,32,Data Science,oliver.martin@student.edu
+ST21866,Legrand,Louise,22,Business,louise.legrand@student.edu
+ST20032,Anderson,Camille,24,Data Science,camille.anderson@student.edu
+ST21343,Mercier,Charlotte,31,Management International,charlotte.mercier@student.edu
+ST29442,Durand,Jules,31,Management International,jules.durand@student.edu
+ST20289,Morel,William,23,Innovation Technologique,william.morel@student.edu
+ST27633,Moore,Manon,30,Commerce International,manon.moore@student.edu
+ST27907,Martin,Amelia,35,Commerce International,amelia.martin@student.edu
+ST24157,Dubois,Theodore,26,Finance,theodore.dubois@student.edu
+ST25886,Roux,Charlotte,35,Cybersécurité,charlotte.roux@student.edu
+ST21866,Garnier,Léo,21,Data Science,léo.garnier@student.edu
+ST27645,Michel,Mia,21,Finance,mia.michel@student.edu
+ST22250,Faure,William,27,Marketing Digital,william.faure@student.edu
+ST24135,Lefebvre,Gabriel,33,Innovation Technologique,gabriel.lefebvre@student.edu
+ST20123,Laurent,Jack,35,Innovation Technologique,jack.laurent@student.edu
+ST26523,Andre,Jack,21,Innovation Technologique,jack.andre@student.edu
+ST23899,Vincent,Sarah,25,Business,sarah.vincent@student.edu
+ST22463,Petit,Arthur,20,Entrepreneuriat,arthur.petit@student.edu
+ST27295,Richard,Jack,29,Cybersécurité,jack.richard@student.edu
+ST27127,David,Noah,26,Commerce International,noah.david@student.edu
+ST20089,Garnier,Emma,22,Finance,emma.garnier@student.edu
+ST25020,Martin,Elijah,33,Commerce International,elijah.martin@student.edu
+ST24674,Miller,Lucas,20,Cybersécurité,lucas.miller@student.edu
+ST28198,Bernard,Harper,20,Entrepreneuriat,harper.bernard@student.edu
+ST22053,Anderson,Theodore,19,Intelligence Artificielle,theodore.anderson@student.edu
+ST29692,Brown,Alice,29,Marketing Digital,alice.brown@student.edu
+ST25964,David,Léa,28,Management International,léa.david@student.edu
+ST27603,Martin,Theodore,34,Data Science,theodore.martin@student.edu
+ST28829,Michel,Benjamin,29,Management International,benjamin.michel@student.edu
+ST29435,Garnier,Manon,32,Entrepreneuriat,manon.garnier@student.edu
+ST24446,Johnson,Evelyn,34,Innovation Technologique,evelyn.johnson@student.edu
+ST29999,Johnson,Inès,19,Innovation Technologique,inès.johnson@student.edu
+ST26479,Brown,James,26,Intelligence Artificielle,james.brown@student.edu
+ST27006,Dubois,Louis,34,Data Science,louis.dubois@student.edu
+ST21584,Martin,Liam,29,Finance,liam.martin@student.edu
+ST25783,Moore,Sarah,20,Business,sarah.moore@student.edu
+ST22442,Roux,Nathan,18,Cybersécurité,nathan.roux@student.edu
+ST22786,Brown,William,18,Cybersécurité,william.brown@student.edu
+ST21269,Morel,Charlotte,24,Innovation Technologique,charlotte.morel@student.edu
+ST28379,Robert,Inès,32,Finance,inès.robert@student.edu
+ST24876,Morel,Noah,20,Intelligence Artificielle,noah.morel@student.edu
+ST25746,Martinez,Elijah,31,Intelligence Artificielle,elijah.martinez@student.edu
+ST29685,Wilson,Olivia,32,Marketing Digital,olivia.wilson@student.edu
+ST28407,David,Sofia,35,Data Science,sofia.david@student.edu
+ST23266,Roux,William,33,Management International,william.roux@student.edu
+ST26016,Bonnet,Jules,20,Entrepreneuriat,jules.bonnet@student.edu
+ST23812,Lefebvre,Sophia,23,Commerce International,sophia.lefebvre@student.edu
+ST20366,Bonnet,Jack,21,Intelligence Artificielle,jack.bonnet@student.edu
+ST25001,Bertrand,Abigail,18,Commerce International,abigail.bertrand@student.edu
+ST28017,Johnson,Lucas,24,Data Science,lucas.johnson@student.edu
+ST28563,Mercier,Theodore,19,Management International,theodore.mercier@student.edu
+ST20899,Moore,Evelyn,34,Cybersécurité,evelyn.moore@student.edu
+ST26883,Garcia,James,35,Cybersécurité,james.garcia@student.edu
+ST25705,Jones,Alice,35,Entrepreneuriat,alice.jones@student.edu
+ST25233,Williams,Sophia,20,Commerce International,sophia.williams@student.edu
+ST23791,Girard,James,20,Marketing Digital,james.girard@student.edu
+ST23909,Durand,Isabella,24,Management International,isabella.durand@student.edu
+ST26368,Fournier,Mia,24,Finance,mia.fournier@student.edu
+ST24288,David,Oliver,27,Finance,oliver.david@student.edu
+ST28038,Williams,Clara,32,Data Science,clara.williams@student.edu
+ST25417,Garcia,Abigail,32,Intelligence Artificielle,abigail.garcia@student.edu
+ST27744,Fournier,Charlotte,20,Business,charlotte.fournier@student.edu
+ST29521,David,Sofia,33,Business,sofia.david@student.edu
+ST20247,Taylor,Jack,26,Business,jack.taylor@student.edu
+ST22005,Vincent,Adam,28,Finance,adam.vincent@student.edu
+ST21631,Bernard,Theodore,28,Marketing Digital,theodore.bernard@student.edu
+ST23571,Bonnet,Léo,19,Data Science,léo.bonnet@student.edu
+ST27827,Williams,James,25,Intelligence Artificielle,james.williams@student.edu
+ST21707,Garcia,Chloé,31,Management International,chloé.garcia@student.edu
+ST20024,Miller,Jules,26,Intelligence Artificielle,jules.miller@student.edu
+ST29556,Richard,Amelia,28,Finance,amelia.richard@student.edu
+ST29244,Garcia,Alice,18,Cybersécurité,alice.garcia@student.edu
+ST29821,Vincent,Ethan,20,Innovation Technologique,ethan.vincent@student.edu
+ST25854,Moore,Arthur,25,Management International,arthur.moore@student.edu
+ST28417,François,Emma,28,Management International,emma.françois@student.edu
+ST22009,Wilson,Benjamin,30,Business,benjamin.wilson@student.edu
+ST20902,Vincent,Sofia,29,Management International,sofia.vincent@student.edu
+ST24657,Simon,Arthur,20,Management International,arthur.simon@student.edu
+ST22568,Garcia,Elijah,24,Business,elijah.garcia@student.edu
+ST24561,Dubois,Nathan,31,Management International,nathan.dubois@student.edu
+ST20526,Martinez,Amelia,24,Commerce International,amelia.martinez@student.edu
+ST28405,Lefevre,Abigail,23,Cybersécurité,abigail.lefevre@student.edu
+ST27435,David,Ethan,32,Commerce International,ethan.david@student.edu
+ST25704,Johnson,Mia,32,Management International,mia.johnson@student.edu
+ST26125,Morel,Nathan,18,Marketing Digital,nathan.morel@student.edu
+ST22935,Bernard,James,29,Cybersécurité,james.bernard@student.edu
+ST24349,Laurent,Ethan,25,Cybersécurité,ethan.laurent@student.edu
+ST23096,Girard,Adam,31,Management International,adam.girard@student.edu
+ST29462,Davis,Manon,34,Commerce International,manon.davis@student.edu
+ST25127,Richard,Ethan,24,Commerce International,ethan.richard@student.edu
+ST24413,Simon,Elijah,22,Data Science,elijah.simon@student.edu
+ST21844,Johnson,Isabella,29,Marketing Digital,isabella.johnson@student.edu
+ST28750,Davis,Isabella,33,Intelligence Artificielle,isabella.davis@student.edu
+ST29014,Wilson,Gabriel,23,Entrepreneuriat,gabriel.wilson@student.edu
+ST29232,Girard,Oliver,29,Marketing Digital,oliver.girard@student.edu
+ST21090,Petit,Oliver,19,Marketing Digital,oliver.petit@student.edu
+ST26437,Anderson,Theodore,32,Entrepreneuriat,theodore.anderson@student.edu
+ST20624,François,Charlotte,27,Entrepreneuriat,charlotte.françois@student.edu
+ST24680,Legrand,Elijah,28,Business,elijah.legrand@student.edu
+ST21991,Martinez,Inès,33,Innovation Technologique,inès.martinez@student.edu
+ST20771,Garcia,Noah,29,Cybersécurité,noah.garcia@student.edu
+ST23646,David,Charlotte,19,Business,charlotte.david@student.edu
+ST25194,Morel,Sophia,24,Management International,sophia.morel@student.edu
+ST22193,Lefebvre,Oliver,29,Marketing Digital,oliver.lefebvre@student.edu
+ST23801,Miller,Louise,30,Entrepreneuriat,louise.miller@student.edu
+ST28239,Jones,Oliver,24,Intelligence Artificielle,oliver.jones@student.edu
+ST20722,Mercier,Sarah,32,Entrepreneuriat,sarah.mercier@student.edu
+ST27218,Morel,Louise,27,Intelligence Artificielle,louise.morel@student.edu
+ST28646,Legrand,Isabella,22,Cybersécurité,isabella.legrand@student.edu
+ST20374,Garcia,Hugo,24,Data Science,hugo.garcia@student.edu
+ST21971,Martin,Oliver,29,Finance,oliver.martin@student.edu
+ST28688,Davis,Liam,30,Innovation Technologique,liam.davis@student.edu
+ST20551,Durand,Lucas,26,Business,lucas.durand@student.edu
+ST27755,Wilson,Theodore,32,Management International,theodore.wilson@student.edu
+ST20547,Legrand,Charlotte,35,Innovation Technologique,charlotte.legrand@student.edu
+ST20571,Wilson,Clara,18,Entrepreneuriat,clara.wilson@student.edu
+ST29464,Durand,Evelyn,33,Intelligence Artificielle,evelyn.durand@student.edu
+ST21832,Moore,Sarah,23,Data Science,sarah.moore@student.edu
+ST23958,Bernard,Hugo,19,Innovation Technologique,hugo.bernard@student.edu
+ST24846,Fournier,Henry,18,Management International,henry.fournier@student.edu
+ST24287,Bertrand,Alice,18,Innovation Technologique,alice.bertrand@student.edu
+ST22836,Fournier,Olivia,23,Cybersécurité,olivia.fournier@student.edu
+ST20195,Laurent,Noah,35,Innovation Technologique,noah.laurent@student.edu
+ST23868,Moreau,Noah,24,Entrepreneuriat,noah.moreau@student.edu
+ST26539,Moreau,Harper,33,Management International,harper.moreau@student.edu
+ST25782,Bertrand,Sofia,33,Intelligence Artificielle,sofia.bertrand@student.edu
+ST21669,Jones,Noah,26,Intelligence Artificielle,noah.jones@student.edu
+ST28816,Bonnet,Camille,28,Commerce International,camille.bonnet@student.edu
+ST25918,Bertrand,Liam,30,Cybersécurité,liam.bertrand@student.edu
+ST21709,Morel,Alice,30,Entrepreneuriat,alice.morel@student.edu
+ST21422,Fournier,Nathan,24,Entrepreneuriat,nathan.fournier@student.edu
+ST20237,Bernard,Olivia,28,Management International,olivia.bernard@student.edu
+ST24582,Girard,Olivia,27,Entrepreneuriat,olivia.girard@student.edu
+ST20021,Garnier,Léo,22,Commerce International,léo.garnier@student.edu
+ST26841,Lefebvre,Jules,20,Commerce International,jules.lefebvre@student.edu
+ST20979,Durand,Arthur,23,Commerce International,arthur.durand@student.edu
+ST24081,Morel,Olivia,35,Data Science,olivia.morel@student.edu
+ST20394,Garnier,Camille,28,Marketing Digital,camille.garnier@student.edu
+ST29100,Andre,Chloé,32,Intelligence Artificielle,chloé.andre@student.edu
+ST23088,Jones,Amelia,33,Intelligence Artificielle,amelia.jones@student.edu
+ST27187,Martinez,Hugo,22,Finance,hugo.martinez@student.edu
+ST28830,Robert,Sofia,21,Finance,sofia.robert@student.edu
+ST27101,Mercier,Charlotte,34,Intelligence Artificielle,charlotte.mercier@student.edu
+ST23461,Girard,Nathan,30,Intelligence Artificielle,nathan.girard@student.edu
+ST22307,Vincent,Hugo,28,Management International,hugo.vincent@student.edu
+ST27844,Legrand,Noah,29,Management International,noah.legrand@student.edu
+ST23322,Bonnet,Sofia,32,Finance,sofia.bonnet@student.edu
+ST24114,Williams,Clara,23,Cybersécurité,clara.williams@student.edu
+ST26939,Michel,Isabella,19,Intelligence Artificielle,isabella.michel@student.edu
+ST21028,Fournier,Isabella,31,Cybersécurité,isabella.fournier@student.edu
+ST27550,Simon,Clara,23,Intelligence Artificielle,clara.simon@student.edu
+ST26867,Williams,Camille,27,Data Science,camille.williams@student.edu
+ST27184,Michel,Manon,27,Intelligence Artificielle,manon.michel@student.edu
+ST29572,Miller,Adam,25,Innovation Technologique,adam.miller@student.edu
+ST23002,Faure,Abigail,25,Entrepreneuriat,abigail.faure@student.edu
+ST22890,Richard,Henry,25,Management International,henry.richard@student.edu
+ST24409,Miller,Manon,34,Data Science,manon.miller@student.edu
+ST23937,Thomas,Oliver,21,Management International,oliver.thomas@student.edu
+ST29602,Wilson,Isabella,20,Finance,isabella.wilson@student.edu
+ST27000,Vincent,Louise,18,Finance,louise.vincent@student.edu
+ST25993,Girard,Sarah,33,Intelligence Artificielle,sarah.girard@student.edu
+ST20336,Dubois,Chloé,27,Intelligence Artificielle,chloé.dubois@student.edu
+ST28531,Taylor,Theodore,19,Marketing Digital,theodore.taylor@student.edu
+ST22090,Durand,Camille,23,Marketing Digital,camille.durand@student.edu
+ST23364,Jones,Sarah,21,Data Science,sarah.jones@student.edu
+ST24977,Faure,Liam,33,Marketing Digital,liam.faure@student.edu
+ST29802,Bernard,William,29,Marketing Digital,william.bernard@student.edu
+ST26607,Laurent,Theodore,32,Innovation Technologique,theodore.laurent@student.edu
+ST25984,Bonnet,Inès,31,Data Science,inès.bonnet@student.edu
+ST28459,Anderson,Léo,32,Business,léo.anderson@student.edu
+ST21145,Moore,Clara,24,Finance,clara.moore@student.edu
+ST28994,Richard,Camille,28,Business,camille.richard@student.edu
+ST27999,Legrand,Henry,29,Marketing Digital,henry.legrand@student.edu
+ST22668,Simon,Jack,23,Cybersécurité,jack.simon@student.edu
+ST29481,Laurent,Inès,27,Commerce International,inès.laurent@student.edu
+ST26821,Morel,Arthur,31,Marketing Digital,arthur.morel@student.edu
+ST26790,Martin,Chloé,26,Management International,chloé.martin@student.edu
+ST22273,Wilson,Sofia,31,Management International,sofia.wilson@student.edu
+ST23506,Petit,Henry,30,Commerce International,henry.petit@student.edu
+ST20326,Richard,Theodore,31,Intelligence Artificielle,theodore.richard@student.edu
+ST22295,Brown,Arthur,19,Finance,arthur.brown@student.edu
+ST22400,Simon,Sophia,24,Entrepreneuriat,sophia.simon@student.edu
+ST28102,Moreau,Hugo,18,Cybersécurité,hugo.moreau@student.edu
+ST23442,Garnier,Henry,35,Cybersécurité,henry.garnier@student.edu
+ST29504,Wilson,Evelyn,18,Finance,evelyn.wilson@student.edu
+ST21413,Bertrand,Alice,23,Entrepreneuriat,alice.bertrand@student.edu
+ST21502,Lefevre,Chloé,24,Marketing Digital,chloé.lefevre@student.edu
+ST24723,Faure,Evelyn,32,Marketing Digital,evelyn.faure@student.edu
+ST24949,Johnson,James,35,Management International,james.johnson@student.edu
+ST23140,Bonnet,William,29,Marketing Digital,william.bonnet@student.edu
+ST29072,Bonnet,Adam,18,Management International,adam.bonnet@student.edu
+ST29804,Richard,Evelyn,30,Entrepreneuriat,evelyn.richard@student.edu
+ST21855,Faure,Inès,26,Entrepreneuriat,inès.faure@student.edu
+ST24321,Dubois,Henry,19,Data Science,henry.dubois@student.edu
+ST28148,Brown,Charlotte,29,Marketing Digital,charlotte.brown@student.edu
+ST28007,Robert,Inès,32,Innovation Technologique,inès.robert@student.edu
+ST28587,Petit,Ethan,32,Marketing Digital,ethan.petit@student.edu
+ST25833,Moore,Arthur,24,Marketing Digital,arthur.moore@student.edu
+ST20517,Andre,Abigail,31,Entrepreneuriat,abigail.andre@student.edu
+ST25138,Faure,Harper,18,Innovation Technologique,harper.faure@student.edu
+ST20015,Garnier,Abigail,33,Commerce International,abigail.garnier@student.edu
+ST29704,Taylor,William,31,Intelligence Artificielle,william.taylor@student.edu
+ST25186,Roux,Liam,19,Management International,liam.roux@student.edu
+ST29638,François,Sarah,24,Innovation Technologique,sarah.françois@student.edu
+ST27196,Laurent,Lucas,19,Data Science,lucas.laurent@student.edu
+ST24499,Taylor,Emma,21,Management International,emma.taylor@student.edu
+ST25056,Simon,Ethan,25,Business,ethan.simon@student.edu
+ST21672,Moreau,Charlotte,31,Commerce International,charlotte.moreau@student.edu
+ST21484,Garnier,Mia,26,Commerce International,mia.garnier@student.edu
+ST29570,François,Louis,26,Finance,louis.françois@student.edu
+ST23473,Moore,Manon,26,Management International,manon.moore@student.edu
+ST20005,Durand,Evelyn,27,Business,evelyn.durand@student.edu
+ST20756,Faure,Theodore,19,Business,theodore.faure@student.edu
+ST27928,Garnier,Arthur,25,Cybersécurité,arthur.garnier@student.edu
+ST26665,Lefevre,Liam,22,Data Science,liam.lefevre@student.edu
+ST22442,Petit,Clara,21,Entrepreneuriat,clara.petit@student.edu
+ST24556,Girard,Mia,26,Data Science,mia.girard@student.edu
+ST28058,Faure,Charlotte,34,Innovation Technologique,charlotte.faure@student.edu
+ST27327,Dubois,Sofia,24,Management International,sofia.dubois@student.edu
+ST25551,Legrand,Theodore,27,Innovation Technologique,theodore.legrand@student.edu
+ST28358,Laurent,Isabella,19,Entrepreneuriat,isabella.laurent@student.edu
+ST23156,Moreau,Lucas,35,Finance,lucas.moreau@student.edu
+ST20914,Laurent,Hugo,34,Entrepreneuriat,hugo.laurent@student.edu
+ST27071,Jones,Olivia,26,Intelligence Artificielle,olivia.jones@student.edu
+ST28622,Brown,Sophia,18,Business,sophia.brown@student.edu
+ST24125,Bernard,Louis,29,Data Science,louis.bernard@student.edu
+ST29700,Legrand,Jack,27,Data Science,jack.legrand@student.edu
+ST25831,Taylor,Arthur,24,Entrepreneuriat,arthur.taylor@student.edu
+ST22096,Fournier,Ethan,35,Business,ethan.fournier@student.edu
+ST21078,Garcia,Lucas,26,Cybersécurité,lucas.garcia@student.edu
+ST25675,Johnson,Mia,33,Intelligence Artificielle,mia.johnson@student.edu
+ST21568,Petit,Sofia,24,Cybersécurité,sofia.petit@student.edu
+ST29636,Garnier,Sofia,23,Cybersécurité,sofia.garnier@student.edu
+ST29509,Robert,Nathan,18,Business,nathan.robert@student.edu
+ST28611,Laurent,Elijah,23,Business,elijah.laurent@student.edu
+ST25717,Lefevre,Sophia,21,Finance,sophia.lefevre@student.edu
+ST22397,Girard,Oliver,28,Management International,oliver.girard@student.edu
+ST28130,Lefebvre,Léa,28,Cybersécurité,léa.lefebvre@student.edu
+ST26170,Lefevre,Hugo,28,Finance,hugo.lefevre@student.edu
+ST23302,Andre,Charlotte,18,Data Science,charlotte.andre@student.edu
+ST28583,Fournier,Gabriel,18,Intelligence Artificielle,gabriel.fournier@student.edu
+ST22166,Martinez,Sophia,33,Entrepreneuriat,sophia.martinez@student.edu
+ST25776,Davis,Ethan,20,Innovation Technologique,ethan.davis@student.edu
+ST25511,Girard,Adam,30,Finance,adam.girard@student.edu
+ST28402,Davis,Camille,18,Business,camille.davis@student.edu
+ST27735,Brown,Olivia,29,Entrepreneuriat,olivia.brown@student.edu
+ST28314,Anderson,Léo,32,Intelligence Artificielle,léo.anderson@student.edu
+ST26015,Thomas,Louise,29,Marketing Digital,louise.thomas@student.edu
+ST29079,Williams,Chloé,20,Innovation Technologique,chloé.williams@student.edu
+ST24928,Jones,Henry,31,Finance,henry.jones@student.edu
+ST29050,Richard,Arthur,32,Intelligence Artificielle,arthur.richard@student.edu
+ST24658,Taylor,Gabriel,30,Commerce International,gabriel.taylor@student.edu
+ST27964,Brown,Hugo,33,Management International,hugo.brown@student.edu
+ST24980,Lefevre,Camille,33,Cybersécurité,camille.lefevre@student.edu
+ST26798,Faure,Jack,18,Commerce International,jack.faure@student.edu
+ST24291,Brown,Elijah,28,Marketing Digital,elijah.brown@student.edu
+ST29689,Lefevre,Inès,28,Entrepreneuriat,inès.lefevre@student.edu
+ST27440,Davis,Camille,23,Intelligence Artificielle,camille.davis@student.edu
+ST28440,Mercier,Louis,23,Commerce International,louis.mercier@student.edu
+ST20274,Martinez,Liam,19,Finance,liam.martinez@student.edu
+ST23830,Mercier,Gabriel,20,Marketing Digital,gabriel.mercier@student.edu
+ST26204,Bonnet,Elijah,32,Finance,elijah.bonnet@student.edu
+ST21053,Anderson,Inès,26,Commerce International,inès.anderson@student.edu
+ST21809,Vincent,Abigail,33,Cybersécurité,abigail.vincent@student.edu
+ST22175,Fournier,Sophia,28,Business,sophia.fournier@student.edu
+ST22961,Anderson,Nathan,32,Innovation Technologique,nathan.anderson@student.edu
+ST23767,Miller,Inès,22,Business,inès.miller@student.edu
+ST26353,Dubois,Abigail,20,Innovation Technologique,abigail.dubois@student.edu
+ST26384,François,Harper,34,Marketing Digital,harper.françois@student.edu
+ST24272,Miller,Oliver,23,Data Science,oliver.miller@student.edu
+ST23696,Williams,Léo,26,Entrepreneuriat,léo.williams@student.edu
+ST24925,Michel,Arthur,35,Business,arthur.michel@student.edu
+ST27695,Anderson,Ethan,26,Data Science,ethan.anderson@student.edu
+ST29855,Martin,Isabella,26,Innovation Technologique,isabella.martin@student.edu
+ST20017,Lefebvre,Sofia,22,Intelligence Artificielle,sofia.lefebvre@student.edu
+ST23978,Durand,Camille,26,Intelligence Artificielle,camille.durand@student.edu
+ST21648,Morel,Jules,25,Intelligence Artificielle,jules.morel@student.edu
+ST27614,Bertrand,Sarah,29,Business,sarah.bertrand@student.edu
+ST21123,Wilson,Jules,21,Management International,jules.wilson@student.edu
+ST21098,Roux,Lucas,25,Business,lucas.roux@student.edu
+ST28310,Miller,Ethan,34,Cybersécurité,ethan.miller@student.edu
+ST22264,Dubois,Olivia,23,Entrepreneuriat,olivia.dubois@student.edu
+ST20095,Andre,James,20,Finance,james.andre@student.edu
+ST29770,Vincent,William,35,Business,william.vincent@student.edu
+ST26027,Simon,Clara,25,Management International,clara.simon@student.edu
+ST27388,Simon,Isabella,28,Business,isabella.simon@student.edu
+ST27038,Michel,Arthur,26,Business,arthur.michel@student.edu
+ST28231,Michel,Theodore,27,Intelligence Artificielle,theodore.michel@student.edu
+ST23322,Morel,Emma,27,Finance,emma.morel@student.edu
+ST28724,Michel,Chloé,20,Data Science,chloé.michel@student.edu
+ST29838,Robert,Arthur,28,Management International,arthur.robert@student.edu
+ST24590,Mercier,Alice,28,Intelligence Artificielle,alice.mercier@student.edu
+ST20156,Bernard,Jules,26,Entrepreneuriat,jules.bernard@student.edu
+ST27093,Johnson,Lucas,22,Entrepreneuriat,lucas.johnson@student.edu
+ST27562,Girard,William,29,Marketing Digital,william.girard@student.edu
+ST23762,Martin,Lucas,19,Commerce International,lucas.martin@student.edu
+ST22403,Moreau,Olivia,27,Data Science,olivia.moreau@student.edu
+ST23413,Wilson,Evelyn,32,Data Science,evelyn.wilson@student.edu
+ST29224,François,Charlotte,20,Commerce International,charlotte.françois@student.edu
+ST27072,Johnson,Camille,20,Innovation Technologique,camille.johnson@student.edu
+ST21389,Roux,Sophia,21,Cybersécurité,sophia.roux@student.edu
+ST27357,Robert,Olivia,20,Innovation Technologique,olivia.robert@student.edu
+ST29732,Bonnet,Harper,19,Business,harper.bonnet@student.edu
+ST27590,Bonnet,Elijah,35,Finance,elijah.bonnet@student.edu
+ST22666,Bertrand,Elijah,25,Management International,elijah.bertrand@student.edu
+ST28763,Simon,Léo,20,Cybersécurité,léo.simon@student.edu
+ST22287,Laurent,Clara,26,Entrepreneuriat,clara.laurent@student.edu
+ST26895,Brown,Manon,18,Business,manon.brown@student.edu
+ST20035,Lefevre,Léo,18,Data Science,léo.lefevre@student.edu
+ST28947,Johnson,William,25,Innovation Technologique,william.johnson@student.edu
+ST29157,Simon,Ethan,22,Marketing Digital,ethan.simon@student.edu
+ST21362,Wilson,Evelyn,18,Commerce International,evelyn.wilson@student.edu
+ST26596,Thomas,Alice,29,Commerce International,alice.thomas@student.edu
+ST23729,Legrand,Léo,34,Cybersécurité,léo.legrand@student.edu
+ST28896,Andre,Harper,32,Business,harper.andre@student.edu
+ST25491,Brown,William,34,Business,william.brown@student.edu
+ST23499,Thomas,Camille,24,Marketing Digital,camille.thomas@student.edu
+ST20479,Michel,Adam,29,Innovation Technologique,adam.michel@student.edu
+ST27141,Bonnet,Evelyn,30,Intelligence Artificielle,evelyn.bonnet@student.edu
+ST20209,Taylor,Oliver,25,Business,oliver.taylor@student.edu
+ST20753,Miller,Camille,27,Innovation Technologique,camille.miller@student.edu
+ST26721,Richard,Abigail,21,Entrepreneuriat,abigail.richard@student.edu
+ST24783,Fournier,James,30,Business,james.fournier@student.edu
+ST28662,Robert,Jules,34,Finance,jules.robert@student.edu
+ST26850,Bernard,Lucas,23,Business,lucas.bernard@student.edu
+ST25040,Petit,Sofia,30,Marketing Digital,sofia.petit@student.edu
+ST27016,Richard,Ethan,22,Finance,ethan.richard@student.edu
+ST25512,Fournier,Sofia,30,Commerce International,sofia.fournier@student.edu
+ST27269,Simon,Clara,32,Marketing Digital,clara.simon@student.edu
+ST24558,Garnier,Jules,22,Data Science,jules.garnier@student.edu
+ST29565,Williams,Manon,22,Innovation Technologique,manon.williams@student.edu
+ST25706,Thomas,Mia,23,Data Science,mia.thomas@student.edu
+ST21368,Taylor,Louis,29,Finance,louis.taylor@student.edu
+ST23211,Martin,Jules,23,Commerce International,jules.martin@student.edu
+ST29355,Lefevre,Amelia,33,Innovation Technologique,amelia.lefevre@student.edu
+ST25861,Davis,Chloé,22,Management International,chloé.davis@student.edu
+ST29188,Fournier,Evelyn,19,Marketing Digital,evelyn.fournier@student.edu
+ST24972,Martin,Noah,32,Innovation Technologique,noah.martin@student.edu
+ST24458,Williams,Elijah,28,Finance,elijah.williams@student.edu
+ST28063,Jones,James,29,Business,james.jones@student.edu
+ST26433,Brown,Lucas,29,Finance,lucas.brown@student.edu
+ST28590,Faure,Amelia,34,Intelligence Artificielle,amelia.faure@student.edu
+ST26626,Faure,Harper,26,Innovation Technologique,harper.faure@student.edu
+ST26671,Bonnet,Sophia,25,Data Science,sophia.bonnet@student.edu
+ST26354,Moreau,Camille,22,Management International,camille.moreau@student.edu
+ST25779,Robert,Jules,30,Commerce International,jules.robert@student.edu
+ST20254,Mercier,Inès,23,Innovation Technologique,inès.mercier@student.edu
+ST26983,Garcia,Amelia,35,Innovation Technologique,amelia.garcia@student.edu
+ST21025,David,Nathan,25,Business,nathan.david@student.edu
+ST26267,Lefevre,Liam,35,Finance,liam.lefevre@student.edu
+ST23095,Durand,Camille,22,Cybersécurité,camille.durand@student.edu
+ST28175,Andre,Léa,34,Commerce International,léa.andre@student.edu
+ST28362,Durand,Sophia,26,Cybersécurité,sophia.durand@student.edu
+ST20781,Anderson,Camille,31,Data Science,camille.anderson@student.edu
+ST25850,Dubois,Abigail,27,Intelligence Artificielle,abigail.dubois@student.edu
+ST25792,Laurent,Oliver,24,Intelligence Artificielle,oliver.laurent@student.edu
+ST22665,Bernard,Manon,22,Management International,manon.bernard@student.edu
+ST23319,Garnier,Noah,23,Marketing Digital,noah.garnier@student.edu
+ST29172,Andre,Oliver,27,Business,oliver.andre@student.edu
+ST27509,Lefevre,Elijah,24,Entrepreneuriat,elijah.lefevre@student.edu
+ST23278,Faure,Charlotte,21,Commerce International,charlotte.faure@student.edu
+ST29648,Roux,Inès,32,Entrepreneuriat,inès.roux@student.edu
+ST21934,Garcia,Abigail,21,Management International,abigail.garcia@student.edu
+ST21261,Legrand,Amelia,26,Marketing Digital,amelia.legrand@student.edu
+ST28283,Williams,Oliver,27,Management International,oliver.williams@student.edu
+ST22885,Garnier,Jules,18,Commerce International,jules.garnier@student.edu
+ST26990,Laurent,Sophia,29,Finance,sophia.laurent@student.edu
+ST20048,Girard,Noah,26,Management International,noah.girard@student.edu
+ST24477,Michel,Ethan,18,Finance,ethan.michel@student.edu
+ST23403,Johnson,Abigail,20,Finance,abigail.johnson@student.edu
+ST20629,Thomas,Abigail,34,Data Science,abigail.thomas@student.edu
+ST29495,Thomas,Charlotte,19,Marketing Digital,charlotte.thomas@student.edu
+ST27817,Thomas,Manon,24,Finance,manon.thomas@student.edu
+ST29039,Martinez,Oliver,22,Data Science,oliver.martinez@student.edu
+ST22295,Davis,Amelia,27,Marketing Digital,amelia.davis@student.edu
+ST28794,Williams,Olivia,35,Innovation Technologique,olivia.williams@student.edu
+ST28038,Wilson,Olivia,34,Marketing Digital,olivia.wilson@student.edu
+ST21641,Brown,Charlotte,24,Intelligence Artificielle,charlotte.brown@student.edu
+ST25721,Roux,Nathan,24,Cybersécurité,nathan.roux@student.edu
+ST22857,Garnier,Harper,28,Intelligence Artificielle,harper.garnier@student.edu
+ST26056,Richard,Emma,25,Business,emma.richard@student.edu
+ST29062,Laurent,Louise,32,Innovation Technologique,louise.laurent@student.edu
+ST27175,Garnier,Noah,33,Marketing Digital,noah.garnier@student.edu
+ST22553,François,Sofia,27,Innovation Technologique,sofia.françois@student.edu
+ST29527,Mercier,Manon,22,Business,manon.mercier@student.edu
+ST23258,Michel,Sarah,18,Business,sarah.michel@student.edu
+ST25408,Bonnet,Theodore,29,Management International,theodore.bonnet@student.edu
+ST26245,Martin,Arthur,31,Cybersécurité,arthur.martin@student.edu
+ST29001,Martinez,Clara,27,Management International,clara.martinez@student.edu
+ST27796,Durand,Noah,23,Marketing Digital,noah.durand@student.edu
+ST27728,Simon,Sarah,20,Management International,sarah.simon@student.edu
+ST28720,Bernard,Jules,33,Commerce International,jules.bernard@student.edu
+ST28640,Lefebvre,Abigail,33,Marketing Digital,abigail.lefebvre@student.edu
+ST21408,Johnson,Sofia,31,Intelligence Artificielle,sofia.johnson@student.edu
+ST27473,François,Camille,35,Finance,camille.françois@student.edu
+ST27961,Dubois,Alice,21,Data Science,alice.dubois@student.edu
+ST28924,Faure,Alice,19,Finance,alice.faure@student.edu
+ST22538,Fournier,Isabella,23,Management International,isabella.fournier@student.edu
+ST29984,Lefebvre,Emma,32,Commerce International,emma.lefebvre@student.edu
+ST25460,Davis,Léo,35,Management International,léo.davis@student.edu
+ST25668,Simon,Jules,34,Management International,jules.simon@student.edu
+ST26623,Michel,Inès,35,Innovation Technologique,inès.michel@student.edu
+ST20369,Fournier,Harper,33,Innovation Technologique,harper.fournier@student.edu
+ST21472,Taylor,Ethan,26,Finance,ethan.taylor@student.edu
+ST21788,Laurent,Nathan,22,Innovation Technologique,nathan.laurent@student.edu
+ST29405,Moreau,Chloé,33,Management International,chloé.moreau@student.edu
+ST25533,David,Ethan,34,Commerce International,ethan.david@student.edu
+ST20939,Bernard,William,21,Entrepreneuriat,william.bernard@student.edu
+ST21757,Bertrand,Charlotte,32,Innovation Technologique,charlotte.bertrand@student.edu
+ST25778,Vincent,James,35,Innovation Technologique,james.vincent@student.edu
+ST24440,Brown,Louise,25,Data Science,louise.brown@student.edu
+ST29283,Bernard,Evelyn,30,Data Science,evelyn.bernard@student.edu
+ST27018,Michel,Ethan,34,Business,ethan.michel@student.edu
+ST23832,Davis,Arthur,32,Innovation Technologique,arthur.davis@student.edu
+ST27311,Andre,Louis,25,Cybersécurité,louis.andre@student.edu
+ST22548,Vincent,Clara,33,Cybersécurité,clara.vincent@student.edu
+ST27258,Lefebvre,Camille,34,Data Science,camille.lefebvre@student.edu
+ST20285,Moore,Mia,26,Marketing Digital,mia.moore@student.edu
+ST26762,Miller,Harper,24,Commerce International,harper.miller@student.edu
+ST23362,David,Jules,19,Business,jules.david@student.edu
+ST22913,Laurent,Jules,21,Commerce International,jules.laurent@student.edu
+ST25036,Martinez,Jules,24,Intelligence Artificielle,jules.martinez@student.edu
+ST20315,Mercier,Amelia,31,Marketing Digital,amelia.mercier@student.edu
+ST24478,Bertrand,Charlotte,27,Entrepreneuriat,charlotte.bertrand@student.edu
+ST25013,Roux,James,32,Innovation Technologique,james.roux@student.edu
+ST21353,Johnson,William,18,Finance,william.johnson@student.edu
+ST26723,Moreau,Jack,22,Data Science,jack.moreau@student.edu
+ST27599,Vincent,Theodore,35,Cybersécurité,theodore.vincent@student.edu
+ST22330,François,Oliver,23,Intelligence Artificielle,oliver.françois@student.edu
+ST23328,Bertrand,Theodore,28,Marketing Digital,theodore.bertrand@student.edu
+ST28656,Davis,Sofia,30,Data Science,sofia.davis@student.edu
+ST20297,Miller,Manon,18,Marketing Digital,manon.miller@student.edu
+ST24054,Morel,Oliver,21,Management International,oliver.morel@student.edu
+ST23859,François,Abigail,24,Business,abigail.françois@student.edu
+ST21958,Taylor,Gabriel,30,Management International,gabriel.taylor@student.edu
+ST29738,Bernard,Elijah,21,Intelligence Artificielle,elijah.bernard@student.edu
+ST27542,Legrand,Clara,33,Cybersécurité,clara.legrand@student.edu
+ST22492,Moreau,Noah,22,Management International,noah.moreau@student.edu
+ST27381,Faure,Manon,18,Finance,manon.faure@student.edu
+ST23058,Williams,Nathan,23,Entrepreneuriat,nathan.williams@student.edu
+ST22046,Taylor,Liam,22,Management International,liam.taylor@student.edu
+ST26991,Faure,Hugo,23,Commerce International,hugo.faure@student.edu
+ST23853,Jones,Olivia,27,Business,olivia.jones@student.edu
+ST29038,Legrand,Manon,30,Innovation Technologique,manon.legrand@student.edu
+ST26012,Jones,Sophia,32,Cybersécurité,sophia.jones@student.edu
+ST26705,Taylor,Noah,21,Entrepreneuriat,noah.taylor@student.edu
+ST21296,Moore,Camille,23,Finance,camille.moore@student.edu
+ST28325,Taylor,Adam,23,Cybersécurité,adam.taylor@student.edu
+ST20641,Garnier,Henry,29,Intelligence Artificielle,henry.garnier@student.edu
+ST20575,Mercier,Louise,29,Innovation Technologique,louise.mercier@student.edu
+ST26836,Fournier,Nathan,18,Marketing Digital,nathan.fournier@student.edu
+ST29955,Martinez,Liam,23,Finance,liam.martinez@student.edu
+ST29511,Morel,Evelyn,31,Management International,evelyn.morel@student.edu
+ST22493,Simon,Alice,31,Data Science,alice.simon@student.edu
+ST29214,Mercier,Henry,29,Commerce International,henry.mercier@student.edu
+ST25361,Girard,Gabriel,32,Cybersécurité,gabriel.girard@student.edu
+ST26243,Bertrand,Elijah,26,Intelligence Artificielle,elijah.bertrand@student.edu
+ST21017,Faure,Léo,30,Marketing Digital,léo.faure@student.edu
+ST29077,Davis,Ethan,21,Marketing Digital,ethan.davis@student.edu
+ST24302,Laurent,Harper,30,Intelligence Artificielle,harper.laurent@student.edu
+ST26663,Richard,Louise,30,Data Science,louise.richard@student.edu
+ST22354,Brown,Hugo,24,Marketing Digital,hugo.brown@student.edu
+ST22562,Lefevre,Noah,29,Entrepreneuriat,noah.lefevre@student.edu
+ST28252,Simon,Clara,25,Business,clara.simon@student.edu
+ST21272,Davis,Sarah,26,Finance,sarah.davis@student.edu
+ST24540,Michel,Louise,24,Innovation Technologique,louise.michel@student.edu
+ST29643,Martinez,Liam,24,Entrepreneuriat,liam.martinez@student.edu
+ST27186,Vincent,Sophia,30,Cybersécurité,sophia.vincent@student.edu
+ST28306,Wilson,Amelia,26,Commerce International,amelia.wilson@student.edu
+ST29949,Bonnet,Camille,19,Finance,camille.bonnet@student.edu
+ST28803,Dubois,Harper,29,Finance,harper.dubois@student.edu
+ST21046,Miller,Louise,28,Business,louise.miller@student.edu
+ST24615,Moreau,James,32,Finance,james.moreau@student.edu
+ST29095,Girard,Isabella,19,Commerce International,isabella.girard@student.edu
+ST21033,Morel,Camille,25,Entrepreneuriat,camille.morel@student.edu
+ST29231,Jones,Jack,27,Finance,jack.jones@student.edu
+ST24454,Faure,James,22,Marketing Digital,james.faure@student.edu
+ST25190,Taylor,Abigail,19,Intelligence Artificielle,abigail.taylor@student.edu
+ST26873,Davis,James,21,Cybersécurité,james.davis@student.edu
+ST24553,Legrand,Emma,21,Business,emma.legrand@student.edu
+ST21936,David,Léa,24,Intelligence Artificielle,léa.david@student.edu
+ST24316,Martin,James,35,Innovation Technologique,james.martin@student.edu
+ST23256,Jones,Benjamin,18,Management International,benjamin.jones@student.edu
+ST29938,Garcia,Adam,21,Innovation Technologique,adam.garcia@student.edu
+ST21022,Garcia,Sofia,31,Data Science,sofia.garcia@student.edu
+ST23370,Moore,Hugo,26,Finance,hugo.moore@student.edu
+ST24914,Johnson,Jules,34,Business,jules.johnson@student.edu
+ST21773,Martinez,Gabriel,22,Intelligence Artificielle,gabriel.martinez@student.edu
+ST23308,Simon,Benjamin,27,Marketing Digital,benjamin.simon@student.edu
+ST24439,Anderson,Manon,18,Business,manon.anderson@student.edu
+ST26032,Miller,Ethan,35,Finance,ethan.miller@student.edu
+ST29264,Miller,Louis,19,Data Science,louis.miller@student.edu
+ST21561,Fournier,Sophia,25,Cybersécurité,sophia.fournier@student.edu
+ST24489,Thomas,Theodore,21,Business,theodore.thomas@student.edu
+ST28892,Laurent,Adam,34,Data Science,adam.laurent@student.edu
+ST26167,Garnier,Lucas,21,Cybersécurité,lucas.garnier@student.edu
+ST21572,Miller,Elijah,27,Business,elijah.miller@student.edu
+ST23435,Fournier,Liam,26,Data Science,liam.fournier@student.edu
+ST25899,Dubois,Manon,28,Commerce International,manon.dubois@student.edu
+ST20302,Dubois,Oliver,18,Data Science,oliver.dubois@student.edu
+ST28798,Mercier,Arthur,23,Finance,arthur.mercier@student.edu
+ST22002,Roux,Emma,35,Cybersécurité,emma.roux@student.edu
+ST26798,Dubois,Henry,20,Commerce International,henry.dubois@student.edu
+ST23193,Faure,Evelyn,34,Finance,evelyn.faure@student.edu
+ST28623,Lefevre,Camille,27,Cybersécurité,camille.lefevre@student.edu
+ST29803,Laurent,Liam,35,Commerce International,liam.laurent@student.edu
+ST25321,Robert,Louise,28,Entrepreneuriat,louise.robert@student.edu
+ST26768,Lefebvre,Sophia,33,Management International,sophia.lefebvre@student.edu
+ST26602,Legrand,Noah,24,Marketing Digital,noah.legrand@student.edu
+ST20101,Miller,Sophia,29,Data Science,sophia.miller@student.edu
+ST28753,Williams,Léa,18,Marketing Digital,léa.williams@student.edu
+ST20401,Martin,Jules,34,Entrepreneuriat,jules.martin@student.edu
+ST24774,Girard,Harper,29,Innovation Technologique,harper.girard@student.edu
+ST22354,François,Chloé,25,Business,chloé.françois@student.edu
+ST28397,Jones,Adam,25,Data Science,adam.jones@student.edu
+ST23149,Lefebvre,Arthur,33,Intelligence Artificielle,arthur.lefebvre@student.edu
+ST25914,Mercier,Chloé,21,Intelligence Artificielle,chloé.mercier@student.edu
+ST23748,Moreau,Abigail,20,Cybersécurité,abigail.moreau@student.edu
+ST21319,Dubois,Sofia,22,Business,sofia.dubois@student.edu
+ST20024,Bonnet,Noah,23,Innovation Technologique,noah.bonnet@student.edu
+ST23654,Garnier,Charlotte,33,Entrepreneuriat,charlotte.garnier@student.edu
+ST29966,Garnier,Arthur,23,Cybersécurité,arthur.garnier@student.edu
+ST20685,Andre,Liam,21,Finance,liam.andre@student.edu
+ST29992,Dubois,Louise,19,Finance,louise.dubois@student.edu
+ST26629,Richard,Theodore,34,Entrepreneuriat,theodore.richard@student.edu
+ST24176,Laurent,Ethan,23,Data Science,ethan.laurent@student.edu
+ST26876,Martin,Sophia,25,Entrepreneuriat,sophia.martin@student.edu
+ST27123,Johnson,Noah,28,Intelligence Artificielle,noah.johnson@student.edu
+ST21622,Laurent,Manon,22,Innovation Technologique,manon.laurent@student.edu
+ST21460,Michel,Emma,35,Marketing Digital,emma.michel@student.edu
+ST25465,Robert,Alice,24,Marketing Digital,alice.robert@student.edu
+ST28926,Michel,Emma,25,Cybersécurité,emma.michel@student.edu
+ST25839,Laurent,Abigail,23,Management International,abigail.laurent@student.edu
+ST26136,Lefebvre,Olivia,20,Entrepreneuriat,olivia.lefebvre@student.edu
+ST20000,Vincent,James,34,Innovation Technologique,james.vincent@student.edu
+ST24433,Vincent,Nathan,20,Commerce International,nathan.vincent@student.edu
+ST22396,Garnier,Gabriel,22,Commerce International,gabriel.garnier@student.edu
+ST28548,Bertrand,Sarah,31,Data Science,sarah.bertrand@student.edu
+ST25063,Williams,Clara,35,Innovation Technologique,clara.williams@student.edu
+ST22732,Robert,James,28,Cybersécurité,james.robert@student.edu
+ST29538,Simon,Benjamin,19,Finance,benjamin.simon@student.edu
+ST25409,Girard,Olivia,34,Data Science,olivia.girard@student.edu
+ST23141,Taylor,Nathan,25,Data Science,nathan.taylor@student.edu
+ST21937,Fournier,Louis,34,Data Science,louis.fournier@student.edu
+ST20594,Garnier,Elijah,33,Cybersécurité,elijah.garnier@student.edu
+ST27871,Williams,Emma,32,Intelligence Artificielle,emma.williams@student.edu
+ST26830,Laurent,Arthur,32,Entrepreneuriat,arthur.laurent@student.edu
+ST27127,Wilson,Emma,34,Entrepreneuriat,emma.wilson@student.edu
+ST28367,Robert,James,26,Entrepreneuriat,james.robert@student.edu
+ST23307,Davis,Isabella,35,Management International,isabella.davis@student.edu
+ST25738,Andre,Louise,22,Management International,louise.andre@student.edu
+ST26975,Brown,Benjamin,30,Entrepreneuriat,benjamin.brown@student.edu
+ST25874,Michel,Charlotte,18,Commerce International,charlotte.michel@student.edu
+ST25450,Faure,Hugo,23,Entrepreneuriat,hugo.faure@student.edu
+ST24482,François,Harper,21,Commerce International,harper.françois@student.edu
+ST28020,Martin,Sophia,21,Innovation Technologique,sophia.martin@student.edu
+ST27216,Girard,Léo,25,Data Science,léo.girard@student.edu
+ST23859,Davis,Abigail,29,Entrepreneuriat,abigail.davis@student.edu
+ST20017,Bernard,Jules,30,Innovation Technologique,jules.bernard@student.edu
+ST26472,François,Abigail,20,Management International,abigail.françois@student.edu
+ST28779,Anderson,Noah,29,Cybersécurité,noah.anderson@student.edu
+ST26727,Andre,Amelia,21,Marketing Digital,amelia.andre@student.edu
+ST25031,Lefevre,Evelyn,22,Cybersécurité,evelyn.lefevre@student.edu
+ST25930,Williams,William,23,Commerce International,william.williams@student.edu
+ST26605,Garcia,Adam,18,Finance,adam.garcia@student.edu
+ST23313,David,Jack,34,Cybersécurité,jack.david@student.edu
+ST20540,Robert,Lucas,18,Business,lucas.robert@student.edu
+ST20473,Miller,Alice,34,Cybersécurité,alice.miller@student.edu
+ST23472,Mercier,Inès,19,Data Science,inès.mercier@student.edu
+ST24916,Martinez,Gabriel,33,Innovation Technologique,gabriel.martinez@student.edu
+ST24982,Michel,Isabella,35,Finance,isabella.michel@student.edu
+ST25202,Moreau,Alice,34,Finance,alice.moreau@student.edu
+ST29876,Wilson,Jack,25,Entrepreneuriat,jack.wilson@student.edu
+ST26539,Richard,Hugo,19,Finance,hugo.richard@student.edu
+ST23860,Bertrand,Louise,34,Business,louise.bertrand@student.edu
+ST23762,Andre,Jack,22,Marketing Digital,jack.andre@student.edu
+ST28498,Robert,Arthur,34,Entrepreneuriat,arthur.robert@student.edu
+ST29453,Faure,Jules,19,Entrepreneuriat,jules.faure@student.edu
+ST23627,Lefevre,Léo,27,Cybersécurité,léo.lefevre@student.edu
+ST22247,Anderson,Sofia,25,Intelligence Artificielle,sofia.anderson@student.edu
+ST24082,Williams,Louis,32,Marketing Digital,louis.williams@student.edu
+ST28497,Roux,Evelyn,28,Management International,evelyn.roux@student.edu
+ST29492,Garnier,Olivia,34,Management International,olivia.garnier@student.edu
+ST24898,Moore,Louis,34,Data Science,louis.moore@student.edu
+ST21144,François,Léo,26,Business,léo.françois@student.edu
+ST24547,Bernard,Jack,29,Intelligence Artificielle,jack.bernard@student.edu
+ST29539,Garcia,Lucas,27,Cybersécurité,lucas.garcia@student.edu
+ST20940,Faure,Jack,35,Entrepreneuriat,jack.faure@student.edu
+ST23431,Morel,Theodore,19,Commerce International,theodore.morel@student.edu
+ST25715,Legrand,Elijah,20,Intelligence Artificielle,elijah.legrand@student.edu
+ST28830,Thomas,Gabriel,20,Innovation Technologique,gabriel.thomas@student.edu
+ST27801,Wilson,Lucas,19,Commerce International,lucas.wilson@student.edu
+ST23571,Fournier,Ethan,22,Marketing Digital,ethan.fournier@student.edu
+ST21106,Moore,Olivia,30,Cybersécurité,olivia.moore@student.edu
+ST23506,Faure,Evelyn,18,Management International,evelyn.faure@student.edu
+ST28700,Robert,Arthur,32,Entrepreneuriat,arthur.robert@student.edu
+ST24691,Girard,Manon,19,Marketing Digital,manon.girard@student.edu
+ST21554,Davis,Sofia,19,Cybersécurité,sofia.davis@student.edu
+ST22681,Petit,Clara,30,Cybersécurité,clara.petit@student.edu
+ST28328,Andre,Amelia,21,Data Science,amelia.andre@student.edu
+ST22228,Michel,Inès,29,Innovation Technologique,inès.michel@student.edu
+ST26496,Michel,Sophia,27,Intelligence Artificielle,sophia.michel@student.edu
+ST21199,Moreau,Sophia,20,Cybersécurité,sophia.moreau@student.edu
+ST25628,Jones,Sarah,23,Finance,sarah.jones@student.edu
+ST20280,Lefevre,Jules,19,Management International,jules.lefevre@student.edu
+ST22169,Garcia,Oliver,19,Innovation Technologique,oliver.garcia@student.edu
+ST21311,Laurent,Sofia,18,Business,sofia.laurent@student.edu
+ST26827,François,William,30,Intelligence Artificielle,william.françois@student.edu
+ST20867,Martinez,Emma,19,Finance,emma.martinez@student.edu
+ST22142,Michel,Nathan,31,Business,nathan.michel@student.edu
+ST25620,Moreau,Gabriel,19,Business,gabriel.moreau@student.edu
+ST29601,Simon,Hugo,28,Innovation Technologique,hugo.simon@student.edu
+ST29841,Petit,Sarah,24,Intelligence Artificielle,sarah.petit@student.edu
+ST25076,Thomas,Olivia,35,Entrepreneuriat,olivia.thomas@student.edu
+ST25877,Moreau,William,35,Innovation Technologique,william.moreau@student.edu
+ST29314,Miller,Léo,22,Finance,léo.miller@student.edu
+ST29664,Garnier,Olivia,22,Business,olivia.garnier@student.edu
+ST25728,Martin,Alice,19,Finance,alice.martin@student.edu
+ST20966,Laurent,Lucas,25,Management International,lucas.laurent@student.edu
+ST23012,Davis,Arthur,29,Innovation Technologique,arthur.davis@student.edu
+ST27451,Bertrand,Liam,26,Business,liam.bertrand@student.edu
+ST26638,Vincent,William,21,Data Science,william.vincent@student.edu
+ST27374,Vincent,Adam,21,Innovation Technologique,adam.vincent@student.edu
+ST27878,Robert,Nathan,24,Entrepreneuriat,nathan.robert@student.edu
+ST25047,Garnier,Sophia,21,Management International,sophia.garnier@student.edu
+ST22000,Fournier,Oliver,18,Intelligence Artificielle,oliver.fournier@student.edu
+ST24337,Moore,James,27,Cybersécurité,james.moore@student.edu
+ST20274,Faure,Camille,34,Data Science,camille.faure@student.edu
+ST29288,Bonnet,Chloé,21,Management International,chloé.bonnet@student.edu
+ST20482,Garnier,Abigail,33,Intelligence Artificielle,abigail.garnier@student.edu
+ST25094,Lefebvre,Léa,19,Marketing Digital,léa.lefebvre@student.edu
+ST24774,Martin,Arthur,27,Innovation Technologique,arthur.martin@student.edu
+ST25860,Davis,William,32,Data Science,william.davis@student.edu
+ST26904,Davis,Isabella,29,Data Science,isabella.davis@student.edu
+ST29341,Legrand,Sophia,21,Innovation Technologique,sophia.legrand@student.edu
+ST20581,Richard,Léo,32,Management International,léo.richard@student.edu
+ST25432,Thomas,Louise,20,Marketing Digital,louise.thomas@student.edu
+ST28730,Jones,Theodore,31,Commerce International,theodore.jones@student.edu
+ST21327,Brown,Gabriel,21,Data Science,gabriel.brown@student.edu
+ST23806,Bernard,Jack,26,Marketing Digital,jack.bernard@student.edu
+ST29421,Martinez,Abigail,34,Business,abigail.martinez@student.edu
+ST25803,Bonnet,Abigail,24,Data Science,abigail.bonnet@student.edu
+ST26401,Laurent,Lucas,19,Commerce International,lucas.laurent@student.edu
+ST26566,Bertrand,Sophia,34,Cybersécurité,sophia.bertrand@student.edu
+ST29769,Thomas,Clara,35,Cybersécurité,clara.thomas@student.edu
+ST28457,Martin,Harper,19,Data Science,harper.martin@student.edu
+ST28467,Robert,Gabriel,23,Marketing Digital,gabriel.robert@student.edu
+ST25615,Richard,Amelia,27,Intelligence Artificielle,amelia.richard@student.edu
+ST29612,Andre,Alice,19,Innovation Technologique,alice.andre@student.edu
+ST27100,Faure,Jack,27,Finance,jack.faure@student.edu
+ST28886,David,Benjamin,21,Data Science,benjamin.david@student.edu
+ST22171,Petit,Arthur,21,Finance,arthur.petit@student.edu
+ST28997,Thomas,Charlotte,28,Innovation Technologique,charlotte.thomas@student.edu
+ST27125,Laurent,Inès,23,Commerce International,inès.laurent@student.edu
+ST22752,Durand,William,18,Finance,william.durand@student.edu
+ST25075,Johnson,Sophia,31,Cybersécurité,sophia.johnson@student.edu
+ST20051,Lefevre,Gabriel,23,Innovation Technologique,gabriel.lefevre@student.edu
+ST21197,Laurent,Louise,27,Commerce International,louise.laurent@student.edu
+ST29144,Jones,Mia,19,Cybersécurité,mia.jones@student.edu
+ST20821,Davis,Noah,32,Innovation Technologique,noah.davis@student.edu
+ST20229,Michel,Mia,22,Intelligence Artificielle,mia.michel@student.edu
+ST22306,Vincent,Elijah,30,Commerce International,elijah.vincent@student.edu
+ST21942,Bernard,Liam,33,Cybersécurité,liam.bernard@student.edu
+ST28558,Bernard,Sarah,21,Finance,sarah.bernard@student.edu
+ST24168,Miller,Inès,31,Management International,inès.miller@student.edu
+ST25958,Martinez,Gabriel,21,Data Science,gabriel.martinez@student.edu
+ST22533,Bertrand,Jack,24,Intelligence Artificielle,jack.bertrand@student.edu
+ST27460,Thomas,Ethan,33,Intelligence Artificielle,ethan.thomas@student.edu
+ST24382,Morel,Benjamin,29,Data Science,benjamin.morel@student.edu
+ST20592,Lefevre,Hugo,21,Innovation Technologique,hugo.lefevre@student.edu
+ST28228,Petit,Ethan,34,Data Science,ethan.petit@student.edu
+ST29813,Moreau,Harper,33,Data Science,harper.moreau@student.edu
+ST20422,Lefevre,Jules,19,Marketing Digital,jules.lefevre@student.edu
+ST29490,Simon,Louis,27,Finance,louis.simon@student.edu
+ST20201,Wilson,Chloé,34,Finance,chloé.wilson@student.edu
+ST22957,Robert,Gabriel,33,Entrepreneuriat,gabriel.robert@student.edu
+ST21774,Vincent,Liam,22,Innovation Technologique,liam.vincent@student.edu
+ST27075,Martinez,Manon,22,Business,manon.martinez@student.edu
+ST26724,Brown,Léa,34,Management International,léa.brown@student.edu
+ST25080,Andre,Evelyn,29,Marketing Digital,evelyn.andre@student.edu
+ST20348,Simon,Olivia,29,Cybersécurité,olivia.simon@student.edu
+ST27002,Williams,Abigail,26,Cybersécurité,abigail.williams@student.edu
+ST23991,Fournier,Jack,28,Entrepreneuriat,jack.fournier@student.edu
+ST29962,Fournier,Lucas,25,Business,lucas.fournier@student.edu
+ST22573,Brown,Hugo,29,Commerce International,hugo.brown@student.edu
+ST26055,Durand,Alice,20,Management International,alice.durand@student.edu
+ST20553,Robert,Léo,30,Innovation Technologique,léo.robert@student.edu
+ST24862,Thomas,Isabella,30,Management International,isabella.thomas@student.edu
+ST24648,Anderson,Olivia,21,Data Science,olivia.anderson@student.edu
+ST21772,François,Léo,19,Intelligence Artificielle,léo.françois@student.edu
+ST20255,Thomas,Louise,20,Entrepreneuriat,louise.thomas@student.edu
+ST26550,Garcia,Ethan,25,Cybersécurité,ethan.garcia@student.edu
+ST27541,Bonnet,Léa,33,Cybersécurité,léa.bonnet@student.edu
+ST23498,Jones,William,26,Innovation Technologique,william.jones@student.edu
+ST28148,Johnson,Amelia,25,Management International,amelia.johnson@student.edu
+ST24579,Simon,Evelyn,27,Marketing Digital,evelyn.simon@student.edu
+ST21301,Laurent,Evelyn,20,Entrepreneuriat,evelyn.laurent@student.edu
+ST27516,Garcia,Sofia,27,Data Science,sofia.garcia@student.edu
+ST20530,Moreau,Léo,34,Management International,léo.moreau@student.edu
+ST29580,Garcia,Oliver,20,Finance,oliver.garcia@student.edu
+ST27496,Johnson,Léo,34,Commerce International,léo.johnson@student.edu
+ST21301,Petit,Clara,29,Business,clara.petit@student.edu
+ST28429,Thomas,Amelia,21,Entrepreneuriat,amelia.thomas@student.edu
+ST25468,Morel,Sophia,26,Commerce International,sophia.morel@student.edu
+ST25382,Thomas,Mia,34,Intelligence Artificielle,mia.thomas@student.edu
+ST24479,Roux,James,30,Marketing Digital,james.roux@student.edu
+ST20031,Garnier,Harper,29,Cybersécurité,harper.garnier@student.edu
+ST26502,Morel,Inès,35,Commerce International,inès.morel@student.edu
+ST27856,Andre,Manon,18,Entrepreneuriat,manon.andre@student.edu
+ST21056,Davis,Chloé,26,Business,chloé.davis@student.edu
+ST20350,Bonnet,Sophia,26,Commerce International,sophia.bonnet@student.edu
+ST22024,Vincent,Jack,20,Business,jack.vincent@student.edu
+ST21871,Dubois,Mia,22,Data Science,mia.dubois@student.edu
+ST22229,Durand,Sophia,34,Intelligence Artificielle,sophia.durand@student.edu
+ST27988,Michel,Ethan,25,Cybersécurité,ethan.michel@student.edu
+ST21011,Bernard,Emma,21,Data Science,emma.bernard@student.edu
+ST25195,Laurent,Léo,21,Entrepreneuriat,léo.laurent@student.edu
+ST27694,Williams,Adam,21,Marketing Digital,adam.williams@student.edu
+ST25455,Martin,Gabriel,33,Finance,gabriel.martin@student.edu
+ST23988,Laurent,Evelyn,28,Business,evelyn.laurent@student.edu
+ST28782,Vincent,Olivia,31,Finance,olivia.vincent@student.edu
+ST28294,Jones,Nathan,32,Finance,nathan.jones@student.edu
+ST24975,Michel,Léa,31,Cybersécurité,léa.michel@student.edu
+ST22740,Bertrand,Theodore,33,Data Science,theodore.bertrand@student.edu
+ST28092,François,Sophia,32,Business,sophia.françois@student.edu
+ST21752,Bonnet,Léo,23,Intelligence Artificielle,léo.bonnet@student.edu
+ST26089,Fournier,Sarah,33,Business,sarah.fournier@student.edu
+ST26938,Legrand,Chloé,28,Data Science,chloé.legrand@student.edu
+ST26550,Thomas,Amelia,35,Entrepreneuriat,amelia.thomas@student.edu
+ST22054,Petit,Alice,33,Commerce International,alice.petit@student.edu
+ST23137,Davis,Inès,21,Innovation Technologique,inès.davis@student.edu
+ST23922,Girard,Gabriel,18,Innovation Technologique,gabriel.girard@student.edu
+ST28616,Fournier,Charlotte,28,Intelligence Artificielle,charlotte.fournier@student.edu
+ST23736,Durand,Sophia,29,Marketing Digital,sophia.durand@student.edu
+ST23948,Durand,Hugo,35,Business,hugo.durand@student.edu
+ST22156,Lefevre,Evelyn,20,Finance,evelyn.lefevre@student.edu
+ST20163,Andre,Nathan,31,Cybersécurité,nathan.andre@student.edu
+ST25438,Vincent,Mia,26,Innovation Technologique,mia.vincent@student.edu
+ST21466,Andre,Louis,31,Commerce International,louis.andre@student.edu
+ST23246,Taylor,Inès,30,Commerce International,inès.taylor@student.edu
+ST28263,François,Oliver,31,Data Science,oliver.françois@student.edu
+ST27058,Jones,Adam,25,Marketing Digital,adam.jones@student.edu
+ST23922,Lefebvre,Olivia,22,Innovation Technologique,olivia.lefebvre@student.edu
+ST25370,Faure,Lucas,27,Data Science,lucas.faure@student.edu
+ST26417,Garcia,Camille,34,Commerce International,camille.garcia@student.edu
+ST20428,Lefevre,Inès,32,Business,inès.lefevre@student.edu
+ST29755,Jones,Jules,25,Innovation Technologique,jules.jones@student.edu
+ST29179,Bertrand,Léo,33,Finance,léo.bertrand@student.edu
+ST21838,Robert,Nathan,29,Finance,nathan.robert@student.edu
+ST21338,Taylor,Adam,25,Entrepreneuriat,adam.taylor@student.edu
+ST28118,Simon,Camille,23,Cybersécurité,camille.simon@student.edu
+ST23582,Michel,Noah,25,Commerce International,noah.michel@student.edu
+ST21283,Simon,Clara,32,Entrepreneuriat,clara.simon@student.edu
+ST23189,Bertrand,Sophia,31,Intelligence Artificielle,sophia.bertrand@student.edu
+ST26346,Johnson,Lucas,29,Commerce International,lucas.johnson@student.edu
+ST23641,Girard,Amelia,24,Commerce International,amelia.girard@student.edu
+ST23325,Taylor,Mia,26,Intelligence Artificielle,mia.taylor@student.edu
+ST28233,Faure,Léo,35,Cybersécurité,léo.faure@student.edu
+ST26387,Taylor,Theodore,31,Finance,theodore.taylor@student.edu
+ST23484,Faure,Charlotte,28,Finance,charlotte.faure@student.edu
+ST27289,Thomas,Olivia,22,Intelligence Artificielle,olivia.thomas@student.edu
+ST29567,Jones,Louise,32,Innovation Technologique,louise.jones@student.edu
+ST26307,Andre,Léa,18,Innovation Technologique,léa.andre@student.edu
+ST20983,Legrand,Abigail,23,Cybersécurité,abigail.legrand@student.edu
+ST21000,Thomas,Liam,33,Cybersécurité,liam.thomas@student.edu
+ST28904,Martin,Benjamin,18,Data Science,benjamin.martin@student.edu
+ST24349,Girard,Gabriel,24,Commerce International,gabriel.girard@student.edu
+ST25798,Michel,Camille,35,Management International,camille.michel@student.edu
+ST25199,Vincent,Mia,20,Entrepreneuriat,mia.vincent@student.edu
+ST21735,Vincent,Henry,33,Innovation Technologique,henry.vincent@student.edu
+ST23472,François,Jules,32,Data Science,jules.françois@student.edu
+ST26617,Roux,Charlotte,29,Entrepreneuriat,charlotte.roux@student.edu
+ST20258,Miller,Chloé,27,Business,chloé.miller@student.edu
+ST28212,Laurent,Sarah,33,Cybersécurité,sarah.laurent@student.edu
+ST26411,Richard,Léa,25,Commerce International,léa.richard@student.edu
+ST27542,Simon,Lucas,24,Cybersécurité,lucas.simon@student.edu
+ST27217,Martin,Mia,28,Cybersécurité,mia.martin@student.edu
+ST22903,Durand,Theodore,28,Cybersécurité,theodore.durand@student.edu
+ST22746,Thomas,Adam,29,Data Science,adam.thomas@student.edu
+ST25345,Bernard,Lucas,27,Intelligence Artificielle,lucas.bernard@student.edu
+ST20122,Bertrand,Louise,24,Management International,louise.bertrand@student.edu
+ST28038,Fournier,Sophia,34,Intelligence Artificielle,sophia.fournier@student.edu
+ST24918,Wilson,Amelia,32,Management International,amelia.wilson@student.edu
+ST21683,Michel,Chloé,24,Intelligence Artificielle,chloé.michel@student.edu
+ST27467,Williams,William,21,Finance,william.williams@student.edu
+ST24914,Moreau,Adam,20,Data Science,adam.moreau@student.edu
+ST27207,Garnier,Sofia,20,Marketing Digital,sofia.garnier@student.edu
+ST27936,Garcia,Oliver,32,Management International,oliver.garcia@student.edu
+ST26165,Bonnet,William,27,Innovation Technologique,william.bonnet@student.edu
+ST29837,Bernard,Abigail,23,Business,abigail.bernard@student.edu
+ST23313,Martinez,Alice,20,Innovation Technologique,alice.martinez@student.edu
+ST20115,Moreau,Noah,35,Innovation Technologique,noah.moreau@student.edu
+ST22222,Morel,Louise,34,Management International,louise.morel@student.edu
+ST24355,Thomas,Benjamin,28,Cybersécurité,benjamin.thomas@student.edu
+ST27725,Williams,Sarah,23,Commerce International,sarah.williams@student.edu
+ST26692,Simon,Abigail,22,Finance,abigail.simon@student.edu
+ST21243,Garnier,Alice,30,Intelligence Artificielle,alice.garnier@student.edu
+ST24573,Johnson,Hugo,32,Innovation Technologique,hugo.johnson@student.edu
+ST24920,Petit,Sarah,25,Intelligence Artificielle,sarah.petit@student.edu
+ST21033,Johnson,Hugo,27,Cybersécurité,hugo.johnson@student.edu
+ST25584,Richard,Lucas,26,Innovation Technologique,lucas.richard@student.edu
+ST29757,Bernard,Manon,29,Entrepreneuriat,manon.bernard@student.edu
+ST20287,Moreau,Theodore,35,Business,theodore.moreau@student.edu
+ST23788,Dubois,Alice,35,Marketing Digital,alice.dubois@student.edu
+ST26598,Girard,Charlotte,30,Commerce International,charlotte.girard@student.edu
+ST25514,Petit,Noah,30,Intelligence Artificielle,noah.petit@student.edu
+ST22202,François,Chloé,24,Management International,chloé.françois@student.edu
+ST25748,Vincent,Ethan,21,Cybersécurité,ethan.vincent@student.edu
+ST20072,Garnier,Oliver,18,Management International,oliver.garnier@student.edu
+ST28440,Thomas,Isabella,31,Finance,isabella.thomas@student.edu
+ST22278,Jones,Liam,35,Innovation Technologique,liam.jones@student.edu
+ST24762,Martinez,Léa,22,Cybersécurité,léa.martinez@student.edu
+ST20194,Thomas,Amelia,23,Business,amelia.thomas@student.edu
+ST25779,Richard,Benjamin,23,Business,benjamin.richard@student.edu
+ST27489,Petit,Amelia,18,Data Science,amelia.petit@student.edu
+ST28593,Morel,Arthur,20,Commerce International,arthur.morel@student.edu
+ST24681,Moreau,Sarah,31,Business,sarah.moreau@student.edu
+ST20568,Laurent,Jack,33,Cybersécurité,jack.laurent@student.edu
+ST28944,Garcia,Léa,35,Innovation Technologique,léa.garcia@student.edu
+ST20208,Thomas,Olivia,26,Data Science,olivia.thomas@student.edu
+ST25488,Michel,Adam,22,Business,adam.michel@student.edu
+ST23688,Williams,Abigail,31,Entrepreneuriat,abigail.williams@student.edu
+ST29235,Durand,Camille,19,Finance,camille.durand@student.edu
+ST25766,David,Oliver,33,Commerce International,oliver.david@student.edu
+ST24877,Miller,Adam,25,Commerce International,adam.miller@student.edu
+ST29874,Taylor,Manon,22,Intelligence Artificielle,manon.taylor@student.edu
+ST23904,Faure,James,30,Business,james.faure@student.edu
+ST20859,Faure,Liam,32,Management International,liam.faure@student.edu
+ST27179,Mercier,Liam,28,Marketing Digital,liam.mercier@student.edu
+ST28212,Bonnet,Inès,22,Finance,inès.bonnet@student.edu
+ST22229,Lefebvre,Manon,24,Entrepreneuriat,manon.lefebvre@student.edu
+ST26846,Lefevre,Lucas,30,Innovation Technologique,lucas.lefevre@student.edu
+ST28034,Miller,Léo,25,Commerce International,léo.miller@student.edu
+ST22157,Simon,Sarah,26,Finance,sarah.simon@student.edu
+ST29785,Richard,Emma,27,Cybersécurité,emma.richard@student.edu
+ST22368,Bertrand,Liam,23,Entrepreneuriat,liam.bertrand@student.edu
+ST24525,Vincent,Theodore,25,Commerce International,theodore.vincent@student.edu
+ST23426,Martin,Sarah,28,Cybersécurité,sarah.martin@student.edu
+ST29840,David,Gabriel,23,Management International,gabriel.david@student.edu
+ST29570,Jones,Sofia,29,Innovation Technologique,sofia.jones@student.edu
+ST26342,Anderson,Louise,30,Marketing Digital,louise.anderson@student.edu
+ST26882,Garnier,Charlotte,32,Marketing Digital,charlotte.garnier@student.edu
+ST22917,David,Lucas,18,Commerce International,lucas.david@student.edu
+ST29318,David,James,32,Innovation Technologique,james.david@student.edu
+ST22862,Dubois,Chloé,30,Entrepreneuriat,chloé.dubois@student.edu
+ST28727,Wilson,Arthur,33,Data Science,arthur.wilson@student.edu
+ST24574,Jones,Jules,21,Commerce International,jules.jones@student.edu
+ST27238,Andre,Isabella,27,Entrepreneuriat,isabella.andre@student.edu
+ST29250,Wilson,Charlotte,31,Business,charlotte.wilson@student.edu
+ST27595,Bernard,Charlotte,20,Cybersécurité,charlotte.bernard@student.edu
+ST29034,Taylor,Benjamin,26,Marketing Digital,benjamin.taylor@student.edu
+ST28196,Miller,Louise,31,Management International,louise.miller@student.edu
+ST26280,Simon,Léa,32,Marketing Digital,léa.simon@student.edu
+ST25978,Morel,Alice,34,Business,alice.morel@student.edu
+ST27679,Thomas,Benjamin,33,Innovation Technologique,benjamin.thomas@student.edu
+ST28911,Morel,Charlotte,21,Data Science,charlotte.morel@student.edu
+ST20131,Mercier,Clara,28,Data Science,clara.mercier@student.edu
+ST22967,Laurent,Alice,20,Data Science,alice.laurent@student.edu
+ST27311,Jones,Theodore,29,Marketing Digital,theodore.jones@student.edu
+ST27800,Faure,Olivia,22,Data Science,olivia.faure@student.edu
+ST25813,Garcia,Isabella,25,Management International,isabella.garcia@student.edu
+ST26880,Bernard,Elijah,19,Entrepreneuriat,elijah.bernard@student.edu
+ST23166,François,Liam,25,Marketing Digital,liam.françois@student.edu
+ST23278,Roux,Arthur,32,Management International,arthur.roux@student.edu
+ST25446,Durand,Liam,18,Business,liam.durand@student.edu
+ST26797,Bertrand,Lucas,25,Finance,lucas.bertrand@student.edu
+ST23323,Michel,Evelyn,23,Marketing Digital,evelyn.michel@student.edu
+ST23332,Jones,Emma,33,Innovation Technologique,emma.jones@student.edu
+ST27528,Dubois,Louise,18,Finance,louise.dubois@student.edu
+ST20247,Simon,Manon,18,Entrepreneuriat,manon.simon@student.edu
+ST22192,Lefebvre,Abigail,28,Management International,abigail.lefebvre@student.edu
+ST22661,Bernard,Léa,28,Data Science,léa.bernard@student.edu
+ST27522,David,Adam,30,Marketing Digital,adam.david@student.edu
+ST23147,Martin,Abigail,32,Marketing Digital,abigail.martin@student.edu
+ST29645,Bertrand,Manon,23,Finance,manon.bertrand@student.edu
+ST26908,Andre,Harper,23,Innovation Technologique,harper.andre@student.edu
+ST20929,Durand,Chloé,31,Entrepreneuriat,chloé.durand@student.edu
+ST26849,Bonnet,Adam,25,Business,adam.bonnet@student.edu
+ST29518,Lefebvre,Charlotte,31,Business,charlotte.lefebvre@student.edu
+ST27783,Bertrand,Nathan,21,Marketing Digital,nathan.bertrand@student.edu
+ST21277,Lefevre,Amelia,30,Management International,amelia.lefevre@student.edu
+ST21601,Robert,Harper,34,Data Science,harper.robert@student.edu
+ST22887,Roux,Emma,20,Entrepreneuriat,emma.roux@student.edu
+ST23544,Garcia,Charlotte,27,Data Science,charlotte.garcia@student.edu
+ST20080,Moreau,Charlotte,35,Entrepreneuriat,charlotte.moreau@student.edu
+ST28060,Taylor,Ethan,21,Business,ethan.taylor@student.edu
+ST28549,Andre,Emma,31,Cybersécurité,emma.andre@student.edu
+ST28370,Lefevre,Olivia,29,Commerce International,olivia.lefevre@student.edu
+ST25351,Wilson,Hugo,27,Commerce International,hugo.wilson@student.edu
+ST21277,Bonnet,Louis,18,Data Science,louis.bonnet@student.edu
+ST25068,Martinez,Elijah,32,Commerce International,elijah.martinez@student.edu
+ST28925,Moreau,Olivia,23,Marketing Digital,olivia.moreau@student.edu
+ST23924,Moore,Abigail,21,Commerce International,abigail.moore@student.edu
+ST20170,Legrand,Sophia,30,Commerce International,sophia.legrand@student.edu
+ST27211,Richard,Léa,28,Management International,léa.richard@student.edu
+ST20281,Michel,Lucas,34,Management International,lucas.michel@student.edu
+ST21812,Lefebvre,Theodore,32,Finance,theodore.lefebvre@student.edu
+ST27719,François,Hugo,19,Business,hugo.françois@student.edu
+ST20562,Lefebvre,Mia,26,Entrepreneuriat,mia.lefebvre@student.edu
+ST28755,Robert,Mia,23,Business,mia.robert@student.edu
+ST27922,Petit,Louis,28,Management International,louis.petit@student.edu
+ST25832,Durand,Isabella,27,Intelligence Artificielle,isabella.durand@student.edu
+ST24575,Lefevre,Harper,27,Finance,harper.lefevre@student.edu
+ST23093,Bonnet,Gabriel,35,Management International,gabriel.bonnet@student.edu
+ST21799,Anderson,Léa,24,Intelligence Artificielle,léa.anderson@student.edu
+ST22405,Andre,Liam,33,Innovation Technologique,liam.andre@student.edu
+ST24372,Moore,Amelia,32,Finance,amelia.moore@student.edu
+ST20444,Garcia,Adam,33,Finance,adam.garcia@student.edu
+ST24979,Thomas,Sofia,19,Data Science,sofia.thomas@student.edu
+ST20184,Dubois,Elijah,35,Marketing Digital,elijah.dubois@student.edu
+ST26079,Girard,Camille,22,Data Science,camille.girard@student.edu
+ST28077,David,Clara,32,Business,clara.david@student.edu
+ST29185,Vincent,Sarah,18,Cybersécurité,sarah.vincent@student.edu
+ST26333,Andre,Clara,28,Finance,clara.andre@student.edu
+ST29776,Vincent,Adam,30,Finance,adam.vincent@student.edu
+ST21951,Richard,Manon,34,Data Science,manon.richard@student.edu
+ST20586,Martin,Arthur,35,Marketing Digital,arthur.martin@student.edu
+ST22417,Richard,Jules,26,Management International,jules.richard@student.edu
+ST21451,Fournier,Inès,26,Cybersécurité,inès.fournier@student.edu
+ST29559,Petit,Charlotte,27,Entrepreneuriat,charlotte.petit@student.edu
+ST27919,Martinez,Olivia,24,Cybersécurité,olivia.martinez@student.edu
+ST21171,Thomas,Arthur,31,Management International,arthur.thomas@student.edu
+ST21934,Taylor,Charlotte,21,Cybersécurité,charlotte.taylor@student.edu
+ST23355,Wilson,Abigail,20,Commerce International,abigail.wilson@student.edu
+ST25638,Simon,Louis,26,Commerce International,louis.simon@student.edu
+ST25567,Simon,Nathan,19,Commerce International,nathan.simon@student.edu
+ST29736,Anderson,Olivia,21,Intelligence Artificielle,olivia.anderson@student.edu
+ST25688,Martin,Manon,27,Data Science,manon.martin@student.edu
+ST26917,Mercier,Liam,21,Intelligence Artificielle,liam.mercier@student.edu
+ST23432,Roux,Louise,27,Innovation Technologique,louise.roux@student.edu
+ST24838,Faure,Hugo,30,Finance,hugo.faure@student.edu
+ST20908,Robert,Emma,31,Entrepreneuriat,emma.robert@student.edu
+ST23781,Girard,Harper,32,Entrepreneuriat,harper.girard@student.edu
+ST22891,Thomas,James,25,Business,james.thomas@student.edu
+ST24142,Wilson,Jules,18,Finance,jules.wilson@student.edu
+ST26310,Girard,Liam,19,Intelligence Artificielle,liam.girard@student.edu
+ST21401,Martinez,Sophia,27,Intelligence Artificielle,sophia.martinez@student.edu
+ST25479,Dubois,Elijah,34,Commerce International,elijah.dubois@student.edu
+ST28740,Moreau,Theodore,34,Marketing Digital,theodore.moreau@student.edu
+ST29239,Bonnet,Mia,32,Data Science,mia.bonnet@student.edu
+ST20234,Faure,Sofia,23,Entrepreneuriat,sofia.faure@student.edu
+ST20055,Mercier,Sophia,18,Finance,sophia.mercier@student.edu
+ST21995,Bernard,Lucas,29,Intelligence Artificielle,lucas.bernard@student.edu
+ST27261,Lefebvre,Benjamin,34,Management International,benjamin.lefebvre@student.edu
+ST21841,François,James,28,Entrepreneuriat,james.françois@student.edu
+ST21839,François,Jules,35,Cybersécurité,jules.françois@student.edu
+ST22040,Legrand,Chloé,27,Cybersécurité,chloé.legrand@student.edu
+ST24668,Girard,Sarah,32,Data Science,sarah.girard@student.edu
+ST22934,Dubois,Gabriel,27,Marketing Digital,gabriel.dubois@student.edu
+ST22707,Martinez,Henry,20,Innovation Technologique,henry.martinez@student.edu
+ST22979,Simon,Adam,33,Cybersécurité,adam.simon@student.edu
+ST20743,Martin,Chloé,33,Business,chloé.martin@student.edu
+ST23090,Roux,Camille,25,Cybersécurité,camille.roux@student.edu
+ST26348,Morel,Harper,25,Business,harper.morel@student.edu
+ST20109,Martinez,Harper,34,Finance,harper.martinez@student.edu
+ST20060,Martinez,Arthur,33,Innovation Technologique,arthur.martinez@student.edu
+ST26841,Robert,William,32,Cybersécurité,william.robert@student.edu
+ST23928,Mercier,Chloé,30,Management International,chloé.mercier@student.edu
+ST24950,Lefevre,Léo,24,Innovation Technologique,léo.lefevre@student.edu
+ST21875,Mercier,Jules,31,Commerce International,jules.mercier@student.edu
+ST21435,Bernard,Elijah,31,Entrepreneuriat,elijah.bernard@student.edu
+ST28623,Simon,Liam,25,Cybersécurité,liam.simon@student.edu
+ST28311,Davis,Chloé,24,Innovation Technologique,chloé.davis@student.edu
+ST21347,Laurent,Alice,28,Management International,alice.laurent@student.edu
+ST28587,Garcia,Oliver,32,Intelligence Artificielle,oliver.garcia@student.edu
+ST27613,David,Evelyn,18,Commerce International,evelyn.david@student.edu
+ST22161,Vincent,Alice,31,Innovation Technologique,alice.vincent@student.edu
+ST21109,Vincent,Léa,27,Finance,léa.vincent@student.edu
+ST21629,Moreau,Sarah,19,Intelligence Artificielle,sarah.moreau@student.edu
+ST23601,Robert,Jack,20,Innovation Technologique,jack.robert@student.edu
+ST29844,Girard,Benjamin,32,Data Science,benjamin.girard@student.edu
+ST21505,Faure,Sofia,29,Management International,sofia.faure@student.edu
+ST27597,Girard,William,25,Innovation Technologique,william.girard@student.edu
+ST20279,Bernard,Sarah,35,Intelligence Artificielle,sarah.bernard@student.edu
+ST28594,Bertrand,Léa,29,Commerce International,léa.bertrand@student.edu
+ST23252,Garnier,Camille,30,Data Science,camille.garnier@student.edu
+ST25199,Anderson,Sarah,25,Data Science,sarah.anderson@student.edu
+ST28378,Anderson,Sophia,25,Commerce International,sophia.anderson@student.edu
+ST24377,Simon,Léo,24,Intelligence Artificielle,léo.simon@student.edu
+ST23243,Faure,Oliver,25,Data Science,oliver.faure@student.edu
+ST20588,Brown,James,33,Innovation Technologique,james.brown@student.edu
+ST20042,Jones,Sofia,31,Entrepreneuriat,sofia.jones@student.edu
+ST23406,Petit,Louis,33,Management International,louis.petit@student.edu
+ST27081,Dubois,Adam,25,Cybersécurité,adam.dubois@student.edu
+ST26679,Bonnet,Hugo,29,Cybersécurité,hugo.bonnet@student.edu
+ST26443,Simon,Harper,25,Entrepreneuriat,harper.simon@student.edu
+ST21252,Brown,Arthur,23,Business,arthur.brown@student.edu
+ST25540,Miller,Sarah,30,Innovation Technologique,sarah.miller@student.edu
+ST28270,François,Adam,24,Intelligence Artificielle,adam.françois@student.edu
+ST27589,Bertrand,Oliver,23,Innovation Technologique,oliver.bertrand@student.edu
+ST20881,Lefevre,Louis,29,Management International,louis.lefevre@student.edu
+ST20194,Mercier,Amelia,29,Management International,amelia.mercier@student.edu
+ST23052,Bertrand,Adam,20,Entrepreneuriat,adam.bertrand@student.edu
+ST22718,Bernard,Sarah,22,Management International,sarah.bernard@student.edu
+ST27985,Dubois,Amelia,19,Management International,amelia.dubois@student.edu
+ST25517,Martin,Camille,35,Data Science,camille.martin@student.edu
+ST23032,Roux,Adam,24,Cybersécurité,adam.roux@student.edu
+ST24208,David,Sarah,31,Commerce International,sarah.david@student.edu
+ST29690,Legrand,Arthur,32,Data Science,arthur.legrand@student.edu
+ST22412,Bonnet,Inès,23,Business,inès.bonnet@student.edu
+ST23095,Taylor,Jack,34,Marketing Digital,jack.taylor@student.edu
+ST29405,Morel,Camille,31,Cybersécurité,camille.morel@student.edu
+ST27237,Vincent,Léo,26,Entrepreneuriat,léo.vincent@student.edu
+ST23231,Andre,Camille,25,Commerce International,camille.andre@student.edu
+ST22120,Lefebvre,Noah,24,Intelligence Artificielle,noah.lefebvre@student.edu
+ST25077,Moore,Inès,28,Entrepreneuriat,inès.moore@student.edu
+ST25902,Michel,Nathan,31,Finance,nathan.michel@student.edu
+ST23930,Williams,Alice,30,Entrepreneuriat,alice.williams@student.edu
+ST25967,Robert,James,28,Finance,james.robert@student.edu
+ST24572,Michel,Camille,31,Intelligence Artificielle,camille.michel@student.edu
+ST20176,Mercier,Manon,26,Innovation Technologique,manon.mercier@student.edu
+ST23529,Morel,Alice,26,Cybersécurité,alice.morel@student.edu
+ST26573,François,Alice,33,Management International,alice.françois@student.edu
+ST24095,Fournier,Nathan,28,Commerce International,nathan.fournier@student.edu
+ST27811,Miller,James,31,Entrepreneuriat,james.miller@student.edu
+ST26829,Moore,Harper,27,Business,harper.moore@student.edu
+ST21641,Martin,Henry,27,Business,henry.martin@student.edu
+ST23697,Richard,Lucas,18,Business,lucas.richard@student.edu
+ST23241,Faure,Ethan,25,Management International,ethan.faure@student.edu
+ST22842,Lefevre,Sophia,31,Intelligence Artificielle,sophia.lefevre@student.edu
+ST27735,Garcia,Chloé,34,Business,chloé.garcia@student.edu
+ST29776,Garnier,Nathan,28,Cybersécurité,nathan.garnier@student.edu
+ST28555,Moreau,Sophia,26,Management International,sophia.moreau@student.edu
+ST27468,Fournier,Liam,21,Entrepreneuriat,liam.fournier@student.edu
+ST23859,Richard,Louise,26,Marketing Digital,louise.richard@student.edu
+ST22007,Faure,Louis,24,Marketing Digital,louis.faure@student.edu
+ST21792,Johnson,Manon,23,Finance,manon.johnson@student.edu
+ST22004,Lefevre,Noah,18,Entrepreneuriat,noah.lefevre@student.edu
+ST20640,Moreau,Manon,34,Management International,manon.moreau@student.edu
+ST28071,Williams,Sophia,31,Management International,sophia.williams@student.edu
+ST28559,Martin,Léa,23,Entrepreneuriat,léa.martin@student.edu
+ST25947,Lefebvre,Sophia,34,Entrepreneuriat,sophia.lefebvre@student.edu
+ST22213,Fournier,Clara,32,Finance,clara.fournier@student.edu
+ST24519,Morel,Sofia,27,Marketing Digital,sofia.morel@student.edu
+ST24290,Wilson,Benjamin,21,Intelligence Artificielle,benjamin.wilson@student.edu
+ST28476,Thomas,Harper,27,Cybersécurité,harper.thomas@student.edu
+ST20354,Girard,Noah,21,Commerce International,noah.girard@student.edu
+ST23536,Bonnet,James,33,Business,james.bonnet@student.edu
+ST26471,David,Chloé,29,Innovation Technologique,chloé.david@student.edu
+ST26197,Lefevre,Evelyn,28,Entrepreneuriat,evelyn.lefevre@student.edu
+ST22738,Thomas,Olivia,30,Finance,olivia.thomas@student.edu
+ST22021,Dubois,Lucas,30,Management International,lucas.dubois@student.edu
+ST28762,Martin,Olivia,28,Entrepreneuriat,olivia.martin@student.edu
+ST23199,Brown,Manon,34,Marketing Digital,manon.brown@student.edu
+ST27922,Jones,Oliver,23,Finance,oliver.jones@student.edu
+ST21564,Garnier,Arthur,29,Management International,arthur.garnier@student.edu
+ST23599,Girard,Elijah,33,Finance,elijah.girard@student.edu
+ST22580,Richard,Charlotte,22,Management International,charlotte.richard@student.edu
+ST29565,Andre,Alice,26,Commerce International,alice.andre@student.edu
+ST27745,Bertrand,Léo,20,Entrepreneuriat,léo.bertrand@student.edu
+ST27966,Lefebvre,Inès,24,Entrepreneuriat,inès.lefebvre@student.edu
+ST26133,Andre,Harper,27,Intelligence Artificielle,harper.andre@student.edu
+ST22241,Fournier,Adam,18,Data Science,adam.fournier@student.edu
+ST22568,Thomas,Camille,22,Intelligence Artificielle,camille.thomas@student.edu
+ST21940,Brown,Benjamin,30,Commerce International,benjamin.brown@student.edu
+ST21970,Bernard,Liam,35,Data Science,liam.bernard@student.edu
+ST23329,Garnier,Liam,31,Innovation Technologique,liam.garnier@student.edu
+ST26259,Durand,Chloé,21,Innovation Technologique,chloé.durand@student.edu
+ST28420,Brown,Abigail,26,Innovation Technologique,abigail.brown@student.edu
+ST22085,Faure,Abigail,33,Data Science,abigail.faure@student.edu
+ST20142,Thomas,Jules,24,Commerce International,jules.thomas@student.edu
+ST26272,Miller,Sophia,23,Management International,sophia.miller@student.edu
+ST24525,Johnson,Arthur,21,Innovation Technologique,arthur.johnson@student.edu
+ST21279,Bonnet,Mia,35,Data Science,mia.bonnet@student.edu
+ST27216,Bertrand,Henry,18,Management International,henry.bertrand@student.edu
+ST24206,Garnier,Inès,32,Marketing Digital,inès.garnier@student.edu
+ST22132,Taylor,Charlotte,32,Finance,charlotte.taylor@student.edu
+ST29166,Vincent,Gabriel,35,Intelligence Artificielle,gabriel.vincent@student.edu
+ST22169,Andre,Olivia,18,Management International,olivia.andre@student.edu
+ST23817,Mercier,Nathan,34,Commerce International,nathan.mercier@student.edu
+ST24501,Laurent,Lucas,31,Cybersécurité,lucas.laurent@student.edu
+ST20365,Johnson,Oliver,35,Management International,oliver.johnson@student.edu
+ST21525,Taylor,Jules,30,Management International,jules.taylor@student.edu
+ST23392,Taylor,Ethan,23,Data Science,ethan.taylor@student.edu
+ST22382,Bonnet,Sophia,24,Business,sophia.bonnet@student.edu
+ST22773,Fournier,Jules,31,Entrepreneuriat,jules.fournier@student.edu
+ST22272,Legrand,Clara,33,Commerce International,clara.legrand@student.edu
+ST26654,Johnson,Alice,32,Management International,alice.johnson@student.edu
+ST22001,Williams,Liam,35,Finance,liam.williams@student.edu
+ST28412,Anderson,Sophia,25,Finance,sophia.anderson@student.edu
+ST22981,Martin,Liam,22,Cybersécurité,liam.martin@student.edu
+ST23221,Davis,Harper,25,Management International,harper.davis@student.edu
+ST29228,Williams,Manon,20,Management International,manon.williams@student.edu
+ST29448,Girard,Manon,26,Business,manon.girard@student.edu
+ST26793,Anderson,James,31,Entrepreneuriat,james.anderson@student.edu
+ST24594,Martin,Inès,32,Cybersécurité,inès.martin@student.edu
+ST29145,Morel,Jules,33,Commerce International,jules.morel@student.edu
+ST25141,Williams,Noah,30,Commerce International,noah.williams@student.edu
+ST23206,Brown,Isabella,18,Intelligence Artificielle,isabella.brown@student.edu
+ST25457,Martinez,Camille,19,Data Science,camille.martinez@student.edu
+ST25236,Michel,Alice,33,Innovation Technologique,alice.michel@student.edu
+ST23545,Lefevre,Inès,31,Innovation Technologique,inès.lefevre@student.edu
+ST27078,Bonnet,Emma,25,Cybersécurité,emma.bonnet@student.edu
+ST22842,Mercier,Gabriel,22,Management International,gabriel.mercier@student.edu
+ST21832,Martin,Evelyn,21,Finance,evelyn.martin@student.edu
+ST28443,Bertrand,Jack,34,Finance,jack.bertrand@student.edu
+ST27438,Durand,Hugo,32,Marketing Digital,hugo.durand@student.edu
+ST28935,Moreau,Benjamin,20,Entrepreneuriat,benjamin.moreau@student.edu
+ST24286,Girard,Harper,18,Cybersécurité,harper.girard@student.edu
+ST29363,David,James,33,Data Science,james.david@student.edu
+ST29104,Taylor,Jules,27,Innovation Technologique,jules.taylor@student.edu
+ST27502,François,Chloé,18,Data Science,chloé.françois@student.edu
+ST24276,Dubois,Léa,32,Management International,léa.dubois@student.edu
+ST29423,Martinez,Liam,35,Management International,liam.martinez@student.edu
+ST28323,Durand,Clara,34,Marketing Digital,clara.durand@student.edu
+ST29999,Brown,Camille,30,Cybersécurité,camille.brown@student.edu
+ST20051,Vincent,Jack,22,Management International,jack.vincent@student.edu
+ST29830,Laurent,Sofia,25,Cybersécurité,sofia.laurent@student.edu
+ST20269,Martin,Manon,22,Innovation Technologique,manon.martin@student.edu
+ST23979,Girard,Manon,22,Cybersécurité,manon.girard@student.edu
+ST22570,Moreau,Charlotte,21,Entrepreneuriat,charlotte.moreau@student.edu
+ST25008,Girard,Sofia,25,Entrepreneuriat,sofia.girard@student.edu
+ST23682,Michel,Inès,28,Finance,inès.michel@student.edu
+ST20414,Wilson,Sarah,28,Business,sarah.wilson@student.edu
+ST25040,Laurent,Léa,20,Cybersécurité,léa.laurent@student.edu
+ST21815,Garnier,Sophia,31,Business,sophia.garnier@student.edu
+ST25360,Girard,Amelia,27,Data Science,amelia.girard@student.edu
+ST25656,Morel,Hugo,22,Business,hugo.morel@student.edu
+ST21853,François,Evelyn,32,Entrepreneuriat,evelyn.françois@student.edu
+ST23957,Moreau,Léo,29,Cybersécurité,léo.moreau@student.edu
+ST22142,Martinez,Inès,29,Cybersécurité,inès.martinez@student.edu
+ST26827,Durand,Sophia,19,Commerce International,sophia.durand@student.edu
+ST29873,Jones,Ethan,29,Cybersécurité,ethan.jones@student.edu
+ST29492,Johnson,Liam,21,Intelligence Artificielle,liam.johnson@student.edu
+ST29745,Martin,Elijah,20,Management International,elijah.martin@student.edu
+ST23307,Thomas,Gabriel,29,Marketing Digital,gabriel.thomas@student.edu
+ST23269,Simon,Arthur,18,Entrepreneuriat,arthur.simon@student.edu
+ST22252,Petit,Oliver,19,Cybersécurité,oliver.petit@student.edu
+ST22332,Lefevre,Jules,33,Commerce International,jules.lefevre@student.edu
+ST22132,Brown,James,30,Intelligence Artificielle,james.brown@student.edu
+ST21583,Petit,Evelyn,33,Finance,evelyn.petit@student.edu
+ST23285,Bertrand,Léa,29,Intelligence Artificielle,léa.bertrand@student.edu
+ST22028,Andre,Jack,23,Data Science,jack.andre@student.edu
+ST25795,Durand,Benjamin,30,Finance,benjamin.durand@student.edu
+ST24579,Michel,Alice,29,Marketing Digital,alice.michel@student.edu
+ST29690,Richard,Amelia,33,Cybersécurité,amelia.richard@student.edu
+ST20581,Robert,Chloé,31,Intelligence Artificielle,chloé.robert@student.edu
+ST21338,Jones,Amelia,26,Commerce International,amelia.jones@student.edu
+ST22196,David,Louis,23,Commerce International,louis.david@student.edu
+ST21958,Michel,Henry,27,Management International,henry.michel@student.edu
+ST27233,Taylor,Henry,27,Marketing Digital,henry.taylor@student.edu
+ST23606,Wilson,Manon,35,Management International,manon.wilson@student.edu
+ST21878,Michel,Benjamin,23,Marketing Digital,benjamin.michel@student.edu
+ST26036,Petit,Harper,24,Innovation Technologique,harper.petit@student.edu
+ST26311,Michel,Sophia,27,Commerce International,sophia.michel@student.edu
+ST29822,Moreau,Abigail,34,Innovation Technologique,abigail.moreau@student.edu
+ST27727,Garnier,Evelyn,26,Intelligence Artificielle,evelyn.garnier@student.edu
+ST23725,Dubois,Noah,35,Entrepreneuriat,noah.dubois@student.edu
+ST24799,Davis,Manon,34,Finance,manon.davis@student.edu
+ST27845,Laurent,Charlotte,20,Marketing Digital,charlotte.laurent@student.edu
+ST24799,Lefebvre,James,29,Management International,james.lefebvre@student.edu
+ST24653,Simon,Evelyn,26,Intelligence Artificielle,evelyn.simon@student.edu
+ST20791,Davis,Evelyn,32,Entrepreneuriat,evelyn.davis@student.edu
+ST20813,Garnier,Adam,20,Management International,adam.garnier@student.edu
+ST26321,Johnson,Nathan,24,Cybersécurité,nathan.johnson@student.edu
+ST21316,Davis,William,30,Business,william.davis@student.edu
+ST23352,Robert,Camille,30,Management International,camille.robert@student.edu
+ST27946,Lefebvre,Hugo,33,Intelligence Artificielle,hugo.lefebvre@student.edu
+ST24558,Thomas,Nathan,18,Finance,nathan.thomas@student.edu
+ST29823,Faure,Jack,30,Entrepreneuriat,jack.faure@student.edu
+ST24955,Wilson,Clara,23,Management International,clara.wilson@student.edu
+ST20879,Taylor,Adam,32,Marketing Digital,adam.taylor@student.edu
+ST20345,Garnier,Olivia,30,Business,olivia.garnier@student.edu
+ST27884,Legrand,Isabella,30,Cybersécurité,isabella.legrand@student.edu
+ST26424,Laurent,Inès,28,Finance,inès.laurent@student.edu
+ST27687,Moreau,Clara,34,Data Science,clara.moreau@student.edu
+ST24546,Davis,Evelyn,23,Marketing Digital,evelyn.davis@student.edu
+ST20609,Wilson,Manon,25,Finance,manon.wilson@student.edu
+ST29208,Petit,Gabriel,18,Intelligence Artificielle,gabriel.petit@student.edu
+ST27502,Fournier,Chloé,35,Commerce International,chloé.fournier@student.edu
+ST22580,Vincent,Sofia,19,Intelligence Artificielle,sofia.vincent@student.edu
+ST28366,Thomas,Liam,32,Data Science,liam.thomas@student.edu
+ST23863,Moore,Sophia,24,Marketing Digital,sophia.moore@student.edu
+ST24341,Roux,William,29,Management International,william.roux@student.edu
+ST22580,Martin,Lucas,35,Commerce International,lucas.martin@student.edu
+ST22847,Bertrand,Hugo,32,Innovation Technologique,hugo.bertrand@student.edu
+ST22546,Roux,Léa,25,Cybersécurité,léa.roux@student.edu
+ST27036,Dubois,Léa,32,Data Science,léa.dubois@student.edu
+ST20011,Robert,Harper,29,Data Science,harper.robert@student.edu
+ST25514,Bernard,Amelia,35,Entrepreneuriat,amelia.bernard@student.edu
+ST26872,Durand,Theodore,32,Marketing Digital,theodore.durand@student.edu
+ST26559,Lefevre,Noah,22,Intelligence Artificielle,noah.lefevre@student.edu
+ST22037,Fournier,Chloé,33,Finance,chloé.fournier@student.edu
+ST27449,Petit,Camille,21,Cybersécurité,camille.petit@student.edu
+ST26514,Martin,Olivia,26,Management International,olivia.martin@student.edu
+ST23211,Moore,Arthur,18,Commerce International,arthur.moore@student.edu
+ST22612,Mercier,Jules,33,Cybersécurité,jules.mercier@student.edu
+ST23843,Fournier,Mia,26,Entrepreneuriat,mia.fournier@student.edu
+ST29243,Garnier,Charlotte,29,Entrepreneuriat,charlotte.garnier@student.edu
+ST21763,Bonnet,Benjamin,18,Innovation Technologique,benjamin.bonnet@student.edu
+ST21528,Faure,Abigail,33,Commerce International,abigail.faure@student.edu
+ST28717,Morel,Léo,19,Cybersécurité,léo.morel@student.edu
+ST27529,Garcia,Amelia,35,Marketing Digital,amelia.garcia@student.edu
+ST28410,Roux,Mia,27,Innovation Technologique,mia.roux@student.edu
+ST20909,Fournier,Amelia,34,Finance,amelia.fournier@student.edu
+ST29138,Garcia,Noah,30,Innovation Technologique,noah.garcia@student.edu
+ST21875,Davis,Hugo,20,Intelligence Artificielle,hugo.davis@student.edu
+ST20089,Vincent,Ethan,19,Finance,ethan.vincent@student.edu
+ST29272,Brown,Clara,27,Intelligence Artificielle,clara.brown@student.edu
+ST21603,Dubois,Charlotte,35,Marketing Digital,charlotte.dubois@student.edu
+ST20310,Lefebvre,Harper,29,Management International,harper.lefebvre@student.edu
+ST28743,Michel,Evelyn,32,Management International,evelyn.michel@student.edu
+ST25791,Taylor,Lucas,28,Business,lucas.taylor@student.edu
+ST25331,Taylor,Arthur,22,Innovation Technologique,arthur.taylor@student.edu
+ST20962,Girard,Oliver,20,Cybersécurité,oliver.girard@student.edu
+ST26736,Garnier,Liam,20,Business,liam.garnier@student.edu
+ST23944,David,Theodore,22,Intelligence Artificielle,theodore.david@student.edu
+ST21381,Anderson,Arthur,19,Marketing Digital,arthur.anderson@student.edu
+ST27426,Garcia,Léa,20,Innovation Technologique,léa.garcia@student.edu
+ST27082,Robert,James,24,Intelligence Artificielle,james.robert@student.edu
+ST23058,Mercier,Lucas,20,Cybersécurité,lucas.mercier@student.edu
+ST22919,Taylor,Mia,20,Finance,mia.taylor@student.edu
+ST22733,Dubois,Mia,33,Data Science,mia.dubois@student.edu
+ST28254,François,Emma,20,Entrepreneuriat,emma.françois@student.edu
+ST28042,Moreau,Louise,23,Innovation Technologique,louise.moreau@student.edu
+ST25075,Bonnet,Elijah,25,Intelligence Artificielle,elijah.bonnet@student.edu
+ST24439,Taylor,Noah,35,Intelligence Artificielle,noah.taylor@student.edu
+ST20053,Johnson,Mia,27,Finance,mia.johnson@student.edu
+ST23228,Bernard,Emma,28,Business,emma.bernard@student.edu
+ST28948,Martin,Inès,25,Entrepreneuriat,inès.martin@student.edu
+ST28902,Moore,Noah,19,Finance,noah.moore@student.edu
+ST24839,Bernard,Arthur,18,Commerce International,arthur.bernard@student.edu
+ST29525,Michel,Olivia,26,Business,olivia.michel@student.edu
+ST20238,Vincent,Elijah,23,Data Science,elijah.vincent@student.edu
+ST20981,Fournier,Jules,35,Management International,jules.fournier@student.edu
+ST20677,Anderson,Sophia,19,Entrepreneuriat,sophia.anderson@student.edu
+ST26741,Bernard,Abigail,29,Cybersécurité,abigail.bernard@student.edu
+ST28028,Richard,Oliver,19,Data Science,oliver.richard@student.edu
+ST20482,Martin,Abigail,22,Innovation Technologique,abigail.martin@student.edu
+ST21444,Lefevre,Alice,26,Finance,alice.lefevre@student.edu
+ST29759,Mercier,James,25,Entrepreneuriat,james.mercier@student.edu
+ST28003,Michel,Harper,32,Innovation Technologique,harper.michel@student.edu
+ST24448,Johnson,Clara,29,Business,clara.johnson@student.edu
+ST25278,Martinez,Henry,27,Cybersécurité,henry.martinez@student.edu
+ST20425,Fournier,Evelyn,19,Cybersécurité,evelyn.fournier@student.edu
+ST24552,Garnier,Isabella,27,Management International,isabella.garnier@student.edu
+ST29313,Legrand,Liam,31,Marketing Digital,liam.legrand@student.edu
+ST26598,Michel,Jules,29,Commerce International,jules.michel@student.edu
+ST29286,Vincent,Emma,22,Management International,emma.vincent@student.edu
+ST21305,Williams,Olivia,22,Finance,olivia.williams@student.edu
+ST20456,Vincent,Inès,34,Entrepreneuriat,inès.vincent@student.edu
+ST23304,Anderson,Manon,24,Intelligence Artificielle,manon.anderson@student.edu
+ST20294,Faure,Léa,26,Data Science,léa.faure@student.edu
+ST28894,Richard,Benjamin,23,Business,benjamin.richard@student.edu
+ST24175,Taylor,James,18,Finance,james.taylor@student.edu
+ST27078,Jones,Hugo,28,Data Science,hugo.jones@student.edu
+ST27194,Bertrand,Sophia,31,Innovation Technologique,sophia.bertrand@student.edu
+ST29724,Laurent,Jules,31,Management International,jules.laurent@student.edu
+ST29226,Richard,Olivia,19,Intelligence Artificielle,olivia.richard@student.edu
+ST25282,Davis,Sophia,34,Entrepreneuriat,sophia.davis@student.edu
+ST26872,Taylor,Nathan,28,Commerce International,nathan.taylor@student.edu
+ST29968,Jones,Harper,23,Innovation Technologique,harper.jones@student.edu
+ST26267,Morel,Mia,34,Cybersécurité,mia.morel@student.edu
+ST27673,Moore,Lucas,22,Marketing Digital,lucas.moore@student.edu
+ST23884,Richard,Léa,30,Marketing Digital,léa.richard@student.edu
+ST20505,Laurent,Chloé,35,Innovation Technologique,chloé.laurent@student.edu
+ST24511,Wilson,Mia,19,Marketing Digital,mia.wilson@student.edu
+ST27230,Andre,Isabella,20,Entrepreneuriat,isabella.andre@student.edu
+ST23908,Roux,Chloé,23,Finance,chloé.roux@student.edu
+ST23594,Lefebvre,Adam,30,Intelligence Artificielle,adam.lefebvre@student.edu
+ST23611,Williams,Isabella,34,Marketing Digital,isabella.williams@student.edu
+ST20814,Williams,Emma,31,Cybersécurité,emma.williams@student.edu
+ST23494,Lefevre,Sofia,26,Entrepreneuriat,sofia.lefevre@student.edu
+ST26262,Fournier,Olivia,27,Cybersécurité,olivia.fournier@student.edu
+ST20923,Girard,Léo,22,Management International,léo.girard@student.edu
+ST25054,Simon,Louise,29,Marketing Digital,louise.simon@student.edu
+ST27671,Robert,Elijah,21,Data Science,elijah.robert@student.edu
+ST26976,Michel,Nathan,18,Data Science,nathan.michel@student.edu
+ST27794,Roux,Ethan,24,Business,ethan.roux@student.edu
+ST23999,Johnson,Abigail,30,Cybersécurité,abigail.johnson@student.edu
+ST20050,Bertrand,Adam,25,Data Science,adam.bertrand@student.edu
+ST29817,Simon,Ethan,21,Cybersécurité,ethan.simon@student.edu
+ST27681,Robert,Noah,29,Cybersécurité,noah.robert@student.edu
+ST27074,Wilson,William,34,Innovation Technologique,william.wilson@student.edu
+ST28101,Bernard,Theodore,34,Marketing Digital,theodore.bernard@student.edu
+ST26915,Lefevre,Inès,19,Marketing Digital,inès.lefevre@student.edu
+ST22942,Martinez,Harper,27,Management International,harper.martinez@student.edu
+ST22951,Bonnet,Elijah,22,Commerce International,elijah.bonnet@student.edu
+ST26682,Vincent,Gabriel,31,Entrepreneuriat,gabriel.vincent@student.edu
+ST27324,Davis,Jack,27,Marketing Digital,jack.davis@student.edu
+ST24197,Brown,Louise,27,Marketing Digital,louise.brown@student.edu
+ST21105,Moore,Hugo,23,Cybersécurité,hugo.moore@student.edu
+ST25070,Robert,Inès,34,Management International,inès.robert@student.edu
+ST20324,Durand,Abigail,22,Entrepreneuriat,abigail.durand@student.edu
+ST22231,Bertrand,Liam,18,Management International,liam.bertrand@student.edu
+ST20134,Moore,James,32,Finance,james.moore@student.edu
+ST29325,Laurent,Harper,31,Finance,harper.laurent@student.edu
+ST29221,Williams,Olivia,32,Innovation Technologique,olivia.williams@student.edu
+ST26614,Faure,Léa,29,Data Science,léa.faure@student.edu
+ST25509,Dubois,Sarah,33,Entrepreneuriat,sarah.dubois@student.edu
+ST25250,Durand,Abigail,27,Entrepreneuriat,abigail.durand@student.edu
+ST21543,Bertrand,Elijah,31,Commerce International,elijah.bertrand@student.edu
+ST25545,Williams,Louis,26,Intelligence Artificielle,louis.williams@student.edu
+ST23676,Garcia,Evelyn,30,Management International,evelyn.garcia@student.edu
+ST27879,Davis,Emma,24,Commerce International,emma.davis@student.edu
+ST22829,Bernard,Inès,19,Business,inès.bernard@student.edu
+ST23313,Moreau,Adam,33,Cybersécurité,adam.moreau@student.edu
+ST27528,Williams,Amelia,34,Finance,amelia.williams@student.edu
+ST28307,Mercier,James,30,Commerce International,james.mercier@student.edu
+ST26794,Laurent,Noah,34,Marketing Digital,noah.laurent@student.edu
+ST20803,David,Ethan,28,Entrepreneuriat,ethan.david@student.edu
+ST29983,Andre,James,23,Data Science,james.andre@student.edu
+ST25390,Lefevre,Manon,23,Finance,manon.lefevre@student.edu
+ST22885,Lefevre,Manon,34,Management International,manon.lefevre@student.edu
+ST20342,Garnier,Nathan,25,Innovation Technologique,nathan.garnier@student.edu
+ST20496,Martinez,Arthur,34,Marketing Digital,arthur.martinez@student.edu
+ST29473,Williams,Sarah,35,Finance,sarah.williams@student.edu
+ST22181,François,Camille,30,Innovation Technologique,camille.françois@student.edu
+ST22214,Legrand,Liam,33,Management International,liam.legrand@student.edu
+ST25507,David,Ethan,26,Finance,ethan.david@student.edu
+ST27572,David,Theodore,21,Data Science,theodore.david@student.edu
+ST28795,Martin,Liam,32,Marketing Digital,liam.martin@student.edu
+ST29604,Simon,Sofia,20,Finance,sofia.simon@student.edu
+ST24187,Faure,Inès,20,Entrepreneuriat,inès.faure@student.edu
+ST27432,Petit,Lucas,27,Data Science,lucas.petit@student.edu
+ST26257,Bernard,Léo,30,Finance,léo.bernard@student.edu
+ST22494,Williams,Sarah,24,Business,sarah.williams@student.edu
+ST29683,David,Charlotte,22,Business,charlotte.david@student.edu
+ST22150,Brown,Harper,23,Entrepreneuriat,harper.brown@student.edu
+ST25809,Robert,Chloé,21,Intelligence Artificielle,chloé.robert@student.edu
+ST24149,Mercier,Evelyn,33,Entrepreneuriat,evelyn.mercier@student.edu
+ST29753,Garcia,Noah,21,Management International,noah.garcia@student.edu
+ST22113,Lefevre,Camille,30,Marketing Digital,camille.lefevre@student.edu
+ST25730,Dubois,Léo,18,Data Science,léo.dubois@student.edu
+ST24032,Faure,Manon,28,Commerce International,manon.faure@student.edu
+ST27999,Taylor,Louise,21,Marketing Digital,louise.taylor@student.edu
+ST29491,Dubois,Theodore,35,Data Science,theodore.dubois@student.edu
+ST27237,Garcia,Inès,22,Commerce International,inès.garcia@student.edu
+ST25808,Davis,Isabella,30,Entrepreneuriat,isabella.davis@student.edu
+ST26360,Robert,Jack,35,Entrepreneuriat,jack.robert@student.edu
+ST22073,Fournier,Evelyn,22,Management International,evelyn.fournier@student.edu
+ST27778,Johnson,Abigail,27,Data Science,abigail.johnson@student.edu
+ST28752,Vincent,Sarah,32,Commerce International,sarah.vincent@student.edu
+ST24162,Garnier,Jules,23,Commerce International,jules.garnier@student.edu
+ST23636,Wilson,Olivia,31,Intelligence Artificielle,olivia.wilson@student.edu
+ST25557,Bonnet,Louis,20,Business,louis.bonnet@student.edu
+ST27372,Bernard,Chloé,34,Innovation Technologique,chloé.bernard@student.edu
+ST22726,Fournier,Amelia,19,Entrepreneuriat,amelia.fournier@student.edu
+ST20590,Mercier,Emma,18,Marketing Digital,emma.mercier@student.edu
+ST28404,Simon,Mia,33,Innovation Technologique,mia.simon@student.edu
+ST25583,Laurent,Elijah,19,Cybersécurité,elijah.laurent@student.edu
+ST25117,Garcia,Henry,34,Business,henry.garcia@student.edu
+ST24734,David,Liam,33,Entrepreneuriat,liam.david@student.edu
+ST27567,Brown,Evelyn,19,Entrepreneuriat,evelyn.brown@student.edu
+ST21792,Bonnet,Lucas,30,Intelligence Artificielle,lucas.bonnet@student.edu
+ST22686,Johnson,Sofia,26,Intelligence Artificielle,sofia.johnson@student.edu
+ST22718,Johnson,Camille,24,Intelligence Artificielle,camille.johnson@student.edu
+ST25321,Williams,Evelyn,21,Management International,evelyn.williams@student.edu
+ST23791,Faure,Sarah,21,Commerce International,sarah.faure@student.edu
+ST20899,Andre,Henry,18,Intelligence Artificielle,henry.andre@student.edu
+ST20815,Bertrand,Lucas,20,Management International,lucas.bertrand@student.edu
+ST22428,Legrand,Léa,21,Finance,léa.legrand@student.edu
+ST28480,Taylor,Elijah,34,Management International,elijah.taylor@student.edu
+ST23803,Johnson,James,24,Finance,james.johnson@student.edu
+ST22114,Fournier,Theodore,21,Intelligence Artificielle,theodore.fournier@student.edu
+ST25921,Brown,Oliver,30,Commerce International,oliver.brown@student.edu
+ST28145,Miller,Hugo,30,Data Science,hugo.miller@student.edu
+ST22249,Wilson,Evelyn,22,Innovation Technologique,evelyn.wilson@student.edu
+ST27842,Williams,Adam,27,Finance,adam.williams@student.edu
+ST20393,Petit,Theodore,18,Entrepreneuriat,theodore.petit@student.edu
+ST27038,Garcia,Abigail,28,Cybersécurité,abigail.garcia@student.edu
+ST28963,Girard,Amelia,20,Data Science,amelia.girard@student.edu
+ST27375,Lefebvre,Liam,26,Marketing Digital,liam.lefebvre@student.edu
+ST26162,Williams,Mia,33,Innovation Technologique,mia.williams@student.edu
+ST20884,Martinez,Léo,24,Management International,léo.martinez@student.edu
+ST27471,Laurent,Olivia,34,Commerce International,olivia.laurent@student.edu
+ST28654,Garcia,Léo,21,Business,léo.garcia@student.edu
+ST21353,Roux,Hugo,27,Business,hugo.roux@student.edu
+ST25121,Garcia,Oliver,31,Cybersécurité,oliver.garcia@student.edu
+ST24169,Fournier,Theodore,31,Management International,theodore.fournier@student.edu
+ST20911,Vincent,Jules,22,Innovation Technologique,jules.vincent@student.edu
+ST28831,Williams,Louis,30,Management International,louis.williams@student.edu
+ST22600,Bertrand,Amelia,26,Management International,amelia.bertrand@student.edu
+ST20113,Michel,Theodore,21,Commerce International,theodore.michel@student.edu
+ST21225,Michel,Ethan,29,Management International,ethan.michel@student.edu
+ST29947,Mercier,Camille,23,Business,camille.mercier@student.edu
+ST28451,Miller,Harper,18,Cybersécurité,harper.miller@student.edu
+ST22549,Anderson,Elijah,26,Management International,elijah.anderson@student.edu
+ST28017,Michel,Benjamin,20,Data Science,benjamin.michel@student.edu
+ST22927,Michel,Clara,20,Finance,clara.michel@student.edu
+ST21497,Andre,Theodore,24,Innovation Technologique,theodore.andre@student.edu
+ST29435,Robert,Arthur,31,Cybersécurité,arthur.robert@student.edu
+ST24380,Johnson,Inès,34,Innovation Technologique,inès.johnson@student.edu
+ST20709,Petit,Sophia,30,Finance,sophia.petit@student.edu
+ST28492,Bertrand,Léa,29,Business,léa.bertrand@student.edu
+ST25921,Mercier,Elijah,25,Management International,elijah.mercier@student.edu
+ST29016,Bertrand,Inès,25,Entrepreneuriat,inès.bertrand@student.edu
