@@ -136,13 +136,9 @@ query = df_transformed.writeStream \
 - Compatible Linux/MacOS
 - Support Windows limité
 
-## 👥 Contribution
-1. Fork repository
-2. Créer branche feature
-3. Soumettre PR
 
 ## 📄 License
-MIT License
+Open
 
 ```
 
