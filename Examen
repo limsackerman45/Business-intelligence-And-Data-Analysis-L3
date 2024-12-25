@@ -1,0 +1,481 @@
+# Installer PySpark
+!pip install pyspark
+
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, upper, avg
+
+# Initialiser une session Spark
+spark = SparkSession.builder \
+    .appName("Pipeline ETL") \
+    .getOrCreate()
+
+# Exemple de données étudiantes
+data = [
+    ("Alice", "Lemoine", 22, "Informatique"),
+    ("Bob", "Dupont", 19, "Mathématiques"),
+    ("Charlie", "Durand", 24, "Informatique"),
+    ("David", "Moreau", 21, "Biologie")
+]
+
+# Colonnes du dataset
+columns = ["prenom", "nom", "age", "filiere"]
+
+# Charger les données dans un DataFrame Spark
+df = spark.createDataFrame(data, columns)
+
+# Transformation des données
+df_transformed = df \
+    .withColumn("prenom", upper(col("prenom"))) \
+    .filter(col("age") > 20) \
+    .groupBy("filiere") \
+    .agg(avg("age").alias("moyenne_age"))
+
+# Afficher les données transformées
+df_transformed.show()
+
+import os
+import random
+import time
+
+# Créer le répertoire 'data' si il n'existe pas
+os.makedirs("data", exist_ok=True)
+
+# Spécifier le chemin du fichier
+file_path = "data/streaming_data.txt"
+
+# Écrire les en-têtes dans le fichier
+with open(file_path, "w") as f:
+    f.write("prenom,nom,age,filiere\n")
+
+# Ajouter des données simulées
+for _ in range(10):
+    with open(file_path, "a") as f:
+        prenom = random.choice(["Alice", "Bob", "Charlie", "David", "Eve"])
+        nom = random.choice(["Lemoine", "Dupont", "Durand", "Moreau", "Martin"])
+        age = random.randint(18, 25)
+        filiere = random.choice(["Informatique", "Mathématiques", "Biologie"])
+        f.write(f"{prenom},{nom},{age},{filiere}\n")
+    time.sleep(2)
+
+# Retourner le chemin du fichier créé
+file_path
+
+
+from pyspark.sql.types import StructType, StructField, StringType, IntegerType
+
+# Schéma des données
+schema = StructType([
+    StructField("prenom", StringType(), True),
+    StructField("nom", StringType(), True),
+    StructField("age", IntegerType(), True),
+    StructField("filiere", StringType(), True)
+])
+
+# Lire les données en streaming
+stream_df = spark.readStream \
+    .schema(schema) \
+    .option("header", True) \
+    .csv("/content/")  # Répertoire contenant le fichier simulé
+
+# Transformer les données en temps réel
+stream_transformed = stream_df \
+    .withColumn("prenom", upper(col("prenom"))) \
+    .filter(col("age") > 20) \
+    .groupBy("filiere") \
+    .agg(avg("age").alias("moyenne_age"))
+
+# Afficher les données dans la console
+query = stream_transformed.writeStream \
+    .outputMode("complete") \
+    .format("console") \
+    .start()
+
+query.awaitTermination(30)  # Attendre la fin de la simulation
+stream_df = spark.readStream \
+    .schema(schema) \
+    .option("header", True) \
+    .csv("data")  # Répertoire local où se trouve le fichier
+
+
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, upper
+from pyspark.sql.types import StructType, StructField, StringType, IntegerType
+from pyspark.sql.functions import avg
+
+# Initialiser Spark session
+spark = SparkSession.builder.appName("StreamingApp").getOrCreate()
+
+# Schéma des données
+schema = StructType([
+    StructField("prenom", StringType(), True),
+    StructField("nom", StringType(), True),
+    StructField("age", IntegerType(), True),
+    StructField("filiere", StringType(), True)
+])
+
+# Lire les données en streaming
+stream_df = spark.readStream \
+    .schema(schema) \
+    .option("header", True) \
+    .csv("data")  # Répertoire local où se trouve le fichier simulé
+
+# Transformer les données en temps réel
+stream_transformed = stream_df \
+    .withColumn("prenom", upper(col("prenom"))) \
+    .filter(col("age") > 20) \
+    .groupBy("filiere") \
+    .agg(avg("age").alias("moyenne_age"))
+
+# Afficher les données dans la console
+query = stream_transformed.writeStream \
+    .outputMode("complete") \
+    .format("console") \
+    .start()
+
+query.awaitTermination(30)  # Attendre 30 secondes pour afficher les résultats
+
+
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, upper
+from pyspark.sql.types import StructType, StructField, StringType, IntegerType
+from pyspark.sql.functions import avg
+
+# Initialiser Spark session
+spark = SparkSession.builder.appName("StreamingApp").getOrCreate()
+
+# Schéma des données
+schema = StructType([
+    StructField("prenom", StringType(), True),
+    StructField("nom", StringType(), True),
+    StructField("age", IntegerType(), True),
+    StructField("filiere", StringType(), True)
+])
+
+# Lire les données en streaming
+stream_df = spark.readStream \
+    .schema(schema) \
+    .option("header", True) \
+    .csv("data")  # Répertoire local où se trouve le fichier simulé
+
+# Transformer les données en temps réel
+stream_transformed = stream_df \
+    .withColumn("prenom", upper(col("prenom"))) \
+    .filter(col("age") > 20) \
+    .groupBy("filiere") \
+    .agg(avg("age").alias("moyenne_age"))
+
+# Afficher les données dans la console
+query = stream_transformed.writeStream \
+    .outputMode("complete") \
+    .format("console") \
+    .start()
+
+query.awaitTermination(30)  # Attendre 30 secondes pour afficher les résultats
+
+
+!pip install pyspark
+
+
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, upper, avg
+from pyspark.sql.types import StructType, StructField, StringType, IntegerType
+import sqlite3
+
+# 1. Initialiser la session Spark
+spark = SparkSession.builder.appName("ETL_Students").getOrCreate()
+
+# 2. Schéma des données
+schema = StructType([
+    StructField("prenom", StringType(), True),
+    StructField("nom", StringType(), True),
+    StructField("age", IntegerType(), True),
+    StructField("filiere", StringType(), True)
+])
+
+# 3. Extraction des données
+file_path = "data/streaming_data.txt"  # Chemin vers votre fichier CSV
+students_df = spark.read \
+    .schema(schema) \
+    .option("header", True) \
+    .csv(file_path)
+
+# Afficher les données chargées
+students_df.show()
+
+# 4. Transformation des données
+# Convertir les noms en majuscules
+students_transformed = students_df.withColumn("prenom", upper(col("prenom"))) \
+    .withColumn("nom", upper(col("nom"))) \
+    .filter(col("age") > 20)  # Filtrer les étudiants ayant plus de 20 ans
+
+# Calculer la moyenne d'âge par filière
+students_stats = students_transformed.groupBy("filiere") \
+    .agg(avg("age").alias("moyenne_age"))
+
+# Afficher les résultats transformés
+students_stats.show()
+
+# 5. Chargement des données dans une base de données SQLite
+# Connexion à SQLite
+conn = sqlite3.connect('students_data.db')
+cursor = conn.cursor()
+
+# Créer une table pour stocker les données transformées
+cursor.execute('''
+    CREATE TABLE IF NOT EXISTS students (
+        prenom TEXT,
+        nom TEXT,
+        age INTEGER,
+        filiere TEXT
+    )
+''')
+
+# Insérer les données transformées dans la base de données
+for row in students_transformed.collect():
+    cursor.execute('''
+        INSERT INTO students (prenom, nom, age, filiere)
+        VALUES (?, ?, ?, ?)
+    ''', (row['prenom'], row['nom'], row['age'], row['filiere']))
+
+conn.commit()
+
+# 6. Sauvegarde des statistiques dans un fichier CSV
+students_stats.toPandas().to_csv('students_statistics.csv', index=False)
+
+# 7. Fermeture de la connexion SQLite
+conn.close()
+
+# Arrêter la session Spark
+spark.stop()
+
+print("Pipeline ETL terminé avec succès.")
+
+spark = SparkSession.builder.appName("ETL_Students").getOrCreate()
+
+
+schema = StructType([
+    StructField("prenom", StringType(), True),
+    StructField("nom", StringType(), True),
+    StructField("age", IntegerType(), True),
+    StructField("filiere", StringType(), True)
+])
+students_df = spark.read.schema(schema).option("header", True).csv(file_path)
+
+students_df = spark.read.schema(schema).option("header", True).csv(file_path)
+
+
+students_transformed = students_df.withColumn("prenom", upper(col("prenom"))) \
+    .withColumn("nom", upper(col("nom"))) \
+    .filter(col("age") > 20)
+students_stats = students_transformed.groupBy("filiere") \
+    .agg(avg("age").alias("moyenne_age"))
+
+
+conn = sqlite3.connect('students_data.db')
+cursor = conn.cursor()
+cursor.execute('''CREATE TABLE IF NOT EXISTS students (prenom TEXT, nom TEXT, age INTEGER, filiere TEXT)''')
+for row in students_transformed.collect():
+    cursor.execute('''INSERT INTO students (prenom, nom, age, filiere) VALUES (?, ?, ?, ?)''', (row['prenom'], row['nom'], row['age'], row['filiere']))
+conn.commit()
+
+students_stats.toPandas().to_csv('students_statistics.csv', index=False)
+
+conn.close()
+
+spark.stop()
+
+!pip install pyspark kafka-python
+
+
+!pip install kafka-python
+!sudo apt-get update && sudo apt-get install -y default-jdk
+!wget https://dlcdn.apache.org/kafka/3.5.0/kafka_2.13-3.5.0.tgz
+!tar -xzf kafka_2.13-3.5.0.tgz
+!cd kafka_2.13-3.5.0 && bin/zookeeper-server-start.sh config/zookeeper.properties &
+!cd kafka_2.13-3.5.0 && bin/kafka-server-start.sh config/server.properties &
+
+import json
+import random
+import time
+from kafka import KafkaProducer
+
+
+# Configuration du producteur Kafka
+# api_version is added in the producer settings
+producer = KafkaProducer(
+    bootstrap_servers=['localhost:9092'],  # Remplacez par votre adresse Kafka
+    value_serializer=lambda v: json.dumps(v).encode('utf-8'),
+    # The original api_version might be incompatible. Try setting it to None 
+    # to allow the producer to auto-detect the broker's version.
+    api_version=None, # (0, 10, 1)  
+    # Alternatively, if you know the broker's version, set it explicitly.
+    # For example, if your broker is version 2.8.1, use api_version=(2, 8, 1)
+    # If the broker version is 3.5.0 you should use (3,5,0)
+    # Please note: If you encounter issues with None, try (0,10,1) again.
+    request_timeout_ms=30000  # Setting a longer request timeout might help.
+)
+
+# Liste d'exemples d'étudiants
+prenoms = ["Alice", "Bob", "Charlie", "David", "Eve"]
+noms = ["Lemoine", "Dupont", "Durand", "Moreau", "Martin"]
+filieres = ["Informatique", "Mathématiques", "Biologie"]
+
+# Fonction pour générer des étudiants simulés
+def generate_student_data():
+    student = {
+        "prenom": random.choice(prenoms),
+        "nom": random.choice(noms),
+        "age": random.randint(18, 25),
+        "filiere": random.choice(filieres)
+    }
+    return student
+
+# Envoi de données dans Kafka en continu
+while True:
+    student_data = generate_student_data()
+    producer.send('students_topic', student_data)  # Envoi du message sur le topic
+    print(f"Envoyé: {student_data}")
+    time.sleep(2)  # Pause de 2 secondes pour simuler un délai entre les messages
+
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, upper, avg
+from pyspark.sql.types import StructType, StructField, StringType, IntegerType
+
+# Initialisation de la session Spark
+spark = SparkSession.builder.appName("Kafka_Consumer_Students").getOrCreate()
+
+# Définition du schéma des données étudiantes
+schema = StructType([
+    StructField("prenom", StringType(), True),
+    StructField("nom", StringType(), True),
+    StructField("age", IntegerType(), True),
+    StructField("filiere", StringType(), True)
+])
+
+# 1. Consommer les messages depuis Kafka
+students_df = spark.readStream \
+    .format("kafka") \
+    .option("kafka.bootstrap.servers", "localhost:9092") \
+    .option("subscribe", "students_topic") \
+    .load()
+
+# 2. Convertir les données Kafka (byte) en DataFrame
+# Convertir les messages Kafka en JSON, puis en DataFrame
+students_json_df = students_df.selectExpr("CAST(value AS STRING)") \
+    .select(from_json("value", schema).alias("data")) \
+    .select("data.*")
+
+# 3. Appliquer les transformations (comme dans la partie 2)
+students_transformed_df = students_json_df \
+    .withColumn("prenom", upper(col("prenom"))) \
+    .withColumn("nom", upper(col("nom"))) \
+    .filter(col("age") > 20)  # Filtrer les étudiants de plus de 20 ans
+
+# Calculer la moyenne d'âge par filière
+students_stats_df = students_transformed_df.groupBy("filiere") \
+    .agg(avg("age").alias("moyenne_age"))
+
+# 4. Afficher les résultats dans la console
+query = students_stats_df.writeStream \
+    .outputMode("complete") \
+    .format("console") \
+    .start()
+
+# 5. Sauvegarder les résultats dans un fichier (optionnel)
+students_stats_df.writeStream \
+    .outputMode("complete") \
+    .format("csv") \
+    .option("path", "students_stats_output") \
+    .option("checkpointLocation", "checkpoint_directory") \
+    .start()
+
+# Attendre la fin de la simulation
+query.awaitTermination(30)  # Attendre 30 secondes avant de s'arrêter
+
+
+./bin/zookeeper-server-start.sh config/zookeeper.properties
+./bin/kafka-server-start.sh config/server.properties
+./bin/kafka-topics.sh --create --topic students_topic --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+
+
+from kafka import KafkaProducer
+import json
+import random
+import time
+
+# Configuration du producteur Kafka
+producer = KafkaProducer(
+    bootstrap_servers='localhost:9092',
+    value_serializer=lambda v: json.dumps(v).encode('utf-8')
+)
+
+# Liste des étudiants simulés
+students = [
+    {"prenom": "Alice", "nom": "Lemoine", "age": 22, "filiere": "Informatique"},
+    {"prenom": "Bob", "nom": "Dupont", "age": 21, "filiere": "Mathématiques"},
+    {"prenom": "Charlie", "nom": "Durand", "age": 23, "filiere": "Biologie"},
+    {"prenom": "David", "nom": "Moreau", "age": 25, "filiere": "Informatique"},
+    {"prenom": "Eve", "nom": "Martin", "age": 19, "filiere": "Biologie"}
+]
+
+# Envoyer les données dans Kafka en boucle
+while True:
+    student = random.choice(students)  # Choisir un étudiant au hasard
+    producer.send('students_topic', student)
+    print(f"Envoyé : {student}")
+    time.sleep(2)  # Attendre 2 secondes avant d'envoyer de nouvelles données
+
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, upper, avg, from_json
+from pyspark.sql.types import StructType, StructField, StringType, IntegerType
+
+# Initialisation de la session Spark
+spark = SparkSession.builder.appName("Kafka_Consumer_Students").getOrCreate()
+
+# Définition du schéma des données étudiantes
+schema = StructType([
+    StructField("prenom", StringType(), True),
+    StructField("nom", StringType(), True),
+    StructField("age", IntegerType(), True),
+    StructField("filiere", StringType(), True)
+])
+
+# 1. Consommer les messages depuis Kafka
+students_df = spark.readStream \
+    .format("kafka") \
+    .option("kafka.bootstrap.servers", "localhost:9092") \
+    .option("subscribe", "students_topic") \
+    .load()
+
+# 2. Convertir les données Kafka (byte) en DataFrame
+# Convertir les messages Kafka en JSON, puis en DataFrame
+students_json_df = students_df.selectExpr("CAST(value AS STRING)") \
+    .select(from_json("value", schema).alias("data")) \
+    .select("data.*")
+
+# 3. Appliquer les transformations (comme dans la partie 2)
+students_transformed_df = students_json_df \
+    .withColumn("prenom", upper(col("prenom"))) \
+    .withColumn("nom", upper(col("nom"))) \
+    .filter(col("age") > 20)  # Filtrer les étudiants de plus de 20 ans
+
+# Calculer la moyenne d'âge par filière
+students_stats_df = students_transformed_df.groupBy("filiere") \
+    .agg(avg("age").alias("moyenne_age"))
+
+# 4. Afficher les résultats dans la console
+query = students_stats_df.writeStream \
+    .outputMode("complete") \
+    .format("console") \
+    .start()
+
+# 5. Sauvegarder les résultats dans un fichier (optionnel)
+students_stats_df.writeStream \
+    .outputMode("complete") \
+    .format("csv") \
+    .option("path", "students_stats_output") \
+    .option("checkpointLocation", "checkpoint_directory") \
+    .start()
+
+# Attendre la fin de la simulation
+query.awaitTermination(30)  # Attendre 30 secondes avant de s'arrêter
