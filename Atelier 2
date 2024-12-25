@@ -1,0 +1,116 @@
+import csv
+import random
+from datetime import datetime, timedelta
+
+# Configuration de génération de données
+num_records = 1000  # Nombre d'enregistrements
+start_date = datetime.now() - timedelta(days=30)  # Début des données : il y a 30 jours
+
+# Chemin du fichier CSV
+output_file = "environment_data.csv"
+
+# Génération du dataset
+with open(output_file, mode='w', newline='', encoding='utf-8') as file:
+    writer = csv.writer(file)
+
+    # En-tête du fichier CSV
+    writer.writerow(["timestamp", "temperature", "humidity"])
+
+    # Générer les données
+    for _ in range(num_records):
+        timestamp = start_date.strftime('%Y-%m-%d %H:%M:%S')
+        temperature = round(random.uniform(15.0, 35.0), 1)  # Température entre 15°C et 35°C
+        humidity = round(random.uniform(30.0, 90.0), 1)  # Humidité entre 30% et 90%
+
+        # Écrire une ligne dans le CSV
+        writer.writerow([timestamp, temperature, humidity])
+
+        # Incrémenter la date
+        start_date += timedelta(minutes=random.randint(5, 60))  # Ajout d'un intervalle aléatoire
+
+
+import csv
+from google.cloud import pubsub_v1
+
+# Configuration Pub/Sub
+project_id = "your_project_id"
+topic_id = "your_topic_id"
+publisher = pubsub_v1.PublisherClient()
+topic_path = publisher.topic_path(project_id, topic_id)
+
+# Lecture du fichier CSV et publication des messages
+input_file = "environment_data.csv"
+
+with open(input_file, mode='r', encoding='utf-8') as file:
+    reader = csv.DictReader(file)
+    for row in reader:
+        message = f"Timestamp: {row['timestamp']}, Temperature: {row['temperature']}°C, Humidity: {row['humidity']}%"
+        publisher.publish(topic_path, message.encode('utf-8'))
+        print(f"Published: {message}")
+
+!pip install google-cloud-pubsub
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Génération des données fictives pour simuler les capteurs IoT
+np.random.seed(42)
+timestamps = pd.date_range(start="2024-11-29 10:00:00", periods=100, freq="5min")
+temperatures = np.random.normal(loc=25, scale=2, size=100).round(1)
+humidities = np.random.normal(loc=60, scale=5, size=100).round(1)
+
+# Injection d'anomalies
+temperatures[25] = 35.0  # Anomalie haute
+temperatures[70] = 15.0  # Anomalie basse
+humidities[50] = 80.0    # Humidité anormalement élevée
+
+# Création du DataFrame
+data = pd.DataFrame({
+    "timestamp": timestamps,
+    "temperature": temperatures,
+    "humidity": humidities
+})
+
+# Calcul des moyennes et détection des anomalies
+temp_mean = data["temperature"].mean()
+temp_std = data["temperature"].std()
+humidity_mean = data["humidity"].mean()
+humidity_std = data["humidity"].std()
+
+# Détection des anomalies : en dehors de 2 écarts-types
+data["temp_anomaly"] = (data["temperature"] > temp_mean + 2 * temp_std) | (data["temperature"] < temp_mean - 2 * temp_std)
+data["humidity_anomaly"] = (data["humidity"] > humidity_mean + 2 * humidity_std) | (data["humidity"] < humidity_mean - 2 * humidity_std)
+
+# Visualisation des résultats
+fig, ax = plt.subplots(2, 1, figsize=(12, 8), sharex=True)
+
+# Température
+ax[0].plot(data["timestamp"], data["temperature"], label="Température", color="blue")
+ax[0].scatter(data["timestamp"][data["temp_anomaly"]], data["temperature"][data["temp_anomaly"]], color="red", label="Anomalies")
+ax[0].set_ylabel("Température (°C)")
+ax[0].legend()
+ax[0].set_title("Température des capteurs IoT (avec anomalies)")
+
+# Humidité
+ax[1].plot(data["timestamp"], data["humidity"], label="Humidité", color="green")
+ax[1].scatter(data["timestamp"][data["humidity_anomaly"]], data["humidity"][data["humidity_anomaly"]], color="red", label="Anomalies")
+ax[1].set_ylabel("Humidité (%)")
+ax[1].legend()
+ax[1].set_title("Humidité des capteurs IoT (avec anomalies)")
+ax[1].set_xlabel("Timestamp")
+
+plt.tight_layout()
+plt.show()
+
+# Résumé des résultats
+data_summary = {
+    "Temperature Mean (°C)": temp_mean,
+    "Temperature Std Dev (°C)": temp_std,
+    "Humidity Mean (%)": humidity_mean,
+    "Humidity Std Dev (%)": humidity_std,
+    "Temperature Anomalies Detected": data["temp_anomaly"].sum(),
+    "Humidity Anomalies Detected": data["humidity_anomaly"].sum()
+}
+
+data_summary
