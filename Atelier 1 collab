@@ -1,0 +1,487 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from google.colab import files
+uploaded = files.upload()
+
+import pandas as pd
+
+# Replace 'IOT-temp.xlsx' with the actual name of your Excel file
+data = pd.read_excel('/content/IOT-temp.xlsx') # Use pd.read_excel for Excel files
+print(data.head())
+
+import sqlite3
+import pandas as pd
+
+# Créer une base de données SQLite en mémoire
+connection = sqlite3.connect(":memory:")
+cursor = connection.cursor()
+
+# Créer une table pour stocker les données
+cursor.execute("""
+CREATE TABLE SensorData (
+    Noted_Date TEXT,
+    Sensor_ID INTEGER,
+    Temperature REAL
+)
+""")
+
+# Insérer des données dans la table
+data = [
+    ("2024-11-21 14:00", 1, 23.5),
+    ("2024-11-21 14:01", 2, 24.0),
+    ("2024-11-21 14:02", 1, 22.8),
+    ("2024-11-21 14:03", 1, 31.2),
+    ("2024-11-21 14:04", 2, 29.8)
+]
+
+cursor.executemany("INSERT INTO SensorData VALUES (?, ?, ?)", data)
+connection.commit()
+
+# Requête SQL : Température moyenne pour le capteur 1
+query_avg = "SELECT Sensor_ID, AVG(Temperature) AS AvgTemp FROM SensorData WHERE Sensor_ID = 1"
+cursor.execute(query_avg)
+print("Température moyenne pour le capteur 1 :", cursor.fetchone())
+
+# Requête SQL : Identifier les anomalies (Température > 30°C)
+query_anomalies = "SELECT * FROM SensorData WHERE Temperature > 30"
+cursor.execute(query_anomalies)
+print("Anomalies détectées :")
+for row in cursor.fetchall():
+    print(row)
+
+# Fermer la connexion
+connection.close()
+
+import sqlite3
+import pandas as pd
+
+# Charger le fichier Excel dans un DataFrame
+excel_file = "/content/IOT-temp.xlsx"
+df = pd.read_excel(excel_file)  # Use pd.read_excel for Excel files
+
+# Créer une base SQLite en mémoire
+connection = sqlite3.connect(":memory:")
+
+# Importer le DataFrame dans SQLite
+df.to_sql("SensorData", connection, if_exists="replace", index=False)
+
+# Vérifier que les données ont été importées
+cursor = connection.cursor()
+cursor.execute("SELECT * FROM SensorData LIMIT 5")
+print("Quelques exemples de données importées :")
+for row in cursor.fetchall():
+    print(row)
+
+
+query_avg_all = """
+SELECT "room_id/id" AS Sensor_ID, AVG(temp) AS AvgTemp
+FROM SensorData
+GROUP BY "room_id/id"
+"""
+cursor.execute(query_avg_all)
+print("Température moyenne pour chaque capteur :")
+for row in cursor.fetchall():
+    print(row)
+
+
+query_distinct = "SELECT DISTINCT \"room_id/id\" FROM SensorData"
+cursor.execute(query_distinct)
+print("Valeurs distinctes dans la colonne 'room_id/id' :")
+for row in cursor.fetchall():
+    print(row)
+
+
+query_distinct = "SELECT DISTINCT \"room_id/id\" FROM SensorData"
+cursor.execute(query_distinct)
+print("Valeurs distinctes dans la colonne 'room_id/id' :")
+for row in cursor.fetchall():
+    print(row)
+
+
+# Créer une table temporaire avec des valeurs nettoyées
+query_create_cleaned = """
+CREATE TABLE SensorDataCleaned AS
+SELECT *
+FROM SensorData
+WHERE "room_id/id" GLOB '[0-9]*' -- Garder uniquement les valeurs numériques
+"""
+cursor.execute(query_create_cleaned)
+
+# Vérifier les données nettoyées
+query_avg_cleaned = """
+SELECT "room_id/id" AS Sensor_ID, AVG(temp) AS AvgTemp
+FROM SensorDataCleaned
+GROUP BY "room_id/id"
+"""
+cursor.execute(query_avg_cleaned)
+print("Température moyenne pour chaque capteur (table nettoyée) :")
+for row in cursor.fetchall():
+    print(row)
+
+
+# Afficher les 10 premières lignes pour examiner un aperçu
+query_sample = "SELECT * FROM SensorData LIMIT 10"
+cursor.execute(query_sample)
+print("Échantillon de 10 lignes :")
+for row in cursor.fetchall():
+    print(row)
+
+# Compter le nombre total de lignes dans la table
+query_total_count = "SELECT COUNT(*) FROM SensorData"
+cursor.execute(query_total_count)
+print("Nombre total d'enregistrements :", cursor.fetchone()[0])
+
+# Vérifier les valeurs distinctes dans la colonne "room_id/id"
+query_distinct_room_ids = "SELECT DISTINCT \"room_id/id\" FROM SensorData"
+cursor.execute(query_distinct_room_ids)
+print("Valeurs distinctes dans 'room_id/id' :")
+for row in cursor.fetchall():
+    print(row)
+
+
+# Filtrer les données pour exclure "Room Admin"
+query_exclude_room_admin = """
+SELECT * FROM SensorData
+WHERE "room_id/id" != 'Room Admin'
+LIMIT 10
+"""
+cursor.execute(query_exclude_room_admin)
+print("Échantillon des données valides (hors 'Room Admin') :")
+for row in cursor.fetchall():
+    print(row)
+
+
+# Rechercher des doublons dans la colonne d'identifiants
+query_duplicates = """
+SELECT id, COUNT(*) AS Occurrences
+FROM SensorData
+GROUP BY id
+HAVING Occurrences > 1
+ORDER BY Occurrences DESC
+"""
+cursor.execute(query_duplicates)
+print("Doublons dans la colonne 'id' :")
+for row in cursor.fetchall():
+    print(row)
+
+
+import pandas as pd
+
+# Lire les données CSV dans un DataFrame pandas
+df = pd.read_sql("SELECT * FROM SensorData", connection)
+
+# 1. Éliminer les entrées avec 'Room Admin' dans la colonne 'room_id/id'
+df_cleaned = df[df['room_id/id'] != 'Room Admin']
+
+# 2. Supprimer les doublons basés sur l'ID, si les doublons existent (par exemple, des entrées identiques pour un même moment)
+df_cleaned = df_cleaned.drop_duplicates()
+
+# 3. Vérification et nettoyage des températures :
+# Supprimer les valeurs de température aberrantes (par exemple, des valeurs qui semblent irréalistes)
+df_cleaned = df_cleaned[df_cleaned['temp'] >= -50]  # Supposons que la température ne puisse pas être inférieure à -50°C
+
+# 4. Convertir 'noted_date' en datetime
+df_cleaned['noted_date'] = pd.to_datetime(df_cleaned['noted_date'], errors='coerce')
+
+# 5. Vérification des valeurs manquantes ou incorrectes
+df_cleaned = df_cleaned.dropna(subset=['noted_date', 'temp'])  # Supprimer les lignes avec des valeurs manquantes dans 'noted_date' ou 'temp'
+
+# 6. Afficher les 10 premières lignes pour vérification
+print("Données nettoyées :")
+print(df_cleaned.head(10))
+
+# Optionnel : Recharger ces données nettoyées dans la base de données
+# (Si tu veux enregistrer les modifications dans la base SQLite)
+df_cleaned.to_sql('SensorDataCleaned', connection, if_exists='replace', index=False)
+
+# Afficher un résumé des données nettoyées
+print("\nRésumé des données nettoyées :")
+print(df_cleaned.describe())
+
+
+import pandas as pd
+
+# Lire les données CSV dans un DataFrame pandas
+df = pd.read_sql("SELECT * FROM SensorData", connection)
+
+# 1. Afficher un échantillon des premières lignes pour mieux comprendre les données
+print("Aperçu des premières lignes avant nettoyage :")
+print(df.head(10))
+
+# 2. Vérifier s'il y a des lignes contenant 'Room Admin' dans 'room_id/id', et ajuster le nettoyage
+# Ne pas exclure les valeurs 'Room Admin'
+# Si 'Room Admin' est valide, il ne faut pas le filtrer
+df_cleaned = df.copy()  # Garder toutes les lignes
+
+# 3. Supprimer les doublons basés sur l'ID (s'il y a des doublons)
+df_cleaned = df_cleaned.drop_duplicates()
+
+# 4. Vérification des températures aberrantes :
+# On va ignorer cette étape si les températures sont toutes raisonnables
+# Sinon, tu peux ajouter une condition pour enlever les valeurs aberrantes (par exemple < -50 ou > 100)
+df_cleaned = df_cleaned[df_cleaned['temp'] > -100]  # Ajuster cette valeur en fonction des données attendues
+
+# 5. Convertir 'noted_date' en datetime
+df_cleaned['noted_date'] = pd.to_datetime(df_cleaned['noted_date'], errors='coerce')
+
+# 6. Supprimer les lignes avec des valeurs manquantes dans 'noted_date' ou 'temp'
+df_cleaned = df_cleaned.dropna(subset=['noted_date', 'temp'])
+
+# 7. Afficher les 10 premières lignes pour vérification
+print("Données nettoyées :")
+print(df_cleaned.head(10))
+
+# Optionnel : Recharger ces données nettoyées dans la base de données
+# Si tu veux enregistrer les modifications dans la base SQLite
+df_cleaned.to_sql('SensorDataCleaned', connection, if_exists='replace', index=False)
+
+# Afficher un résumé des données nettoyées
+print("\nRésumé des données nettoyées :")
+print(df_cleaned.describe())
+
+
+df_cleaned = df_cleaned[(df_cleaned['temp'] >= 0) & (df_cleaned['temp'] <= 50)]
+
+
+avg_temp_per_sensor = df_cleaned.groupby('room_id/id')['temp'].mean()
+print("Température moyenne par capteur :")
+print(avg_temp_per_sensor)
+
+
+# Calcul de la moyenne et de l'écart-type de la température
+mean_temp = df_cleaned['temp'].mean()
+std_temp = df_cleaned['temp'].std()
+
+# Détection des anomalies basées sur l'écart-type
+anomalies_by_std = df_cleaned[abs(df_cleaned['temp'] - mean_temp) > 3 * std_temp]
+
+# Définir des seuils pour les anomalies (température trop basse ou trop élevée)
+low_threshold = 0  # Température trop basse
+high_threshold = 100  # Température trop élevée
+
+# Détection des anomalies basées sur les seuils
+anomalies_by_threshold = df_cleaned[(df_cleaned['temp'] < low_threshold) | (df_cleaned['temp'] > high_threshold)]
+
+# Combiner les deux conditions pour détecter toutes les anomalies
+anomalies = pd.concat([anomalies_by_std, anomalies_by_threshold]).drop_duplicates()
+
+# Affichage des anomalies détectées
+print("Anomalies détectées :")
+print(anomalies)
+
+print("Moyenne de la température :", mean_temp)
+print("Écart-type de la température :", std_temp)
+
+print(df_cleaned['temp'].describe())
+
+
+print("Températures inférieures à 0 ou supérieures à 100 :")
+print(df_cleaned[(df_cleaned['temp'] < low_threshold) | (df_cleaned['temp'] > high_threshold)])
+
+
+# Vérification des valeurs manquantes ou incohérentes
+missing_values = df_cleaned[df_cleaned.isnull().any(axis=1)]
+print("Données manquantes :")
+print(missing_values)
+
+# Vérifier si les dates sont incohérentes
+if df_cleaned['noted_date'].is_monotonic_increasing:
+    print("Les dates sont cohérentes.")
+else:
+    print("Les dates ne sont pas cohérentes.")
+
+# Trouver les lignes où 'noted_date' est manquante ou mal formatée
+print(df_cleaned[df_cleaned['noted_date'].isnull()])
+
+
+import numpy as np
+import pandas as pd
+
+# Définir des seuils pour les anomalies (température trop basse ou trop élevée)
+low_threshold = 0
+high_threshold = 100
+
+# Calcul de la moyenne et de l'écart type pour détecter les anomalies statistiques
+mean_temp = df_cleaned['temp'].mean()
+std_temp = df_cleaned['temp'].std()
+
+# Filtrer les anomalies selon les seuils
+anomalies = df_cleaned[(df_cleaned['temp'] < low_threshold) | (df_cleaned['temp'] > high_threshold)]
+
+# Détection basée sur l'écart par rapport à la moyenne
+anomalies_stat = df_cleaned[abs(df_cleaned['temp'] - mean_temp) > 3 * std_temp]
+
+# Fusionner les anomalies pour affichage
+all_anomalies = pd.concat([anomalies, anomalies_stat]).drop_duplicates()
+
+print("Anomalies détectées :")
+print(all_anomalies)
+
+from statsmodels.tsa.arima.model import ARIMA
+import matplotlib.pyplot as plt
+
+# Convertir 'noted_date' en datetime si ce n'est pas déjà fait
+df_cleaned['noted_date'] = pd.to_datetime(df_cleaned['noted_date'])
+
+# Tracer la température au fil du temps
+plt.figure(figsize=(10, 6))
+plt.plot(df_cleaned['noted_date'], df_cleaned['temp'], label='Température observée')
+plt.xlabel('Date')
+plt.ylabel('Température')
+plt.title('Température au fil du temps')
+plt.show()
+
+# Agréger les données par jour si nécessaire (moyenne des températures)
+df_cleaned.set_index('noted_date', inplace=True)
+daily_temp = df_cleaned.resample('D')['temp'].mean()
+
+# Créer et entraîner le modèle ARIMA
+model = ARIMA(daily_temp, order=(5, 1, 0))  # (p, d, q) à ajuster
+model_fit = model.fit()
+
+# Faire une prévision sur les prochains jours
+forecast = model_fit.forecast(steps=7)  # Prévision pour 7 jours
+
+# Tracer les prévisions
+plt.figure(figsize=(10, 6))
+plt.plot(daily_temp, label='Température observée')
+plt.plot(pd.date_range(daily_temp.index[-1], periods=8, freq='D')[1:], forecast, color='red', label='Prévision')
+plt.xlabel('Date')
+plt.ylabel('Température')
+plt.title('Prévision de la température')
+plt.legend()
+plt.show()
+
+print("Prévisions des températures pour les 7 prochains jours :")
+print(forecast)
+
+
+pip install pymongo
+
+import pandas as pd
+from sqlalchemy import create_engine
+
+!apt-get install redis-server
+!pip install redis
+
+!redis-server --daemonize yes
+pip install redis
+!pip install openpyxl
+
+import redis
+import openpyxl
+import datetime
+
+# Connexion à Redis
+r = redis.Redis(host='localhost', port=6379, decode_responses=True)
+
+# Charger le fichier Excel
+file_path = "/content/IOT-temp.xlsx"
+wb = openpyxl.load_workbook(file_path)
+sheet = wb.active
+
+# Charger les données dans Redis
+header = [cell.value for cell in sheet[1]]  # Lire la première ligne comme en-tête
+for row in sheet.iter_rows(min_row=2):  # Ignorer l'en-tête
+    row_data = {header[i]: cell.value for i, cell in enumerate(row)}
+
+    # Convertir datetime en chaîne
+    row_data = {key: str(value) if isinstance(value, (datetime.datetime, datetime.date)) else value
+                for key, value in row_data.items()}
+
+    record_id = row_data['id']  # Utiliser l'ID comme clé unique
+    r.hset(f"data:{record_id}", mapping=row_data)
+
+wb.close()  # Fermer le fichier Excel
+
+print("Données insérées dans Redis avec succès !")
+
+record_id = "196134"  # Remplacez par un ID valide
+data = r.hgetall(f"data:{record_id}")
+print(f"Données pour l'ID {record_id} : {data}")
+
+
+import numpy as np
+
+# Récupérer toutes les données
+all_ids = r.keys("data:*")  # Récupère toutes les clés qui correspondent au modèle "data:*"
+temperatures = []
+
+for record_id in all_ids:
+    data = r.hgetall(record_id)
+    if "temp" in data:  # Vérifier si "temp" existe
+        temperatures.append(float(data["temp"]))  # Ajouter la température à la liste
+
+# Calcul de la moyenne
+if temperatures:
+    avg_temp = np.mean(temperatures)
+    print(f"Température moyenne : {avg_temp:.2f}")
+else:
+    print("Aucune température disponible.")
+
+mean_temp = np.mean(temperatures)
+std_temp = np.std(temperatures)
+
+anomalies = [temp for temp in temperatures if abs(temp - mean_temp) > 3 * std_temp]
+print(f"Anomalies détectées : {anomalies}")
+
+import datetime
+
+# Définir une plage de dates
+start_date = datetime.datetime(2018, 12, 8, 9, 28)
+end_date = datetime.datetime(2018, 12, 8, 9, 30)
+
+# Récupérer les données dans cette plage
+filtered_data = []
+
+for record_id in all_ids:
+    data = r.hgetall(record_id)
+    if "noted_date" in data:
+        date = datetime.datetime.strptime(data["noted_date"], "%Y-%m-%d %H:%M:%S")
+        if start_date <= date <= end_date:
+            filtered_data.append(data)
+
+print(f"Données dans la plage de dates {start_date} - {end_date} : {filtered_data}")
+
+record_id = "196134"  # Remplacez par un ID valide
+r.hset(f"data:{record_id}", "temp", 25.0)  # Mettre à jour la température
+print("Température mise à jour.")
+
+import csv
+
+with open("exported_data.csv", mode="w", newline="") as file:
+    writer = csv.writer(file)
+    # Écrire l'en-tête
+    writer.writerow(["id", "room_id/id", "noted_date", "temp", "out/in"])
+
+    for record_id in all_ids:
+        data = r.hgetall(record_id)
+        writer.writerow([data.get("id"), data.get("room_id/id"), data.get("noted_date"), data.get("temp"), data.get("out/in")])
+
+print("Données exportées vers exported_data.csv.")
+
+import time
+import random
+
+# Simuler l'ajout de nouvelles données
+while True:
+    new_id = random.randint(100000, 999999)
+    room_id = random.choice(["Room A", "Room B", "Room C", "Room Admin"])
+    noted_date = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    temp = round(random.uniform(15.0, 35.0), 2)  # Température aléatoire entre 15 et 35°C
+    out_in = random.choice(["in", "out"])
+
+    # Ajouter les données dans Redis
+    r.hset(f"data:{new_id}", mapping={
+        "id": new_id,
+        "room_id/id": room_id,
+        "noted_date": noted_date,
+        "temp": temp,
+        "out/in": out_in
+    })
+
+    print(f"Données ajoutées pour l'ID {new_id} : Température {temp}°C dans {room_id}.")
+
+    time.sleep(5)  # Pause de 5 secondes
